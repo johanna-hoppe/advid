@@ -78,7 +78,7 @@
           },
           {
             "typ": "figurtext",
-            "text": "<b>(1. Akt, 1. Szene)</b><br>"
+            "text": "<b>(1. Akt, 1. Szene)</b><br><br>"
           },
 
           {
@@ -192,7 +192,6 @@
             "typ": "figurtext",
             "text": "Christoffell von Horn. So blas ick als en gegersmahn, So gutt als ichs gelernet ha. Loß dich ach hören lieber gespan, So flihen die wulwe all davon. So sein wir diese Nacht alle drey. Hie miteinander sorgenfrey."
           },
-
           {
             "typ": "kontext",
             "text": "Der 3 Hirt. Henrich von Lewen. Lieben gesellens hörtt mein Klagen, Die Keltt wil mit fast gar veriagen, Vor frost ich zitter mit dem Horn, Mein blosen ist heutt alle verlorn. So kalte nacht ich nie endtpfandt, So lang ich huet up dessen Landt. Die Himell Rött tigt ok was an, Wiwol icks nicht verstehen kan. Datt gewolk verschwinget ganz undt gar, Omb uns ist es schön hell undt chlar, Welcher weis nun was das bedeudt.<br>Bernhardt von Nötschow. I ga, ett is uppestede in kolle thidt, Die gewönlig mack ene klare nacht.<br>Henrich von Lewen. Mick dücht ick hore en Engellsingen, In himell, das als thutt Erklingen."
@@ -215,7 +214,7 @@
           },
           {
             "typ": "figurtext",
-            "text": "<b>(1. Akt, 1. Szene)</b><br>"
+            "text": "<b>(1. Akt, 1. Szene)</b><br><br>"
           },
 
           {
@@ -248,7 +247,11 @@
           },
           {
             "typ": "figurtext",
-            "text": "Christoffell von Horn. Ja trauen es ist mir och kein schwangk, Die gnade ist uns worden zutheill, Das ware licht, undt Ewige heill, Dadurch wir hie auf dieser Erden, Aus gnaden sollen selig werden, Das Licht erleucht iederman, O wenig das Licht nehmen an, Die welt ist zwar durchs licht gemacht, Doch sie des lichts gar wintzig acht. Noch dennoch han wir schaffer recht, Weil Gott ist worden unser geschlecht, In Ewigkeitt wir loben dich, Nu zih ich mit freuden zu dem vih. <i>Alhier Bereiten die drey Engelein den Kindlein Jesus essen, wermen In die windelein, undt beschenken es mit allerley spillwergk.</i><br><b>(1. Akt, 3. Szene)</b>"
+            "text": "Christoffell von Horn. Ja trauen es ist mir och kein schwangk, Die gnade ist uns worden zutheill, Das ware licht, undt Ewige heill, Dadurch wir hie auf dieser Erden, Aus gnaden sollen selig werden, Das Licht erleucht iederman, O wenig das Licht nehmen an, Die welt ist zwar durchs licht gemacht, Doch sie des lichts gar wintzig acht. Noch dennoch han wir schaffer recht, Weil Gott ist worden unser geschlecht, In Ewigkeitt wir loben dich, Nu zih ich mit freuden zu dem vih. <i>Alhier Bereiten die drey Engelein den Kindlein Jesus essen, wermen In die windelein, undt beschenken es mit allerley spillwergk.</i>"
+          },
+          {
+            "typ": "figurtext",
+              "text": "<b>(1. Akt, 3. Szene)</b>"
           }
         ]
       },
@@ -319,7 +322,11 @@
           },
           {
             "typ": "figurtext",
-            "text": "Henrich von Lewen. Wie ist doch ein geschrei in der lufft, Woltt Gott ich wust ein höle klufft, Wir woltenn altumall hinnein, Zu endtflihen dem hellen schein.<br><b>(1. Akt, 1. Szene)</b><br>"
+            "text": "Henrich von Lewen. Wie ist doch ein geschrei in der lufft, Woltt Gott ich wust ein höle klufft, Wir woltenn altumall hinnein, Zu endtflihen dem hellen schein."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(1. Akt, 1. Szene)</b><br><br>"
           },
 
           {
