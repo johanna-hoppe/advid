@@ -1,0 +1,156 @@
+body {
+  font-family: "Helvetica Neue", sans-serif;
+  background-color: #f2f4f8;
+  margin: 0;
+  padding: 20px;
+  color: #333;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  background: white;
+  padding: 30px;
+  box-shadow: 0 0 0 1px #ccc;
+}
+
+h1, h2, h3 {
+  color: #2c3e50;
+  margin-bottom: 0.5em;
+}
+
+.header h1 {
+  font-size: 26px;
+  margin-bottom: 10px;
+}
+
+.search-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.search-container input {
+  flex-grow: 1;
+  padding: 10px 14px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+  background: #fff;
+}
+
+.search-container button {
+  padding: 10px 14px;
+  border: none;
+  background-color: #4A5A7D;
+  color: white;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+#filters {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+.filter-group {
+  width: 120px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.filter-group label {
+  font-size: 11px;
+  color: #4A5A7D;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.filter-group select {
+  font-size: 12px;
+  padding: 4px 6px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.result-item {
+  background: #ffffff;
+  padding: 20px;
+  border: 1px solid #4A5A7D;
+  margin-bottom: 20px;
+}
+
+.result-item .highlight {
+  background-color: yellow;
+  font-weight: bold;
+}
+
+.figurtext {
+  color: #222;
+  font-style: normal;
+}
+
+.kontext {
+  color: #888;
+  font-style: italic;
+}
+
+.abschnitt-preview {
+  display: block;
+  overflow: hidden;
+  line-height: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+.toggle-abschnitt {
+  background: none;
+  border: none;
+  color: #4A5A7D;
+  font-weight: bold;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.export-container {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 20px;
+}
+
+.export-container button {
+  padding: 10px 16px;
+  background-color: #4A5A7D;
+  color: white;
+  border: none;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.export-container button:hover {
+  background-color: #364766;
+}
+
+.fixed-logo {
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+  width: 100px;
+}
+
+footer {
+  color: #4A5A7D;
+  font-size: 13px;
+  margin-top: 40px;
+  text-align: center;
+}
+
+.footer-text {
+  margin-top: 40px;
+}
