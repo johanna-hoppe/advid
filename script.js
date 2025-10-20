@@ -153,7 +153,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     dataToExport.forEach(entry => {
       const abschnittVolltext = entry.abschnitt_segmentiert
-        .map(s => s.text.replace(/<br>/g, " ").replace(/<em>/g, " ").replace(/<\/em>/g, " ").replace(/<i>/g, " ").replace(/<\/i>/g, " ").replace(/<b>/g, " ").replace(/<\/b>/g, " ").replace(/  /g, " "))
+        .map(s => s.text.replace(/<br>/g, " ").replace(/<em>/g, " ").replace(/<\/em>/g, " ").replace(/<i>/g, " ").replace(/<\/i>/g, " ").replace(/<b>/g, " ").replace(/<\/b>/g, " "))
         .join(" ");
 
       const figurtext = entry.abschnitt_segmentiert
@@ -181,7 +181,7 @@ document.addEventListener("DOMContentLoaded", () => {
         abschnittVolltext,
         figurtext,
         entry.original_link || ""
-      ].map(val => val?.toString().replace(/\t/g, " ").replace(/\n/g, " ").trim() ?? "");
+      ].map(val => val?.toString().replace(/\t/g, " ").replace(/\n/g, " ").replace(/  /g, " ").trim() ?? "");
 
       tsv.push(row.join("\t"));
     });
