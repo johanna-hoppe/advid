@@ -77,8 +77,8 @@
             "text": "<i>Musica. Alhier fehret ein gepaptes Engelchen samp zween Sternen mit Rackötthen an einer Leinen herrunter, davon die Hirten furchtsam und Erschroken sein.</i><br>Henrich von Lewen. Wie ist doch ein geschrei in der lufft, Woltt Gott ich wust ein höle klufft, Wir woltenn altumall hinnein, Zu endtflihen dem hellen schein."
           },
           {
-            "typ": "szene",
-            "text": "(1. Akt, 1. Szene) "
+            "typ": "figurtext",
+            "text": "(1. Akt, 1. Szene)<br><br>"
           },
 
           {
@@ -134,7 +134,7 @@
             "text": "Christoffell von Horn. Ja trauen es ist mir och kein schwangk, Die gnade ist uns worden zutheill, Das ware licht, undt Ewige heill, Dadurch wir hie auf dieser Erden, Aus gnaden sollen selig werden, Das Licht erleucht iederman, O wenig das Licht nehmen an, Die welt ist zwar durchs licht gemacht, Doch sie des lichts gar wintzig acht. Noch dennoch han wir schaffer recht, Weil Gott ist worden unser geschlecht, In Ewigkeitt wir loben dich, Nu zih ich mit freuden zu dem vih. <i>Alhier Bereiten die drey Engelein den Kindlein Jesus essen, wermen In die windelein, undt beschenken es mit allerley spillwergk.</i>"
           },
           {
-            "typ": "szene",
+            "typ": "figurtext",
             "text": "(1. Akt, 3. Szene)"
           }
         ]
