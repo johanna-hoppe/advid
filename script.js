@@ -153,12 +153,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
     dataToExport.forEach(entry => {
       const abschnittVolltext = entry.abschnitt_segmentiert
-        .map(s => s.text.replace(/<br>/g, " ").replace(/<em>/g, "").replace(/<\/em>/g, "").replace(/<i>/g, "").replace(/<\/i>/g, "").replace(/<b>/g, "").replace(/<\/b>/g, ""))
+        .map(s => s.text.replace(/<br>/g, " "))
         .join(" ");
 
       const figurtext = entry.abschnitt_segmentiert
         .filter(s => s.typ === "figurtext")
-        .map(s => s.text.replace(/<br>/g, " ").replace(/<em>/g, "").replace(/<\/em>/g, "").replace(/<i>/g, "").replace(/<\/i>/g, "").replace(/<b>/g, "").replace(/<\/b>/g, ""))
+        .map(s => s.text.replace(/<br>/g, " "))
         .join(" ");
 
       const row = [
