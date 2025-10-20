@@ -158,7 +158,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       const figurtext = entry.abschnitt_segmentiert
         .filter(s => s.typ === "figurtext")
-        .map(s => s.text.replace(/\n/g, " ").replace(/\t/g, " "))
+        .map(s => s.text.replace(/<br>/g, " ").replace(/<em>/g, "").replace(/<\/em>/g, "").replace(/<i>/g, "").replace(/<\/i>/g, "").replace(/<b>/g, "").replace(/<\/b>/g, ""))
         .join(" ");
 
       const row = [
