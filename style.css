@@ -102,6 +102,12 @@ h1, h2, h3 {
   font-style: normal;
 }
 
+.szene {
+  color: #222;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
 .abschnitt-preview {
   display: block;
   overflow: hidden;
