@@ -1,6 +1,1634 @@
 [
 
     {
+        "id": "Witzling01",
+        "theaterstück": {
+          "titel": "Der Witzling. Ein deutsches Nachspiel in einem Aufzuge",
+          "zeit": "1745",
+          "druckort": "Leipzig",
+          "auffuehrungshinweise": "Der Schauplatz ist auf Jungfer Lottchens Zimmer [Leipzig]. Die Handlung fängt gleich nach der Mittagsmahlzeit an, und endiget sich gegen 5 Uhr."
+        },
+        "autor": {
+          "name": "Luise Adelgunde Victorie Gottsched",
+          "herkunft": "Ndt.",
+          "orte": ["Danzig", "Leipzig"],
+          "lebensdaten": "1713-1762"
+        },
+        "figur": {
+          "name": "Herr Vielwitz",
+          "rolle": "Student",
+          "beschreibung": "spricht Niedersächsisch; ein junger Mensch, der nur unlängst Studierens wegen nach Leipzig gekommen, und bey dem Herrn Reinhart im Hause wohnet"
+        },
+        "dialekt": {
+          "adaption": "Heteroadaption",
+          "dialekt_grossraum": "Ndt."
+        },
+        "geokoordinaten": {
+          "herkunft_autor": {
+            "lat": 54.350556,
+            "lng": 18.652778
+          },
+          "herkunft_figur": { 
+            "lat": null,
+            "lng": null
+          }
+        },
+        "abschnitt": "[tbd]",
+        "original_link": "https://dracor.org/ger/gottschedin-der-witzling",
+        "abschnitt_segmentiert": [
+          {
+            "typ": "kontext",
+            "text": "Jungfer Lottchen; Herr Reinhart; Herr Vielwitz kömmt mit dem Hute auf dem Kopfe herein, und nimmt ihn erst ab, nachdem er die Thüre zugemacht hat."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz sehr gravitätisch. Ihr gehorsamer Diener meine liebe Demoiselle! Ihr ergebner Diener, Herr Reinhart!"
+          },
+          {
+            "typ": "kontext",
+            "text": "Jungfer Lottchen. Ihre Dienerinn, Herr Vielwitz. Regnet es etwa draußen im Vorsaale?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz sich verwundernd und lächelnd. Im Vorsaale? nein!"
+          },
+          {
+            "typ": "kontext",
+            "text": "Jungfer Lottchen. Ich glaube es wohl. Aber ich vermuthete etwas dergleichen; weil Sie mit dem Hute auf dem Kopfe herein kamen.<br>Herr Reinhart. Sein Herr Vater kömmt allezeit so auf seine Schreibstube.<br>Jungfer Lottchen lächelnd. Ja, da sitzen auch seine Kaufmannsdiener; aber hier nicht."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Ländlich, sittlich. Bey mich kömmt niemand anders in einer Stube, als mit den Hut auf den Kopf."
+          },
+          {
+            "typ": "kontext",
+            "text": "Jungfer Lottchen. Ja, ja! grobe Moden, sind auch Moden. Setzen Sie sich doch.<br>Sie setzen sich, Jungfer Lottchen klingelt.<br>Herr Reinhart. Sind Sie etwa ausgegangen gewesen, mein Herr Vielwitz?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Ja, heute Vormittage bin ich in etliche Collegia gewesen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Jungfer Lottchen. Nun, wie haben Ihnen unsere Lehrer gefallen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz zuckt die Achseln. Was das für schlechte Leute sind! Wie werde ich noch meine Präceptores zu Hause bedauren! Nein! so was elendes hätte ich mich nicht vermuthet."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart erstaunt. Wie? bey wem sind Sie denn gewesen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz verächtlich. Ach! ich mag die lieben Leute nicht nennen! Sie stehn einmal in einem gewissen Ansehn bey der Welt.<br>Lächelnd.<br>Sie mögen ihren Ruhm genießen! ich will sie nicht zu Boden schlagen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Jungfer Lottchen. Ihr Urtheil würde sie vielleicht auch wohl nicht gleich zu elenden Leuten machen: wenn es gleich Männer sind, die, wie Sie sagen, schon ein Ansehen in der Welt erhalten haben."
+          },
+          {
+            "typ": "figurtext",
+            "text": "(3. Auftritt)<br>"
+          },
+          
+          {
+            "typ": "kontext",
+            "text": "Die Vorigen. Paul.<br>Paul zu Jungfer Lottchen. Was befehlen Sie?<br>Jungfer Lottchen. Bringt Caffee!<br>Der Diener gebt ab.<br>Herr Reinhart lächelnd. Sie werden also Ihren Zweck hier sehr schlecht erreichen, da Sie studierens wegen hergekommen sind?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Studierenswegen bin ich eben nicht <em>hiergekommen</em>. Ich habe nur im Sinne gehabt, das was ich zu Hause gehöret, nicht ganz und gar zu vergessen! Allein ehe ich das elende Zeug anhören wollte, ehe wollte ich in ein Jahr nicht aus <em>meine</em> Stube gehen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Jungfer Lottchen. Ey: wenn ich an Ihrer Stelle wäre, so reisete ich gleich wieder nach Hause, und wiese den Leipzigern, auf was für Lehrer sie sich erst geschickt machen müßten, wenn ich bey ihnen studieren sollte."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Es ist nun in meiner Vaterstadt der Schlendrian, daß wir erst drey oder vier Jahre auf die hohen Schulen das vergessen müssen, was wir zu Hause gelernet haben."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Das ist ja erbärmlich!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Jungfer Lottchen. Schade, um so viel treffliche Gelehrsamkeit!"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Zum mindesten aber könnten Sie doch in dieser Zeit der Welt mit Schriften dienen. Es giebt ja mehr große Geister, die kaum von der Schule kommen, und auf der Akademie nichts zu thun wissen, als daß sie gleich Scribenten werden."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Ich habe freylich an Leibnitzens seiner Infinitesimalrechnung und an des Aristoteles Poetik verschiedene wichtige Puncte auszusetzen gefunden. Vielleicht mache ich <em>mir</em> einmal darüber. Allein wie viel gute Namen wird das nicht kosten. Wie viel Stümper werden da nicht zum Vorscheine kommen! die man bisher für große Leute gehalten, und die doch diesen zween Leuten alles nur so treuherzig nachgebethet haben."
+          },
+          {
+            "typ": "kontext",
+            "text": "Jungfer Lottchen lächelnd. Ey! mit denen wollte ich gar kein Mitleiden haben. Wenn sie solche blinde Affen gewesen sind: so mögen sie sichs auch gefallen lassen, daß sie mit zu Schanden werden.<br>Hier kömmt der Diener und bringt einen Caffeetisch mit dem Geräthe, Jungfer Lottchen schenkt ein."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Es taugt hernach, wenn ich meine Anmerkungen über dem Aristoteles fertig habe, darinn ich seine Regeln widerlege, keine Poetik, weder bey <em>die</em> Franzosen, noch bei <em>die</em> Deutschen was."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Haben wir denn dieß Werk bald zu hoffen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Das kann ich nicht sagen. Es liegt zwar schon fertig: denn ich habe es, die Wahrheit zu sagen, gemacht, wie ich noch in <em>die</em> Schule auf Secunda war: allein wenn man doch schon eine gewisse Reputation für sich hat ..."
+          },
+          {
+            "typ": "kontext",
+            "text": "Jungfer Lottchen. Freylich! die darf man so nicht ins Gelag hinein wagen. Zumal wenn sie noch so frisch ist. Sie giebt ihm ein Schälchen Caffee, dem Reinhart auch."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz trinkt. Das ist ein schöner Caffee! Mademoiselle, was geben Sie davor."
+          },
+          {
+            "typ": "kontext",
+            "text": "Jungfer Lottchen. Ey! solche große Gelehrten, die müssen nicht wissen, was solche Kleinigkeiten in der Haushaltung kosten!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Ja, das ist nun einmal meine Schwachheit, daß ich das alles wissen muß. <em>Da kann ich nicht vor.</em> Ich will es Ihnen sagen. <em>Vor</em> den Caffee haben Sie höchstens 20 Gr. gegeben: denn bey uns kostet er 16 Gr. schwer Geld."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Nun das ist wahr! Ich schmecke wohl, daß der Caffee sehr gut ist: aber zu schmecken: was er kostet, dazu ist meine Zunge zu dumm."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz nimmt ein Stück Zucker vom Schälchen. Und <em>vor</em> den Zucker?<br>Er besieht ihn.<br>Wo Sie <em>vor</em> den Zucker mehr als 22 Rthlr. <em>vor</em> den Centner gegeben haben! so sind Sie betrogen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Sie haben von Ihrem Herrn Vater die Preise besser gelernet, als ich von meinem.<br>Jungfer Lottchen. Nein, Herr Vielwitz, ich verliere alle Hochachtung gegen Ihre zukünftige gelehrte Schriften; wo Sie die Preise von mehrern Eßwaaren wissen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "(4. Auftritt)<br>"
+          },
+
+          {
+            "typ": "kontext",
+            "text": "Die Vorigen. Herr Sinnreich. Herr Jambus. Sie kommen mit ungezogenen wilden Minen ins Zimmer. Reinhart empfängt sie.<br>Herr Reinhart. Ihr Diener meine Herren. Hier sehen Sie den Herrn Vielwitz, einen jungen Menschen aus Niedersachsen, der unserer Universität die Ehre thun, und hier studieren will.<br>Herr Sinnreich. Ihr Diener, mein Herr, ich bin erfreut, <em>Ihnen</em> zu sehen.<br>Herr Jambus. Es ist mir ein Vergnügen, <em>Ihnen</em> kennen zu lernen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Es ist <em>mich</em> herzlich angenehm, ein Paar solche Männer hier zu sehen, <em>von die</em> der Herr Reinhart <em>mich</em> so viel Gutes gesagt hat."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Setzen Sie sich doch.<br>Sie laufen beide in eine Ecke des Zimmers und legen die Hüte und die Degen ab. Jungfer Lottchen will sich darüber aufhalten. Reinhart aber winkt ihr, sie soll es nur lassen gut seyn. Sie setzen sich zum Caffeetische. Jungfer Lottchen schenkt einem jeden Caffee ein.<br>Herr Jambus der allemal sehr schreyet. Ist es schon lange mein Herr Vielwitz, daß wir die Ehre haben, <em>Ihnen</em> hier zu sehen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Es ist erst vierzehn Tage."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Sinnreich. Wo logieren Sie denn?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Ich bin hier bey dem Herrn Reinhart <em>ins Haus</em>."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Jambus. <em>Haben Sie in Willens</em> lange hier zu bleiben?<br>Jungfer Lottchen. Ey, was? meine Herren, Sie müssen mit dem Herrn Vielwitz solche gleichgültige Dinge, nicht reden. Er ist ein großer Poet.<br>Herr Jambus. Ein Poet?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Zu dienen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Und ein Mathematicus dazu!<br>Herr Sinnreich. Ein Mathematicus? Wie haben Sie sich denn bis zum Dichter erniedrigen können?<br>Herr Jambus. Ey, mein lieber Herr Sinnreich, es hat eher gescheide Poeten gegeben, als gescheide Mathematicos.<br>Herr Sinnreich. Ey, Herr Jambus, wir sind gute Freunde: aber in das Alter der Mathematik müssen Sie nicht pfuschen. Sie möchten sonst eine Sau machen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Es ist wahr, die Mathematik ist das Edelste, was ein denkendes Wesen lernen und wissen kann."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Sinnreich. Sie ist die einzige Wissenschaft, die Wahrheiten aufzuweisen hat: mit allen andern ist es lauter Ungewißheit. O Meßkunst! Zaum der Phantasie, Wer dir nur folget, irret nie! Wer ohne dich will gehn, der gleitet!<br>Jungfer Lottchen spöttisch. Es ist wohl wahr; daß 2 mal 2 4 ist, das ist eine viel gewissere Wahrheit, als daß die Sonne hell scheint!<br>Herr Reinhart lachend. Ich möchte gleichwohl lieber ein Capitel von Leibnitzens Theodicee gemacht haben, als der Erfinder des Einmal Eins seyn: was für ewige Wahrheiten auch immer darinnen stehen.<br>Zu Jungfer Lottchen.<br>Ich bleibe mit Fleiß bey dem Gleichnisse, was Sie aus der Arithmetik genommen haben: ungeachtet sie nur ein Theil der Mathematik ist.<br>Herr Sinnreich. Ich streite Ihnen nicht, daß Leibnitz ein großer Mann gewesen! das macht aber, er war ein großer Mathematicus.<br>Herr Reinhart zeigt auf Vielwitzen. Da sitzt aber ein Mann, der an der Leibnitzischen Infinitesimalrechnung sehr viel auszusetzen hat.<br>Herr Sinnreich sieht ihn von oben bis unten an. Sie? an Leibnitzens Infinitesimalrechnung?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz sieht ihn wieder so an. Ja, mein Herr. Ich bin nicht gern ein blinder Verehrer von <em>die</em> großen Leute. Ich untersuche gern alles, und da finde ich, daß sie alle irrende Menschen gewesen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Sinnreich voll Verwunderung. Nun? z. E.: was haben Sie denn daran auszusetzen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz hochmüthig. Das wird sich zeigen, wenn mein Werk herauskommen wird."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Sie müssen wissen, daß der Herr Vielwitz sein Werk schon auf der Schule, als ein Secundaner, geschrieben hat. Es ist also schon fertig.<br>Herr Sinnreich sich verwundernd. Auf der Schule? Sind Sie auf einer Schule gewesen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Ja, mein Herr. Meines wissens bringt man das Latein nicht mit auf die Welt. Sind Sie etwa auf keiner Schule gewesen?"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Sinnreich. Es wäre eben so gut, wann es unterblieben wäre! Ich habe doch von keinem Lehrer was gelernet, als von dem Mathematico: das ist noch der einzige, von dem ich was gelernet habe!<br>Jungfer Lottchen lachend. Haben Sie denn das Lesen und Schreiben schon die ersten acht Tage Ihres Lebens gekonnt?<br>Herr Jambus. Nun, das könnte wohl seyn! Wenigstens kann ich ihm das Zeugniß geben, daß er so schreibt, als ich in meinem ersten Jahre auch hätte schreiben wollen.<br>Herr Reinhart lachend. Ja, Herr Sinnreich, Ihre Liebste wird sich erst einmal an D. Fausts Zauberzeichen üben müssen, ehe sie Ihre Hand wird lesen können.<br>Herr Sinnreich stolz. Docti male pingunt! Indessen, um wieder auf die Schulen zu kommen; so wird man da nur mit lauter Ungewißheiten gequälet. Mit der philosophischen Ungewißheit, mit der juristischen, medicinischen, oratorischen, historischen, poetischen und tausend andern Ungewißheiten: so daß noch das einzige Wahre, was man höret, die Mathematik ist.<br>Herr Reinhart lachend. Also, mein Herr Sinnreich, alles was Sie außer der Mathematik gelernet haben, das ist erlogen?<br>Herr Sinnreich. Es giebt wohl einige Arten von halben Gewißheiten, oder Wahrscheinlichkeiten, in den andern Wissenschaften; allein auf die kann ein Kopf, der zu den ewigen Wahrheiten gebohren ist, allenfalls von sich selbst kommen. Dazu hätte ich keine Lehrer nöthig gehabt!<br>Jungfer Lottchen. Nun es ist mir lieb, daß ich keiner von Ihren Lehrern gewesen bin. Das würde mir ein wenig undankbar vorkommen!<br>Herr Sinnreich. Wenn Sie mir die Ehre thun, und meine Lehrmeisterinn werden wollen; so will ich Ihnen gern alle meine Wissenschaften verdanken."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Sie werden also wohl schon etwas mathematisches geschrieben haben? Darf ich <em>mich</em> wohl etwas davon zu sehen ausbitten?"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Sinnreich. In etwa vierzehn Tagen, werde ich <em>Sie</em> mit einer Dissertation aufwarten können."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Wovon wird sie handeln?"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Sinnreich. Von dem Maaße des Winkels der Abweichung derer Gesichtsstralen, womit ein Schielender einen Gegenstand ansieht."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Das ist eine neue Materie!"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Sinnreich. Was ich davon sagen werde, das wird auch alles ganz neu seyn. Die Erfindungen <em>gehören</em> alle <em>meine</em>: und ich habe deswegen kein optisches Werk, ja nicht einmal den Newton nachgeschlagen: ungeachtet dieser noch das einzige Buch ist, das man sich nicht schämen darf, gelesen zu haben."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Ich bin recht neugierig, das zu lesen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Sinnreich. Die Beweise schließe ich allemal mit einer oder zwey Zeilen aus einem mathematischen Poeten, als Pope, Gebhardi, oder dergleichen.<br>Herr Jambus. Nun, da sehen wirs! vorhin wollten Sie die Poesie herunter machen, und jetzt spicken Sie Ihre mathematischen Abhandlungen damit aus.<br>Herr Sinnreich. Ey Poesie und Poesie ist sehr unterschieden: Ich meyne nicht die Wiegenliederpoeten, wie Opitz, Canitz, Besser, Neukirch, Günther, und andere Dichter; sondern diejenigen, darinn man, das Wahre, das Schöne, das Hohe, das Tiefe, das Dunkele, das Gedachte, das Schalkhafte ... kurz, alles, was man nur abstract nennen kann, antrifft.<br>Jungfer Lottchen lachend. Abstract? könnte man das nicht das Abgezogene nennen?<br>Herr Reinhart lacht. a ja! das <em>Abgezogene</em> in Gedichten. Das ist sehr schön und <em>abgezogen</em> gesagt!<br>Herr Jambus. Nun Herr Sinnreich, Sie haben anjetzt den Herren Vielwitz lange genug unterhalten; nunmehr lassen Sie mich auch einmal mit der Dichtkunst daran kommen. Es ist ganz unnatürlich, daß ein Poet so lange schweigen und zuhören soll.<br>Herr Sinnreich. Meinethalben! Ich werde zum mindesten von der Poesie auch mit reden können. Dahingegen Sie von der Mathematik schweigen, und uns allein reden lassen mußten.<br>Herr Jambus zum Vielwitze. Sie haben unfehlbar schon viel schönes drucken lassen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Nein, das eben nicht. Aber ich denke dennoch, daß meine Arbeiten hier nicht unbekannt seyn können."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Sinnreich. Ich besinne mich nicht; etwas von <em>Sie</em> gelesen zu haben."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz erstaunt. Haben Sie nicht vergangenen August die Cantate auf dem Schellhaferischen Saale gehört?"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Jambus. Nein. Haben Sie die etwa gemacht?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Ja. Der Componist schrieb an <em>mir</em> und ersuchte <em>mir</em>, ich möchte ihm die Ehre thun und ihm eine Cantate machen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart zu den andern. Ey! meine Herren, das sollten Sie dem Manne nicht für ungenossen ausgehen lassen! Was? Zween solche körnichte Dichter in der Stadt zu haben, und noch nach Niedersachsen zu gehen, wenn man was schönes haben will? Das litte ich nicht!<br>Sie schütteln die Köpfe. Lottchen lacht."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Ich mochte es ihm auch nicht abschlagen: denn ich dachte, es könnte des ehrlichen Mannes Glück seyn. Wenn er aber so dumm gewesen ist, und hat meinen Namen nicht darzu drucken lassen: <em>Da</em> habe ich nicht schuld <em>an</em>! Da kann ich nicht <em>vor</em>."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Sinnreich. Nein, wir haben hier nichts davon gewußt."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Das ist ein dummes <em>Beest</em>! Bey <em>mich</em> hat sich ein Componist Haus und Hof mit einer von meinen Cantaten verdient: sie war <em>mich</em> aber auch schön gerathen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. O! daran ist kein Zweifel."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Indessen, die ich <em>nach hier</em> machte, war auch schön: denn ich dachte, du mußt doch die Leipziger was hermachen, das eine Art hat! In <em>eine</em> Arie hatte ich aus der <em>Algebra</em> was angebracht. Das war recht schön. Ich hatte <em>mich</em> aber auch viel Mühe gegeben ... kann ich <em>mir</em> nicht noch darauf besinnen?<br>Er sinnt nach."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Jambus. Bedienen Sie sich auch der Participiorum, Herr Vielwitz?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Ey! die sind meine beste Zierde! Die Cantate war recht voll davon."
+          },
+          {
+            "typ": "kontext",
+            "text": "Jungfer Lottchen. Was sind das für Dinger, Herr Reinhart?<br>Herr Reinhart lächelnd. Das ist eben das, als wenn ich Ihnen sagte: <em>zu kalt zum Trinken</em>, wird der Caffee wohl weggeräumt werden müssen.<br>Jungfer Lottchen lacht. So so! und: <em>Nicht gebohren zum aufwarten</em>, werde ich wohl den Diener rufen müssen.<br>Sie steht auf; die andern lachen und Jambus aus vollem Halse: so daß sich Lottchen die Ohren zuhält und abgeht."
+          },
+          {
+            "typ": "figurtext",
+            "text": "(5. Auftritt)<br>"
+          },
+          
+          {
+            "typ": "kontext",
+            "text": "Herr Jambus. Das ist mir eine herzliche Freude, daß ich höre, daß Sie die Participia lieben.<br>Herr Sinnreich. Mir ebenfalls. Ohne Participia kann man gar nichts denken."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Und <em>für einem</em> Verse, der nicht gedacht ist, da stehe ich nicht vor auf."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart lachend. O freylich! Und gedacht, das heißt wacker undeutsch geredet."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Ey, das macht, Sie haben sich in <em>der</em> deutschen Schaubühne verliebt, drum finden Sie keinen Geschmack an klugen Versen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. So? das heißt, in der deutschen Schaubühne steht lauter dummes Zeug?<br>Herr Sinnreich. Nun, wer poetische Wassersuppen lesen will, der kann sie gewiß da finden."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Ey meine Herren, es ist <em>mich</em> eine rechte Freude, daß Sie auch hierinnen meiner Meynung sind. Ein einzig Stück nehme ich aus; davon ist der Verfasser mein guter Freund. Aber die andern taugen alle nichts."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Jambus. Sie meynen etwa das erste Stück in einem gewissen Bande? Ja, ja! Es heißt doch aber auch zuweilen: bonus dormitat Homerus."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Alle Zeilen sind freylich nicht gedacht. Indessen ubi plura nitent in carmine etc. diese Regel brauche ich zwar sonst bey keinem Gedichte: aber weil dieß mein guter Freund ist!"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Sinnreich. Die andern sind alle <em>unendlich unter</em> dem!<br>Herr Jambus. Das <em>Matte</em>, das <em>Kalte</em>, das <em>Unwahrscheinliche</em> ...<br>Herr Reinhart lächelnd. <em>Das sich nicht Lesenlassende?</em> Nicht wahr?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Freylich, ich weis nichts ungeschickters, als der Jean de France, der sich auf dem Theater das Kleid abzieht.<br>Er lacht hönisch."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Jambus. Und der dumme Schöps, der im Menschenfeinde die Participia lächerlich machen will!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Nein! ich hätte <em>mich</em> in einem solchen Werke doch bessere Sachen vermuthet. <em>Da</em> wird unsere Zeit keine Ehre von haben."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Sinnreich. Sollen das Meisterstücke seyn?<br>Herr Reinhart. Wo hat denn der Herausgeber welche versprochen?<br>Herr Jambus heftig. Aber wir fordern welche!<br>Herr Reinhart lacht sehr. Ganz gut. Wenn er einmal für Sie ganz allein eine Schaubühne herausgeben wird: so wird er sich vielleicht auf welche befleißigen, oder sich Ihre eigene Arbeiten ausbitten, die Sie doch wohl für Meisterstücke werden gelten lassen. <stage>Es kömmt ein Diener und nimmt den Caffeetisch weg.</stage> Anjetzt aber ist seine Absicht nur gewesen, Stücke zu liefern, die nicht so sehr wider die Regeln verstießen, und den Comödianten Sachen zu liefern, die viel gesitteter und gescheidter wären, als das elende Zeug, was sie bisher fast überall gespielt haben. Das werden Sie doch den Stücken in der Schaubühne nicht absprechen können.<br>Herr Jambus sie lachen alle drey spöttisch. Sie meynen doch auch die Banise?<br>Herr Reinhart. Ja, ja, auch die! denn sie ist doch unendlich besser, als die alte prosaische Banise, die man gleichwohl noch immer spielt, so dumm als sie ist. Setzen Sie sich aber nur hin, und machen Sie eine bessere, wenn Ihnen diese nicht gefällt. Das wird den Herausgeber nicht verdrießen, sondern ihm eine wahre Freude seyn.<br>Herr Jambus lacht sehr.<br>Herr Reinhart. O das ist eine kluge Antwort! mich dünkt doch, es giebt keine bessere Art zu beweisen, daß eine Sache schlecht sey, als wenn man sich geschwinde hinsetzt, und was bessers macht."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Wir verstehn das Theater auch ein wenig, mein Herr Reinhart."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Nun gut. Wo sind denn die Meisterstücke, die Sie gemacht haben? Ich sehe sie doch noch nicht."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. So müssen Sie gewiß noch nicht das Päckchen gelesen haben, was ich Ihnen gestern Abends mit gab. Ich habe freylich einige gemacht."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Nein, ich bin heute Vormittags sehr beschäfftigt gewesen.<br>Herr Jambus. Und von meinen Sachen haben Sie genug gelesen?<br>Herr Reinhart. Ja. Nur daß ich daran gewiß eben so viel auszusetzen hätte, als Sie an der deutschen Schaubühne auszusetzen finden.<br>Herr Sinnreich. Und was wollten Sie wohl an meinen Stücken aussetzen?<br>Herr Reinhart. Fürs erste dieses, daß sie undeutsch sind."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Ha! ha! ha! sind Sie auch einer von die Mückensäuger, die der Grammatik zu gefallen, einen schönen Gedanken ersticken?"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Jambus. Ich schreibe nicht für die Leute, die erst decliniren und conjugiren lernen wollen.<br>Herr Reinhart. Sie schreiben aber für Ihre Leser, und denen gefällt man eben nicht mit Sprachschnitzern.<br>Herr Sinnreich. O ja, ich lese allemal lieber einen schönen Gedanken, als einen richtigen Ausdruck."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Und <em>mir</em> dünkt, ein Gedanken kömmt <em>mich</em> noch einmal so schön vor, wenn der Ausdruck wider die Grammatik läuft."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Ich will Ihnen noch mehr sagen, der ganze Gedanke besteht oftmals nur im Schnitzer: wenn Sie die Worte recht zusammen setzen; so ist gewiß kein Gedanke mehr da.<br>Herr Jambus. Ach! das ist nur eine Erfindung der seichten Köpfe, die nicht die Fähigkeit haben zu denken.<br>Herr Reinhart lachend. Je, meynen Sie denn, daß eine so große Kunst dazu gehöre, Sprachschnitzer zu machen? Das kann ich alle Augenblicke auch; wenn das anders Witz und Hexerey heißen soll. Aber warum machen Sie es in den lateinischen Versen nicht auch so? Warum binden Sie sich da an die Grammatik?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. O das ist was anders! Deutsch ist nicht lateinisch!"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Ja, das höre ich heute nicht zum erstenmale.<br>Herr Sinnreich. Die lateinische Sprache hat nun einmal ihre Regeln. Allein man müßte sehr verblendet seyn, wenn man das auch von der deutschen sagen wollte.<br>Herr Reinhart. Was? die deutsche Sprache hat also keine Regeln?<br>Herr Jambus. Nein. Man kann im Deutschen alles sagen, was man will.<br>Herr Reinhart. Das bestreite ich nicht; aber man kann und muß es auch mit guten deutschen Ausdrücken sagen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Nein, über dem Zwange geht mancher schöne Gedanke verloren."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Ich wollte wohl wetten, daß sich dieß unter hundertmalen nicht zweymal zutrifft. Z. E. Ich las neulich in einem Gedichte, da ein Verliebter seine Schöne um Gegenliebe ersuchet, den Ausdruck; <em>uns wird nicht immer Frühling seyn</em>. Ist das nicht ein bloßer Latinismus?<br>Herr Sinnreich. Latinismus oder nicht! der Gedanken ist doch schön."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Ja, er <em>ist all</em> artig."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Würde er aber nicht bleiben, was er ist, wenn ich ihn nun gleich so verdeutschete: <em>Wir werden nicht immer jung seyn?</em><br>Sie schreyen alle drey. Nein! nein! nein! das ist kalt, matt, frostig!<br>Herr Reinhart zuckt die Achseln und lacht. Da sehen Sies ja nun, daß Ihnen bloß der Sprachschnitzer gefällt; der Gedanke ist ja eben derselbe.<br>Herr Jambus. Bey Leibe nicht. <em>Uns wird nicht immer Frühling seyn!</em> das ist so malerisch, so körnicht geredet. Das andere ist lauter Wasser dagegen.<br>Herr Reinhart. Wahrhaftig! <em>Mir ist Frühling</em>; das kömmt mir eben so vor, als wenn ich mit den Epistolis obscurorum virorum sagen sollte: Habemus valde calidam Aestatem.<br>Sie lachen alle.<br>Herr Sinnreich. Nun es ist mir lieb, daß wir den Herrn Vielwitz hieher bekommen haben. Wissen Sie was, Herr Jambus, wir müssen eine Gesellschaft mit einander aufrichten."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Von Herzen gern, <em>da</em> bin ich mit <em>bey</em>."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Jambus. Und zwar eine <em>Antigrammatikalische</em>."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Ja, ja! daß wir die Leute einmal das Vorurtheil aus <em>den</em> Kopf bringen, daß man denken und doch rein Deutsch schreiben müsse."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Sinnreich. Sie haben es getroffen.<br>Herr Reinhart lachend. O du arme deutsche Sprache! erzittere! <em>dir wird nicht immer Schönheit seyn!</em><br>Herr Jambus. Nun, nun, spotten Sie nur nicht! Ihre Gedichte sollen brav herhalten, wenn Sie welche machen werden, die rein Deutsch sind.<br>Herr Reinhart. O das Märtyrthum würde mir eine Ehre seyn! allein es hat keine Noth. Ich treibe jetzt mein Advocatenhandwerk; weil mir ein witziger Kopf, der kein Brod hat, ein sehr elendes Geschöpf zu seyn scheint. Ich werde deswegen doch wohl wegen alter Bekanntschaft den Musen gewogen bleiben. Allein meiner Muttersprache auch. Wenn ich schlechtes und verstümmeltes Deutsch lesen will: so lese ich meine Acten und die Zeitungen! und wenn ich mir über einem Gedichte den Kopf zerbrechen will, so lese ich den Pindar und Persius selbst: und nicht ihre neuern Nachäffer."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz zu den andern. Lassen Sie <em>ihm</em> gehen. Den bekehren wir schon nicht! wie soll denn aber unsere neue Gesellschaft heißen?"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Sinnreich. Ja, einen Namen müssen wir doch haben. Wie wäre es, wenn wir uns die <em>participialische Gesellschaft</em> nennten?<br>Herr Jambus. Nein, nein! das würde nur eine einzige Eigenschaft ausdrücken: wir müssen aber auch zugleich andeuten, daß wir auf das <em>Körnichte</em>, und auf die <em>Gedanken</em> gehen.<br>Herr Reinhart lachend. Ey! so nennen Sie sich <em>die denkende Undeutsche Gesellschaft</em>, oder <em>die undeutschdenkende Gesellschaft</em>."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Die <em>Denkende</em>? das gienge wohl hin; aber die Undeutsche, das ist nichts: denn damit gäben wir selbst zu, daß unsere Gedichte undeutsch wären."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Jambus. Freylich.<br>Er besinnt sich.<br>Wissen Sie was, meine Herren? wir wollen uns <em>die denkende Sprachschnitzer-Gesellschaft</em> nennen.<br>Herr Sinnreich. Ja, ja: der grammatikalischen Zunft zu Trotze!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Gut, gut! das drückt auch zugleich aus, daß wir nicht allein die Participia; sondern auch alle andere Schnitzer in der Sprache dulden."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Sinnreich. Ja: nur daß der Poet auch <em>denke</em>! denn <em>denken</em> muß er! sonst ist alles nichts.<br>Herr Jambus. Nun also heißen wir: <em>die denkende Sprachschnitzer-Gesellschaft</em>.<br>Sie sagen alle. Ja! ja!<br>Und geben sich die Hände, umarmen sich auch. Ein jeder sagt.<br>Ihr Diener, Herr College.<br>Herr Reinhart macht einen Reverenz an sie. Ich gratulire von Herzen zu dieser neuen Societät, die den menschlichen Verstand wieder zu seiner alten Würde verhelfen wird; und empfehle mich Dero herzinniglichem Mitleiden, meine hochzuehrenden denkenden Herren Sprachschnitzler!<br>Sie schütteln die Köpfe.<br>Herr Sinnreich. Bey wem versammlen wir uns denn künftig meine Herren?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Wollen Sie zu <em>mich</em> auf <em>meiner</em> Stube kommen; so steht Ihnen allemal ein Glas Wein und ein Stück Hamburger Rauchfleisch zu Diensten."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Ey! die Anerbiethung nehmen Sie ja an, meine Herren. Es denkt sich noch einmal so gut, wenn man was zum Besten darbey hat.<br>Herr Sinnreich. Wenn es Sie so beliebt, so lasse ich mirs gefallen.<br>Herr Jambus. Wenn es Sie nur nicht zu beschwerlich fällt, mein Herr Vielwitz."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Im geringsten nicht; es soll <em>mich</em> eine Freude seyn."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Jambus.<br>Und da wollen wir alles, was Neues herauskömmt, vornehmen, und das Seichte, das Matte, das Niedrige, das Kriechende, das unendlich drunter seyende, u.s.w. untersuchen.<br>Herr Sinnreich. Ja, ja. Damit wir uns aber nicht mit allem dem schlechten Zeuge, was die andern Scribenten schmieren, den Geschmack zu sehr verderben: so wollen wir jedesmal uns auch von unsern Arbeiten was vorlesen; und uns sonderlich bemühen, unsre Sprache mit den abgebrochenen Redensarten der Engländer zu bereichern; die von den wässerichten Dichtern insgemein Anglicismi und Barbarismi genennet werden.<br>Herr Jambus. Ja, und mit der Zeit können wir das, was wir uns denn vorgelesen und so gemustert und geändert haben, daß gar nichts mehr daran auszusetzen ist, als Muster der deutschen Dichtkunst in einem Bändchen drucken lassen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Noch zur Zeit sehe ich nicht, daß die Welt es werth wäre, etwas von mir zu lesen. Die Zeiten müßten sich noch sehr ändern!"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Sinnreich. Nun? wenn kommen wir zum erstenmale zusammen, meine Herren?<br>Herr Jambus. Wenn es <em>Sie</em> beliebt, Herr Vielwitz, so können wir morgendes Tages anfangen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Ja, meine Herren. Ich werde die Ehre haben Sie zu erwarten."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Darf denn ein so unwürdiger deutscher Michel, als ich bin, zuweilen auch das Glück haben, Ihren denkenden Versammlungen beyzuwohnen.<br>Herr Sinnreich. Ja, ja; aber nur als ein Zuhörer.<br>Herr Jambus. Ja, er muß weder richten, noch was wir verurtheilen, vertheidigen. Denn er versteht das nicht, was zu einem recht schweren Verse gehört.<br>Herr Reinhart lächelnd. O das bescheide ich mich gar gerne! ich will mich nur ein wenig von der grammatikalischen Sucht, die mir anklebt, zu befreyen suchen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Wer soll denn zuerst lesen?"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Sinnreich. Ich habe eine mathematische Abhandlung von der Chloris Strickzeuge unter Händen; sie ist aber noch nicht fertig. Denn sie wird sehr ironisch, und sticht im vorbeygehen mehr als zwanzig von meinen guten Freunden und Lehrern an. Auch auf meine eigene Aeltern kommen ein Paar Püffe drinnen vor.<br>Herr Reinhart. Ein feines Werkchen! eine mathematische Satire!<br>Herr Sinnreich. Ja, ein Philosoph ist mit niemanden verwandt, und niemanden verbunden. Er geht gerade durch, und sagt allen die Wahrheit. Haben Sie indessen was fertig, Herr Jambus; so können Sie anfangen.<br>Herr Jambus. Ja, ich habe eine Tragödie unter Händen, davon ist der erste Act fertig. Dergleichen muß noch nie gesehen seyn! sie besteht aus lauter epigrammatischen Gedanken, zwey und zwey Zeilen, oder selten vier Zeilen, machen allemal ein Sinngedicht aus. Jedes Stück davon hat mich wohl einen halben Tag Arbeit gekostet: und die trage ich nun zusammen, und schreibe nur die Namen drüber."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Sie bringen <em>mir</em> da auf einen Einfall. Gienge es nicht an, daß man auf eben <em>der</em> Art, aus dem Martial oder Ovenus eine Comödie machte? An satirischen Einfällen würde es nicht da fehlen, wenn jede Person, so oft sie den Mund aufthäte, eine stachelichte Spitzfündigkeit vorbrächte."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Jambus. Warum nicht? Sie werden nur hören, daß sich mein Stück vortrefflich ausnimmt. Einige Stellen sind mir ganz besonders glücklich gerathen. Sophokles und Euripides sind lauter kaltes Wasser dagegen.<br>Herr Reinhart. Das glaube ich wohl! Aber welche Zuhörer werden ein so spitzfündiges Stück verstehen, wenn es aufgeführet wird?<br>Herr Jambus.Ich überlasse es dem poetischen Pöbel für den Pöbel zu schreiben: ich schreibe nur für die Weltweisen und Mathematicos.<br>Herr Reinhart. Und ich versichere Sie, daß weder Wolf noch Bülfinger, noch Euler Ihre Tragödie lesen werden.<br>Herr Jambus. Man weis, was man von den neuen Propheten zu halten hat. Haben Sie nicht auch was schönes fertig, Herr Vielwitz?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Ich habe ein Schäferspiel verfertiget, davon ich dem Herrn Reinhart gestern eine Abschrift gegeben habe. Darinn herrscht durchgehends das <em>Schalkhafte</em>.<br>Er lacht innerlich.<br>Es ist ein heilloses Ding!"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Sinnreich. Darf ich den Namen wissen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Es heißt die <em>Nothzüchtigung</em>. Ein <em>vertraktes schalkhaftes</em> Stück!"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart sieht ihn von Haupt zu Füßen an. Die Nothzüchtigung? ein Schäferspiel?<br>Herr Jambus. Das bin ich neugierig zu hören."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Sie werden Ihre Lust dran hören. Es hat <em>mich</em> auch manche sauere Stunde gemacht."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Sinnreich. Aber, um unserer neuen Collegialischen Freundschaft willen! Herr Vielwitz, brauchen Sie doch das <em>Mich</em> und <em>Mir</em> nicht immer so falsch. Die Ohren thun mir schon ganz weh!<br>Herr Jambus. Ja, es ist entsetzlich, <em>Ihnen</em> so reden zu hören."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Und es ist eben so entsetzlich, meine Herren, Ihr beständiges falsches <em>Sie</em> und <em>Ihnen</em> zu hören."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Sinnreich lacht spöttisch. So? wir werden endlich noch von den Niedersachsen Deutsch lernen sollen!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Warum nicht? das Deutsche wäre eben nicht die einzige gescheide Sache, die der Herr und sein College von uns Niedersachsen zu erlernen nöthig hätte."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Ey! meine Herren, wie ist es möglich, daß die Stifter der Sprachschnitzergesellschaft, sich über ihre Sprachschnitzer entzweyen können? Sie müssen ja zum besten der gemeinen Sache, ein jeder die Seinigen mit beytragen helfen.<br>Herr Sinnreich. Ich nehme mich der obersächsischen Sprachschnitzer nur an: die sollen hier allein gelten; in Niedersachsen mögen die niedersächsischen schön seyn!<br>Herr Jambus. Ja, aber die Niedersächsischen sind ja wider alle Vernunft."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Ich habe obersächsische Leute gesehen, die eben so unvernünftig gewesen, als ihre Sprachschnitzer; und nöthig hätten, ein paar Jahre nach Niedersachsen zu ziehen, um gescheide Leute zu werden."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Sinnreich. Wen meynen Sie damit, Herr Vielwitz?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Ich nenne niemanden, und meyne mehr als einen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Jambus. Mein Herr Sie sind doch nicht etwa in <em>die</em> Hundstage gebohren?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Nein: wahrhaftig nicht! denn es ist <em>mich</em> noch nie eingefallen, aus lauter Epigrammatibus ein Trauerspiel, oder eine Comödie zu machen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Ey! meine Herren, Sie fangen an zu <em>denken</em>, wie ich sehe.<br>Herr Sinnreich. Sie haben ja wohl eine große mächtige Selbstliebe im Leibe!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Ich habe aber noch nie auf <em>meinen</em> Aeltern ein Pasquill gemachet."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Sinnreich. Mein Herr, Ihr Beyfall wäre gerade der schlechteste Lohn für meine Schriften."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Ich bedanke mich <em>vor Ihrer</em> Schnitzergesellschaft! Ich mag <em>dar</em> nicht <em>ein</em>!"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Jambus. Das erste Gedicht so ich darinnen vorlese, soll eine Satire auf <em>Ihnen</em> seyn."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Und ich will eine Critik über <em>Ihrer</em> Tragödie machen, daß keiner sie mit Füssen wird treten wollen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Sinnreich. Herr! fangen Sie mit uns nicht an: wir sind fähig die größten Gelehrten lächerlich zu machen. Wir sind ohne dieß Willens, ein neues Wochenblatt anzufangen, das soll der <em>Lustigmacher</em> heißen: da könnten Sie eine Stelle darinnen bekommen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Es müßten sehr lächerliche Leute seyn, die sich auf solche lächerliche Criticos verließen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Jambus. Ey! warum sagen Sie nicht, auf solche Criticis, das wäre ja ein schöner Niedersaxonismus gewesen.<br>Sinnreich und Jambus lachen überlaut.<br>Herr Reinhart. Um des Himmels Willen! meine Herren, hören Sie auf zu <em>denken</em>. Dort kömmt Jungfer Lottchen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "(6. Auftritt)<br>"
+          },
+
+          {
+            "typ": "kontext",
+            "text": "Jungfer Lottchen. Nun? Es geht fein burschikoos auf meiner Stube zu."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. erzeihe Sie es Mademoiselle. Ich dachte ich wäre unter gelehrten Männern gekommen: so sehe ich wohl, daß es nichts mehr, als Studenten sind."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Jambus. Ja, wir geben Lection im Lateinischen conjugiren und decliniren. Wenn Sie etwa auf der Schule damit nicht fertig geworden sind, Herr Vielwitz: so dörfen Sie es nur sagen.<br>Jungfer Lottchen. Ey meine Herren! In meiner Gegenwart bitte ich, sich entweder nicht zu zanken; oder einen andern Ort dazu zu erwählen, als mein Zimmer. Herr Vielwitz hat mir heute früh etwas von seinen Versen geschickt, das wollen wir durchlesen. Der Herr Jambus und Sinnreich verstehen die Poesie so wohl, daß sie entweder die Arbeit bewundern, oder tadeln können werden.<br>Sie nimmt den Brief vom Tische und erbricht ihn.<br>Herr Jambus schreyt sehr. Was? ich sollte mich dahin setzen, und eines andern Dichters Arbeit anhören? Das ist mir unmöglich! Daß andere Leute mir meine Gedichte 6 Stunden lang zuhören müssen, das ist wohl meine Gewohnheit: allein so, scheide ich davon.<br>Er läuft in den Winkel, rafft seinen Degen und Stock auf, und läuft ungestüm ab."
+          },
+          {
+            "typ": "figurtext",
+            "text": "(7. Auftritt)<br>"
+          },
+
+          {
+            "typ": "kontext",
+            "text": "Jungfer Lottchen. Das ist ja ein ungezogener Mensch. Mich wundert, daß nicht alle seine gute Freunde taub sind.<br>Sie setzt sich und die andern setzen sich auch.<br>Herr Sinnreich. Er fühlt sich freylich, daß er ein sehr witziger Kopf ist.<br>Herr Reinhart. Er würde aber sehr wohl thun, wenn er nicht nur seine Stärke, sondern auch seine Schwäche fühlte.<br>Jungfer Lottchen giebt Reinharten den Brief. Da Herr Reinhart, thun Sie uns den Gefallen, und lesen Sie dieß laut. Ich werde wohl genug zu thun haben, daß ichs nur verstehe.<br>Herr Reinhart liest. »Werthgeschätzter liebster Herr Vater ...«"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz springt erstaunt auf, und will ihm den Brief entreißen. Er aber versteckt ihn. Um des Himmels Willen! was haben Sie da? Geben Sie <em>mich</em> den Brief, wofern Sie es ein Bißchen gut mit <em>mich</em> meynen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Jungfer Lottchen. Bey Leibe nicht, Herr Reinhart! sonst verlieren Sie alle meine Gunst.<br>Herr Reinhart weigert sich gegen Vielwitzen. Da sehen Sie es! das ist ja der ärgste Fluch den eine Schöne nur thun kann."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz ängstlich. Es ist aber ein Brief an <em>meinem</em> Vater ... Es stehen da Domestiksachen innen ... Ich bitte Sie um alles, warum man in der Welt bitten kann."
+          },
+          {
+            "typ": "kontext",
+            "text": "Jungfer Lottchen. Nein, nein! ich muß durchaus wissen, was darinnen steht: es werden doch solche heimliche Sachen nicht seyn, die Sie ihm von hieraus schreiben könnten. Sie sind ja nicht verheirathet, Herr Vielwitz?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz fällt vor ihr auf die Knie. Ach! Ach! ich bitte Sie auf das inständigste, Mademoiselle, lassen Sie <em>mich</em> den Brief wiedergeben."
+          },
+          {
+            "typ": "kontext",
+            "text": "Jungfer Lottchen. Gelt! Sie haben eine Liebste zu Hause gelassen? Die muß ich erfahren! Lesen Sie nur Herr Reinhart."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz springt auf, und hält Reinharten, welcher lesen will, den Mund zu. Ach allerliebstes, englisches Reinhartchen, ließ nicht!"
+          },
+          {
+            "typ": "kontext",
+            "text": "Jungfer Lottchen. Nun so geben Sie mir den Brief wieder her. Ich will ihn sachte für mich lesen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz sehr ängstlich. Ach! ich bin des Todes, wo Sie ihn lesen, Mademoiselle.<br>Er windet die Hände.<br>Was habe ich in der Eile <em>vor</em> einen Irrthum begangen? Da habe ich die Verse an Sie, in meines Vaters Brief eingesiegelt, und den Brief an <em>meinem</em> Vater, bey <em>Sie</em> eingeschlagen.<br>Er wirft sich ganz matt auf den Stuhl und windet die Hände."
+          },
+          {
+            "typ": "kontext",
+            "text": "Jungfer Lottchen. Wenn Sie nicht so ängstlich thäten: so wäre ich nicht halb so neugierig. Geben Sie mir nur den Brief, Herr Reinhart: ich will ihn zum mindesten für mich allein lesen.<br>Sie liest und sieht den Vielwitz dann und wann ernstlich an, und macht erstaunte Geberden. Vielwitz sitzt ganz ängstlich auf dem Stuhle. Reinhart zieht einen versiegelten Brief aus der Tasche und macht ihn auf.<br>Jungfer Lottchen. Nun das hätte ich mir von Ihnen nicht vermuthet, Herr Vielwitz. Für alle Höflichkeit und Ehre, die Ihnen in unserm Hause wiederfahren ist; ja ich sage mehr: für alles das Gute, was der alte Herr Reinhart, wie ich gewisse Proben davon habe, mit Ihnen noch im Sinne gehabt hat, dafür schreiben Sie Ihrem Vater so verächtlich von ihm? Gesetzt, daß er auch so wenig Vernunft und Witz hätte, als Sie schreiben: so hat er doch ein redliches Herz, und dieß macht allemal ein besser Glück in der Welt, als der größte Witz; wenn er mit einem bösartigen, hochmüthigen und undankbaren Herzen verknüpft ist. Was meine Wenigkeit anlanget: so versichere ich Sie, daß, wenn ich Ihnen zu dumm bin, Sie mir hergegen so klug noch nicht sind, daß ichs nicht schon vor 14 Tagen gesehen hätte, daß Sie ein Geck sind. Was diesen jungen Herren Reinhart betrifft ...<br>Herr Reinhart. Wie? was? Stehe ich auch darinnen?<br>Jungfer Lottchen. O ja! der Herr Vater wird es Ihnen schon zu lesen geben.<br>Zum Vielwitz.<br>Was ihn belanget! so versichere ich Sie, daß seine empfindlichste Rache an Ihnen, der Verlust seiner Freundschaft ist, die er Ihnen bisher ohnedieß nur aus Ehrfurcht gegen seinen Vater bewiesen hat. Die witzigen Köpfe hier in der Stadt, von denen Sie, ehe Sie sie noch gekannt, so verächtlich geurtheilet haben, die werden sich unfehlbar selbst rächen, und Ihnen gleiches mit gleichem vergelten.<br>Herr Sinnreich hitzig. Was? was? hat er von den witzigen Köpfen allhier auch übels geredet?<br>Jungfer Lottchen. O ja! Er schildert sie so schön ab, daß er ihnen endlich keine bessre Benennung zu geben weis, als daß sie dumme Jungen sind.<br>Herr Sinnreich zum Vielwitz. Warten Sie, <em>Sind Sie der Haare</em>? das will ich dem Jambus sagen! Wir wollen eine Satire auf <em>Ihnen</em> machen, die sich gewaschen haben soll.<br>Er läuft in die Ecke, nimmt seinen Hut und Degen und geht zornig ab.<br>Jungfer Lottchen. Ich will hinunter gehen, und dem alten Herrn Reinhart doch zeigen, was für einen schönen Gast er hier im Hause hat.<br>Sie will gehen.<br>Herr Reinhart. Ey, warten Sie noch ein wenig. Hier ist noch ein andrer Misverstand vorgegangen. Die Verse die Sie haben kriegen sollen, die sind hier an mich eingesiegelt. Lesen Sie sie doch.<br>Er giebt sie ihr.<br>Jungfer Lottchen. Ach! ich habe viel zu wenig Verstand dazu.<br>Sie schmeißt sie dem Vielwitz vor die Füße, und geht zornig ab."
+          },
+          {
+            "typ": "figurtext",
+            "text": "(8. Auftritt)<br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz sehr erschrocken. Was? Sie haben die Verse an <em>der</em> Jungfer, in Ihrem Umschlage?"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Ja, da sind sie.<br>Er giebt sie ihm."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz schlägt die Hände zusammen. Nun bin ich verlohren! das ist wieder ein neues Unglück <em>vor mir</em>."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Wie so?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Ach! so habe ich meinem Vater das verwünschte Schäferspiel eingesiegelt! Was wird der Mann von mir denken? Er enterbt mich gewiß: denn er ist ein sehr hitziger Mann. Ich bin des Todes!"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Ich wollte gern ein Mitleiden mit Ihnen haben: allein es ist mir allemal eine Freude, wenn die Thorheit und Bosheit in ihre eigene Falle fällt."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Vielwitz. Ich muß den Augenblick der Post eine Staffette nachschicken, und versuchen, ob ich meinen Brief wieder bekommen kann. Mein Diener aber soll mir noch heute die Post bestellen. Ich will stehendes Fußes von einer Akademie fort, wo mir alles so verkehrt geht.<br>Er geht ab."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Und ich will die schöne Lobschrift lesen, die Sie mir gemacht haben: damit ich Ihnen desto herzlicher zu Ihrer Abreise Glück wünschen könnte.<br>Er geht ab."
+          },
+          {
+            "typ": "figurtext",
+            "text": "(9. Auftritt)"
+          }
+        ]
+      },
+
+      {
+        "id": "Witzling02",
+        "theaterstück": {
+          "titel": "Der Witzling. Ein deutsches Nachspiel in einem Aufzuge",
+          "zeit": "1745",
+          "druckort": "Leipzig",
+          "auffuehrungshinweise": "Der Schauplatz ist auf Jungfer Lottchens Zimmer [Leipzig]. Die Handlung fängt gleich nach der Mittagsmahlzeit an, und endiget sich gegen 5 Uhr."
+        },
+        "autor": {
+          "name": "Luise Adelgunde Victorie Gottsched",
+          "herkunft": "Ndt.",
+          "orte": ["Danzig", "Leipzig"],
+          "lebensdaten": "1713-1762"
+        },
+        "figur": {
+          "name": "Herr Sinnreich",
+          "rolle": "Gelehrter",
+          "beschreibung": "spricht obersächsisch; ein junger Gelehrter"
+        },
+        "dialekt": {
+          "adaption": "Heteroadaption",
+          "dialekt_grossraum": "Omd."
+        },
+        "geokoordinaten": {
+          "herkunft_autor": {
+            "lat": 54.350556,
+            "lng": 18.652778
+          },
+          "herkunft_figur": { 
+            "lat": null,
+            "lng": null
+          }
+        },
+        "abschnitt": "[tbd]",
+        "original_link": "https://dracor.org/ger/gottschedin-der-witzling",
+        "abschnitt_segmentiert": [
+          {
+            "typ": "kontext",
+            "text": "Die Vorigen. Herr Sinnreich. Herr Jambus. Sie kommen mit ungezogenen wilden Minen ins Zimmer. Reinhart empfängt sie.<br>Herr Reinhart. Ihr Diener meine Herren. Hier sehen Sie den Herrn Vielwitz, einen jungen Menschen aus Niedersachsen, der unserer Universität die Ehre thun, und hier studieren will."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Ihr Diener, mein Herr, ich bin erfreut, <em>Ihnen</em> zu sehen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Jambus. Es ist mir ein Vergnügen, <em>Ihnen</em> kennen zu lernen.<br>Herr Vielwitz. Es ist <em>mich</em> herzlich angenehm, ein Paar solche Männer hier zu sehen, <em>von die</em> der Herr Reinhart <em>mich</em> so viel Gutes gesagt hat.<br>Herr Reinhart. Setzen Sie sich doch.<br>Sie laufen beide in eine Ecke des Zimmers und legen die Hüte und die Degen ab. Jungfer Lottchen will sich darüber aufhalten. Reinhart aber winkt ihr, sie soll es nur lassen gut seyn. Sie setzen sich zum Caffeetische. Jungfer Lottchen schenkt einem jeden Caffee ein.<br>Herr Jambus der allemal sehr schreyet. Ist es schon lange mein Herr Vielwitz, daß wir die Ehre haben, <em>Ihnen</em> hier zu sehen?<br>Herr Vielwitz. Es ist erst vierzehn Tage."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Wo logieren Sie denn?"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Ich bin hier bey dem Herrn Reinhart <em>ins Haus</em>.<br>Herr Jambus. <em>Haben Sie in Willens</em> lange hier zu bleiben?<br>Jungfer Lottchen. Ey, was? meine Herren, Sie müssen mit dem Herrn Vielwitz solche gleichgültige Dinge, nicht reden. Er ist ein großer Poet.<br>Herr Jambus. Ein Poet?<br>Herr Vielwitz. Zu dienen.<br>Herr Reinhart. Und ein Mathematicus dazu!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Ein Mathematicus? Wie haben Sie sich denn bis zum Dichter erniedrigen können?"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Jambus. Ey, mein lieber Herr Sinnreich, es hat eher gescheide Poeten gegeben, als gescheide Mathematicos."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Ey, Herr Jambus, wir sind gute Freunde: aber in das Alter der Mathematik müssen Sie nicht pfuschen. Sie möchten sonst eine Sau machen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Es ist wahr, die Mathematik ist das Edelste, was ein denkendes Wesen lernen und wissen kann."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Sie ist die einzige Wissenschaft, die Wahrheiten aufzuweisen hat: mit allen andern ist es lauter Ungewißheit. O Meßkunst! Zaum der Phantasie, Wer dir nur folget, irret nie! Wer ohne dich will gehn, der gleitet!"
+          },
+          {
+            "typ": "kontext",
+            "text": "Jungfer Lottchen spöttisch. Es ist wohl wahr; daß 2 mal 2 4 ist, das ist eine viel gewissere Wahrheit, als daß die Sonne hell scheint!<br>Herr Reinhart lachend. Ich möchte gleichwohl lieber ein Capitel von Leibnitzens Theodicee gemacht haben, als der Erfinder des Einmal Eins seyn: was für ewige Wahrheiten auch immer darinnen stehen.<br>Zu Jungfer Lottchen.<br>Ich bleibe mit Fleiß bey dem Gleichnisse, was Sie aus der Arithmetik genommen haben: ungeachtet sie nur ein Theil der Mathematik ist."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Ich streite Ihnen nicht, daß Leibnitz ein großer Mann gewesen! das macht aber, er war ein großer Mathematicus."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart zeigt auf Vielwitzen. Da sitzt aber ein Mann, der an der Leibnitzischen Infinitesimalrechnung sehr viel auszusetzen hat."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich sieht ihn von oben bis unten an. Sie? an Leibnitzens Infinitesimalrechnung?"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz sieht ihn wieder so an. Ja, mein Herr. Ich bin nicht gern ein blinder Verehrer von <em>die</em> großen Leute. Ich untersuche gern alles, und da finde ich, daß sie alle irrende Menschen gewesen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich voll Verwunderung. Nun? z. E.: was haben Sie denn daran auszusetzen?"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz hochmüthig. Das wird sich zeigen, wenn mein Werk herauskommen wird.<br>Herr Reinhart. Sie müssen wissen, daß der Herr Vielwitz sein Werk schon auf der Schule, als ein Secundaner, geschrieben hat. Es ist also schon fertig."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich sich verwundernd. Auf der Schule? Sind Sie auf einer Schule gewesen?"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Ja, mein Herr. Meines wissens bringt man das Latein nicht mit auf die Welt. Sind Sie etwa auf keiner Schule gewesen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Es wäre eben so gut, wann es unterblieben wäre! Ich habe doch von keinem Lehrer was gelernet, als von dem Mathematico: das ist noch der einzige, von dem ich was gelernet habe!"
+          },
+          {
+            "typ": "kontext",
+            "text": "Jungfer Lottchen lachend. Haben Sie denn das Lesen und Schreiben schon die ersten acht Tage Ihres Lebens gekonnt?<br>Herr Jambus. Nun, das könnte wohl seyn! Wenigstens kann ich ihm das Zeugniß geben, daß er so schreibt, als ich in meinem ersten Jahre auch hätte schreiben wollen.<br>Herr Reinhart lachend. Ja, Herr Sinnreich, Ihre Liebste wird sich erst einmal an D. Fausts Zauberzeichen üben müssen, ehe sie Ihre Hand wird lesen können."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich stolz. Docti male pingunt! Indessen, um wieder auf die Schulen zu kommen; so wird man da nur mit lauter Ungewißheiten gequälet. Mit der philosophischen Ungewißheit, mit der juristischen, medicinischen, oratorischen, historischen, poetischen und tausend andern Ungewißheiten: so daß noch das einzige Wahre, was man höret, die Mathematik ist."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart lachend. Also, mein Herr Sinnreich, alles was Sie außer der Mathematik gelernet haben, das ist erlogen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Es giebt wohl einige Arten von halben Gewißheiten, oder Wahrscheinlichkeiten, in den andern Wissenschaften; allein auf die kann ein Kopf, der zu den ewigen Wahrheiten gebohren ist, allenfalls von sich selbst kommen. Dazu hätte ich keine Lehrer nöthig gehabt!"
+          },
+          {
+            "typ": "kontext",
+            "text": "Jungfer Lottchen. Nun es ist mir lieb, daß ich keiner von Ihren Lehrern gewesen bin. Das würde mir ein wenig undankbar vorkommen!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Wenn Sie mir die Ehre thun, und meine Lehrmeisterinn werden wollen; so will ich Ihnen gern alle meine Wissenschaften verdanken."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Sie werden also wohl schon etwas mathematisches geschrieben haben? Darf ich <em>mich</em> wohl etwas davon zu sehen ausbitten?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. In etwa vierzehn Tagen, werde ich <em>Sie</em> mit einer Dissertation aufwarten können."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Wovon wird sie handeln?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Von dem Maaße des Winkels der Abweichung derer Gesichtsstralen, womit ein Schielender einen Gegenstand ansieht."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Das ist eine neue Materie!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Was ich davon sagen werde, das wird auch alles ganz neu seyn. Die Erfindungen <em>gehören</em> alle <em>meine</em>: und ich habe deswegen kein optisches Werk, ja nicht einmal den Newton nachgeschlagen: ungeachtet dieser noch das einzige Buch ist, das man sich nicht schämen darf, gelesen zu haben."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Ich bin recht neugierig, das zu lesen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Die Beweise schließe ich allemal mit einer oder zwey Zeilen aus einem mathematischen Poeten, als Pope, Gebhardi, oder dergleichen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Jambus. Nun, da sehen wirs! vorhin wollten Sie die Poesie herunter machen, und jetzt spicken Sie Ihre mathematischen Abhandlungen damit aus."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Ey Poesie und Poesie ist sehr unterschieden: Ich meyne nicht die Wiegenliederpoeten, wie Opitz, Canitz, Besser, Neukirch, Günther, und andere Dichter; sondern diejenigen, darinn man, das Wahre, das Schöne, das Hohe, das Tiefe, das Dunkele, das Gedachte, das Schalkhafte ... kurz, alles, was man nur abstract nennen kann, antrifft."
+          },
+          {
+            "typ": "kontext",
+            "text": "Jungfer Lottchen lachend. Abstract? könnte man das nicht das Abgezogene nennen?<br>Herr Reinhart lacht. a ja! das <em>Abgezogene</em> in Gedichten. Das ist sehr schön und <em>abgezogen</em> gesagt!<br>Herr Jambus. Nun Herr Sinnreich, Sie haben anjetzt den Herren Vielwitz lange genug unterhalten; nunmehr lassen Sie mich auch einmal mit der Dichtkunst daran kommen. Es ist ganz unnatürlich, daß ein Poet so lange schweigen und zuhören soll."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Meinethalben! Ich werde zum mindesten von der Poesie auch mit reden können. Dahingegen Sie von der Mathematik schweigen, und uns allein reden lassen mußten."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Jambus zum Vielwitze. Sie haben unfehlbar schon viel schönes drucken lassen?<br>Herr Vielwitz. Nein, das eben nicht. Aber ich denke dennoch, daß meine Arbeiten hier nicht unbekannt seyn können."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Ich besinne mich nicht; etwas von <em>Sie</em> gelesen zu haben."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz erstaunt. Haben Sie nicht vergangenen August die Cantate auf dem Schellhaferischen Saale gehört?<br>Herr Jambus. Nein. Haben Sie die etwa gemacht?<br>Herr Vielwitz. Ja. Der Componist schrieb an <em>mir</em> und ersuchte <em>mir</em>, ich möchte ihm die Ehre thun und ihm eine Cantate machen.<br>Herr Reinhart zu den andern. Ey! meine Herren, das sollten Sie dem Manne nicht für ungenossen ausgehen lassen! Was? Zween solche körnichte Dichter in der Stadt zu haben, und noch nach Niedersachsen zu gehen, wenn man was schönes haben will? Das litte ich nicht!<br>Sie schütteln die Köpfe. Lottchen lacht.<br>Herr Vielwitz. Ich mochte es ihm auch nicht abschlagen: denn ich dachte, es könnte des ehrlichen Mannes Glück seyn. Wenn er aber so dumm gewesen ist, und hat meinen Namen nicht darzu drucken lassen: <em>Da</em> habe ich nicht schuld <em>an</em>! Da kann ich nicht <em>vor</em>."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Nein, wir haben hier nichts davon gewußt."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Das ist ein dummes <em>Beest</em>! Bey <em>mich</em> hat sich ein Componist Haus und Hof mit einer von meinen Cantaten verdient: sie war <em>mich</em> aber auch schön gerathen.<br>Herr Reinhart. O! daran ist kein Zweifel.<br>Herr Vielwitz. Indessen, die ich <em>nach hier</em> machte, war auch schön: denn ich dachte, du mußt doch die Leipziger was hermachen, das eine Art hat! In <em>eine</em> Arie hatte ich aus der <em>Algebra</em> was angebracht. Das war recht schön. Ich hatte <em>mich</em> aber auch viel Mühe gegeben ... kann ich <em>mir</em> nicht noch darauf besinnen?<br>Er sinnt nach.<br>Herr Jambus. Bedienen Sie sich auch der Participiorum, Herr Vielwitz?<br>Herr Vielwitz. Ey! die sind meine beste Zierde! Die Cantate war recht voll davon.<br>Jungfer Lottchen. Was sind das für Dinger, Herr Reinhart?<br>Herr Reinhart lächelnd. Das ist eben das, als wenn ich Ihnen sagte: <em>zu kalt zum Trinken</em>, wird der Caffee wohl weggeräumt werden müssen.<br>Jungfer Lottchen lacht. So so! und: <em>Nicht gebohren zum aufwarten</em>, werde ich wohl den Diener rufen müssen.<br>Sie steht auf; die andern lachen und Jambus aus vollem Halse: so daß sich Lottchen die Ohren zuhält und abgeht."
+          },
+          {
+            "typ": "figurtext",
+            "text": "(5. Auftritt)<br>"
+          },
+
+          {
+            "typ": "kontext",
+            "text": "Herr Jambus. Das ist mir eine herzliche Freude, daß ich höre, daß Sie die Participia lieben."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Mir ebenfalls. Ohne Participia kann man gar nichts denken."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Und <em>für einem</em> Verse, der nicht gedacht ist, da stehe ich nicht vor auf.<br>Herr Reinhart lachend. O freylich! Und gedacht, das heißt wacker undeutsch geredet.<br>Herr Vielwitz. Ey, das macht, Sie haben sich in <em>der</em> deutschen Schaubühne verliebt, drum finden Sie keinen Geschmack an klugen Versen.<br>Herr Reinhart. So? das heißt, in der deutschen Schaubühne steht lauter dummes Zeug?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Nun, wer poetische Wassersuppen lesen will, der kann sie gewiß da finden."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Ey meine Herren, es ist <em>mich</em> eine rechte Freude, daß Sie auch hierinnen meiner Meynung sind. Ein einzig Stück nehme ich aus; davon ist der Verfasser mein guter Freund. Aber die andern taugen alle nichts.<br>Herr Jambus. Sie meynen etwa das erste Stück in einem gewissen Bande? Ja, ja! Es heißt doch aber auch zuweilen: bonus dormitat Homerus.<br>Herr Vielwitz. Alle Zeilen sind freylich nicht gedacht. Indessen ubi plura nitent in carmine etc. diese Regel brauche ich zwar sonst bey keinem Gedichte: aber weil dieß mein guter Freund ist!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Die andern sind alle <em>unendlich unter</em> dem!"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Jambus. Das <em>Matte</em>, das <em>Kalte</em>, das <em>Unwahrscheinliche</em> ...<br>Herr Reinhart lächelnd. <em>Das sich nicht Lesenlassende?</em> Nicht wahr?<br>Herr Vielwitz. Freylich, ich weis nichts ungeschickters, als der Jean de France, der sich auf dem Theater das Kleid abzieht.<br>Er lacht hönisch.<br>Herr Jambus. Und der dumme Schöps, der im Menschenfeinde die Participia lächerlich machen will!<br>Herr Vielwitz. Nein! ich hätte <em>mich</em> in einem solchen Werke doch bessere Sachen vermuthet. <em>Da</em> wird unsere Zeit keine Ehre von haben."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Sollen das Meisterstücke seyn?"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Wo hat denn der Herausgeber welche versprochen?<br>Herr Jambus heftig. Aber wir fordern welche!<br>Herr Reinhart lacht sehr. Ganz gut. Wenn er einmal für Sie ganz allein eine Schaubühne herausgeben wird: so wird er sich vielleicht auf welche befleißigen, oder sich Ihre eigene Arbeiten ausbitten, die Sie doch wohl für Meisterstücke werden gelten lassen. <stage>Es kömmt ein Diener und nimmt den Caffeetisch weg.</stage> Anjetzt aber ist seine Absicht nur gewesen, Stücke zu liefern, die nicht so sehr wider die Regeln verstießen, und den Comödianten Sachen zu liefern, die viel gesitteter und gescheidter wären, als das elende Zeug, was sie bisher fast überall gespielt haben. Das werden Sie doch den Stücken in der Schaubühne nicht absprechen können.<br>Herr Jambus sie lachen alle drey spöttisch. Sie meynen doch auch die Banise?<br>Herr Reinhart. Ja, ja, auch die! denn sie ist doch unendlich besser, als die alte prosaische Banise, die man gleichwohl noch immer spielt, so dumm als sie ist. Setzen Sie sich aber nur hin, und machen Sie eine bessere, wenn Ihnen diese nicht gefällt. Das wird den Herausgeber nicht verdrießen, sondern ihm eine wahre Freude seyn.<br>Herr Jambus lacht sehr.<br>Herr Reinhart. O das ist eine kluge Antwort! mich dünkt doch, es giebt keine bessere Art zu beweisen, daß eine Sache schlecht sey, als wenn man sich geschwinde hinsetzt, und was bessers macht.<br>Herr Vielwitz. Wir verstehn das Theater auch ein wenig, mein Herr Reinhart.<br>Herr Reinhart. Nun gut. Wo sind denn die Meisterstücke, die Sie gemacht haben? Ich sehe sie doch noch nicht.<br>Herr Vielwitz. So müssen Sie gewiß noch nicht das Päckchen gelesen haben, was ich Ihnen gestern Abends mit gab. Ich habe freylich einige gemacht.<br>Herr Reinhart. Nein, ich bin heute Vormittags sehr beschäfftigt gewesen.<br>Herr Jambus. Und von meinen Sachen haben Sie genug gelesen?<br>Herr Reinhart. Ja. Nur daß ich daran gewiß eben so viel auszusetzen hätte, als Sie an der deutschen Schaubühne auszusetzen finden."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Und was wollten Sie wohl an meinen Stücken aussetzen?"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Fürs erste dieses, daß sie undeutsch sind.<br>Herr Vielwitz. Ha! ha! ha! sind Sie auch einer von die Mückensäuger, die der Grammatik zu gefallen, einen schönen Gedanken ersticken?<br>Herr Jambus. Ich schreibe nicht für die Leute, die erst decliniren und conjugiren lernen wollen.<br>Herr Reinhart. Sie schreiben aber für Ihre Leser, und denen gefällt man eben nicht mit Sprachschnitzern."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. O ja, ich lese allemal lieber einen schönen Gedanken, als einen richtigen Ausdruck."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Und <em>mir</em> dünkt, ein Gedanken kömmt <em>mich</em> noch einmal so schön vor, wenn der Ausdruck wider die Grammatik läuft.<br>Herr Reinhart. Ich will Ihnen noch mehr sagen, der ganze Gedanke besteht oftmals nur im Schnitzer: wenn Sie die Worte recht zusammen setzen; so ist gewiß kein Gedanke mehr da.<br>Herr Jambus. Ach! das ist nur eine Erfindung der seichten Köpfe, die nicht die Fähigkeit haben zu denken.<br>Herr Reinhart lachend. Je, meynen Sie denn, daß eine so große Kunst dazu gehöre, Sprachschnitzer zu machen? Das kann ich alle Augenblicke auch; wenn das anders Witz und Hexerey heißen soll. Aber warum machen Sie es in den lateinischen Versen nicht auch so? Warum binden Sie sich da an die Grammatik?<br>Herr Vielwitz. O das ist was anders! Deutsch ist nicht lateinisch!<br>Herr Reinhart. Ja, das höre ich heute nicht zum erstenmale."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Die lateinische Sprache hat nun einmal ihre Regeln. Allein man müßte sehr verblendet seyn, wenn man das auch von der deutschen sagen wollte."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Was? die deutsche Sprache hat also keine Regeln?<br>Herr Jambus. Nein. Man kann im Deutschen alles sagen, was man will.<br>Herr Reinhart. Das bestreite ich nicht; aber man kann und muß es auch mit guten deutschen Ausdrücken sagen.<br>Herr Vielwitz. Nein, über dem Zwange geht mancher schöne Gedanke verloren.<br>Herr Reinhart. Ich wollte wohl wetten, daß sich dieß unter hundertmalen nicht zweymal zutrifft. Z. E. Ich las neulich in einem Gedichte, da ein Verliebter seine Schöne um Gegenliebe ersuchet, den Ausdruck; <em>uns wird nicht immer Frühling seyn</em>. Ist das nicht ein bloßer Latinismus?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Latinismus oder nicht! der Gedanken ist doch schön."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Ja, er <em>ist all</em> artig.<br>Herr Reinhart. Würde er aber nicht bleiben, was er ist, wenn ich ihn nun gleich so verdeutschete: <em>Wir werden nicht immer jung seyn?</em><br>Sie schreyen alle drey. Nein! nein! nein! das ist kalt, matt, frostig!<br>Herr Reinhart zuckt die Achseln und lacht. Da sehen Sies ja nun, daß Ihnen bloß der Sprachschnitzer gefällt; der Gedanke ist ja eben derselbe.<br>Herr Jambus. Bey Leibe nicht. <em>Uns wird nicht immer Frühling seyn!</em> das ist so malerisch, so körnicht geredet. Das andere ist lauter Wasser dagegen.<br>Herr Reinhart. Wahrhaftig! <em>Mir ist Frühling</em>; das kömmt mir eben so vor, als wenn ich mit den Epistolis obscurorum virorum sagen sollte: Habemus valde calidam Aestatem.<br>Sie lachen alle."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Nun es ist mir lieb, daß wir den Herrn Vielwitz hieher bekommen haben. Wissen Sie was, Herr Jambus, wir müssen eine Gesellschaft mit einander aufrichten."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Von Herzen gern, <em>da</em> bin ich mit <em>bey</em>.<br>Herr Jambus. Und zwar eine <em>Antigrammatikalische</em>.<br>Herr Vielwitz. Ja, ja! daß wir die Leute einmal das Vorurtheil aus <em>den</em> Kopf bringen, daß man denken und doch rein Deutsch schreiben müsse."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Sie haben es getroffen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart lachend. O du arme deutsche Sprache! erzittere! <em>dir wird nicht immer Schönheit seyn!</em><br>Herr Jambus. Nun, nun, spotten Sie nur nicht! Ihre Gedichte sollen brav herhalten, wenn Sie welche machen werden, die rein Deutsch sind.<br>Herr Reinhart. O das Märtyrthum würde mir eine Ehre seyn! allein es hat keine Noth. Ich treibe jetzt mein Advocatenhandwerk; weil mir ein witziger Kopf, der kein Brod hat, ein sehr elendes Geschöpf zu seyn scheint. Ich werde deswegen doch wohl wegen alter Bekanntschaft den Musen gewogen bleiben. Allein meiner Muttersprache auch. Wenn ich schlechtes und verstümmeltes Deutsch lesen will: so lese ich meine Acten und die Zeitungen! und wenn ich mir über einem Gedichte den Kopf zerbrechen will, so lese ich den Pindar und Persius selbst: und nicht ihre neuern Nachäffer.<br>Herr Vielwitz zu den andern. Lassen Sie <em>ihm</em> gehen. Den bekehren wir schon nicht! wie soll denn aber unsere neue Gesellschaft heißen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Ja, einen Namen müssen wir doch haben. Wie wäre es, wenn wir uns die <em>participialische Gesellschaft</em> nennten?"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Jambus. Nein, nein! das würde nur eine einzige Eigenschaft ausdrücken: wir müssen aber auch zugleich andeuten, daß wir auf das <em>Körnichte</em>, und auf die <em>Gedanken</em> gehen.<br>Herr Reinhart lachend. Ey! so nennen Sie sich <em>die denkende Undeutsche Gesellschaft</em>, oder <em>die undeutschdenkende Gesellschaft</em>.<br>Herr Vielwitz. Die <em>Denkende</em>? das gienge wohl hin; aber die Undeutsche, das ist nichts: denn damit gäben wir selbst zu, daß unsere Gedichte undeutsch wären.<br>Herr Jambus. Freylich.<br>Er besinnt sich.<br>Wissen Sie was, meine Herren? wir wollen uns <em>die denkende Sprachschnitzer-Gesellschaft</em> nennen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Ja, ja: der grammatikalischen Zunft zu Trotze!"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Gut, gut! das drückt auch zugleich aus, daß wir nicht allein die Participia; sondern auch alle andere Schnitzer in der Sprache dulden."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Ja: nur daß der Poet auch <em>denke</em>! denn <em>denken</em> muß er! sonst ist alles nichts."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Jambus. Nun also heißen wir: <em>die denkende Sprachschnitzer-Gesellschaft</em>.<br>Sie sagen alle. Ja! ja!<br>Und geben sich die Hände, umarmen sich auch. Ein jeder sagt.<br>Ihr Diener, Herr College.<br>Herr Reinhart macht einen Reverenz an sie. Ich gratulire von Herzen zu dieser neuen Societät, die den menschlichen Verstand wieder zu seiner alten Würde verhelfen wird; und empfehle mich Dero herzinniglichem Mitleiden, meine hochzuehrenden denkenden Herren Sprachschnitzler!<br>Sie schütteln die Köpfe."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Bey wem versammlen wir uns denn künftig meine Herren?"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Wollen Sie zu <em>mich</em> auf <em>meiner</em> Stube kommen; so steht Ihnen allemal ein Glas Wein und ein Stück Hamburger Rauchfleisch zu Diensten.<br>Herr Reinhart. Ey! die Anerbiethung nehmen Sie ja an, meine Herren. Es denkt sich noch einmal so gut, wenn man was zum Besten darbey hat."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Wenn es Sie so beliebt, so lasse ich mirs gefallen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Jambus. Wenn es Sie nur nicht zu beschwerlich fällt, mein Herr Vielwitz.<br>Herr Vielwitz. Im geringsten nicht; es soll <em>mich</em> eine Freude seyn.<br>Herr Jambus.<br>Und da wollen wir alles, was Neues herauskömmt, vornehmen, und das Seichte, das Matte, das Niedrige, das Kriechende, das unendlich drunter seyende, u.s.w. untersuchen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Ja, ja. Damit wir uns aber nicht mit allem dem schlechten Zeuge, was die andern Scribenten schmieren, den Geschmack zu sehr verderben: so wollen wir jedesmal uns auch von unsern Arbeiten was vorlesen; und uns sonderlich bemühen, unsre Sprache mit den abgebrochenen Redensarten der Engländer zu bereichern; die von den wässerichten Dichtern insgemein Anglicismi und Barbarismi genennet werden."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Jambus. Ja, und mit der Zeit können wir das, was wir uns denn vorgelesen und so gemustert und geändert haben, daß gar nichts mehr daran auszusetzen ist, als Muster der deutschen Dichtkunst in einem Bändchen drucken lassen.<br>Herr Vielwitz. Noch zur Zeit sehe ich nicht, daß die Welt es werth wäre, etwas von mir zu lesen. Die Zeiten müßten sich noch sehr ändern!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Nun? wenn kommen wir zum erstenmale zusammen, meine Herren?"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Jambus. Wenn es <em>Sie</em> beliebt, Herr Vielwitz, so können wir morgendes Tages anfangen.<br>Herr Vielwitz. Ja, meine Herren. Ich werde die Ehre haben Sie zu erwarten.<br>Herr Reinhart. Darf denn ein so unwürdiger deutscher Michel, als ich bin, zuweilen auch das Glück haben, Ihren denkenden Versammlungen beyzuwohnen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Ja, ja; aber nur als ein Zuhörer."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Jambus. Ja, er muß weder richten, noch was wir verurtheilen, vertheidigen. Denn er versteht das nicht, was zu einem recht schweren Verse gehört.<br>Herr Reinhart lächelnd. O das bescheide ich mich gar gerne! ich will mich nur ein wenig von der grammatikalischen Sucht, die mir anklebt, zu befreyen suchen.<br>Herr Vielwitz. Wer soll denn zuerst lesen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Ich habe eine mathematische Abhandlung von der Chloris Strickzeuge unter Händen; sie ist aber noch nicht fertig. Denn sie wird sehr ironisch, und sticht im vorbeygehen mehr als zwanzig von meinen guten Freunden und Lehrern an. Auch auf meine eigene Aeltern kommen ein Paar Püffe drinnen vor."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Ein feines Werkchen! eine mathematische Satire!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Ja, ein Philosoph ist mit niemanden verwandt, und niemanden verbunden. Er geht gerade durch, und sagt allen die Wahrheit. Haben Sie indessen was fertig, Herr Jambus; so können Sie anfangen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Jambus. Ja, ich habe eine Tragödie unter Händen, davon ist der erste Act fertig. Dergleichen muß noch nie gesehen seyn! sie besteht aus lauter epigrammatischen Gedanken, zwey und zwey Zeilen, oder selten vier Zeilen, machen allemal ein Sinngedicht aus. Jedes Stück davon hat mich wohl einen halben Tag Arbeit gekostet: und die trage ich nun zusammen, und schreibe nur die Namen drüber.<br>Herr Vielwitz. Sie bringen <em>mir</em> da auf einen Einfall. Gienge es nicht an, daß man auf eben <em>der</em> Art, aus dem Martial oder Ovenus eine Comödie machte? An satirischen Einfällen würde es nicht da fehlen, wenn jede Person, so oft sie den Mund aufthäte, eine stachelichte Spitzfündigkeit vorbrächte.<br>Herr Jambus. Warum nicht? Sie werden nur hören, daß sich mein Stück vortrefflich ausnimmt. Einige Stellen sind mir ganz besonders glücklich gerathen. Sophokles und Euripides sind lauter kaltes Wasser dagegen.<br>Herr Reinhart. Das glaube ich wohl! Aber welche Zuhörer werden ein so spitzfündiges Stück verstehen, wenn es aufgeführet wird?<br>Herr Jambus.Ich überlasse es dem poetischen Pöbel für den Pöbel zu schreiben: ich schreibe nur für die Weltweisen und Mathematicos.<br>Herr Reinhart. Und ich versichere Sie, daß weder Wolf noch Bülfinger, noch Euler Ihre Tragödie lesen werden.<br>Herr Jambus. Man weis, was man von den neuen Propheten zu halten hat. Haben Sie nicht auch was schönes fertig, Herr Vielwitz?<br>Herr Vielwitz. Ich habe ein Schäferspiel verfertiget, davon ich dem Herrn Reinhart gestern eine Abschrift gegeben habe. Darinn herrscht durchgehends das <em>Schalkhafte</em>.<br>Er lacht innerlich.<br>Es ist ein heilloses Ding!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Darf ich den Namen wissen?"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Es heißt die <em>Nothzüchtigung</em>. Ein <em>vertraktes schalkhaftes</em> Stück!<br>Herr Reinhart sieht ihn von Haupt zu Füßen an. Die Nothzüchtigung? ein Schäferspiel?<br>Herr Jambus. Das bin ich neugierig zu hören.<br>Herr Vielwitz. Sie werden Ihre Lust dran hören. Es hat <em>mich</em> auch manche sauere Stunde gemacht."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Aber, um unserer neuen Collegialischen Freundschaft willen! Herr Vielwitz, brauchen Sie doch das <em>Mich</em> und <em>Mir</em> nicht immer so falsch. Die Ohren thun mir schon ganz weh!"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Jambus. Ja, es ist entsetzlich, <em>Ihnen</em> so reden zu hören.<br>Herr Vielwitz. Und es ist eben so entsetzlich, meine Herren, Ihr beständiges falsches <em>Sie</em> und <em>Ihnen</em> zu hören."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich lacht spöttisch. So? wir werden endlich noch von den Niedersachsen Deutsch lernen sollen!"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Warum nicht? das Deutsche wäre eben nicht die einzige gescheide Sache, die der Herr und sein College von uns Niedersachsen zu erlernen nöthig hätte.<br>Herr Reinhart. Ey! meine Herren, wie ist es möglich, daß die Stifter der Sprachschnitzergesellschaft, sich über ihre Sprachschnitzer entzweyen können? Sie müssen ja zum besten der gemeinen Sache, ein jeder die Seinigen mit beytragen helfen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Ich nehme mich der obersächsischen Sprachschnitzer nur an: die sollen hier allein gelten; in Niedersachsen mögen die niedersächsischen schön seyn!"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Jambus. Ja, aber die Niedersächsischen sind ja wider alle Vernunft.<br>Herr Vielwitz. Ich habe obersächsische Leute gesehen, die eben so unvernünftig gewesen, als ihre Sprachschnitzer; und nöthig hätten, ein paar Jahre nach Niedersachsen zu ziehen, um gescheide Leute zu werden."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Wen meynen Sie damit, Herr Vielwitz?"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Ich nenne niemanden, und meyne mehr als einen.<br>Herr Jambus. Mein Herr Sie sind doch nicht etwa in <em>die</em> Hundstage gebohren?<br>Herr Vielwitz. Nein: wahrhaftig nicht! denn es ist <em>mich</em> noch nie eingefallen, aus lauter Epigrammatibus ein Trauerspiel, oder eine Comödie zu machen.<br>Herr Reinhart. Ey! meine Herren, Sie fangen an zu <em>denken</em>, wie ich sehe."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Sie haben ja wohl eine große mächtige Selbstliebe im Leibe!"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Ich habe aber noch nie auf <em>meinen</em> Aeltern ein Pasquill gemachet."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Mein Herr, Ihr Beyfall wäre gerade der schlechteste Lohn für meine Schriften."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Ich bedanke mich <em>vor Ihrer</em> Schnitzergesellschaft! Ich mag <em>dar</em> nicht <em>ein</em>!<br>Herr Jambus. Das erste Gedicht so ich darinnen vorlese, soll eine Satire auf <em>Ihnen</em> seyn.<br>Herr Vielwitz. Und ich will eine Critik über <em>Ihrer</em> Tragödie machen, daß keiner sie mit Füssen wird treten wollen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Herr! fangen Sie mit uns nicht an: wir sind fähig die größten Gelehrten lächerlich zu machen. Wir sind ohne dieß Willens, ein neues Wochenblatt anzufangen, das soll der <em>Lustigmacher</em> heißen: da könnten Sie eine Stelle darinnen bekommen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Es müßten sehr lächerliche Leute seyn, die sich auf solche lächerliche Criticos verließen.<br>Herr Jambus. Ey! warum sagen Sie nicht, auf solche Criticis, das wäre ja ein schöner Niedersaxonismus gewesen.<br>Sinnreich und Jambus lachen überlaut.<br>Herr Reinhart. Um des Himmels Willen! meine Herren, hören Sie auf zu <em>denken</em>. Dort kömmt Jungfer Lottchen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "(6. Auftritt)<br>"
+          },
+
+          {
+            "typ": "kontext",
+            "text": "Jungfer Lottchen. Das ist ja ein ungezogener Mensch. Mich wundert, daß nicht alle seine gute Freunde taub sind.<br>Sie setzt sich und die andern setzen sich auch."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich. Er fühlt sich freylich, daß er ein sehr witziger Kopf ist."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Er würde aber sehr wohl thun, wenn er nicht nur seine Stärke, sondern auch seine Schwäche fühlte.<br>Jungfer Lottchen giebt Reinharten den Brief. Da Herr Reinhart, thun Sie uns den Gefallen, und lesen Sie dieß laut. Ich werde wohl genug zu thun haben, daß ichs nur verstehe.<br>Herr Reinhart liest. »Werthgeschätzter liebster Herr Vater ...«<br>Herr Vielwitz springt erstaunt auf, und will ihm den Brief entreißen. Er aber versteckt ihn. Um des Himmels Willen! was haben Sie da? Geben Sie <em>mich</em> den Brief, wofern Sie es ein Bißchen gut mit <em>mich</em> meynen.<br>Jungfer Lottchen. Bey Leibe nicht, Herr Reinhart! sonst verlieren Sie alle meine Gunst.<br>Herr Reinhart weigert sich gegen Vielwitzen. Da sehen Sie es! das ist ja der ärgste Fluch den eine Schöne nur thun kann.<br>Herr Vielwitz ängstlich. Es ist aber ein Brief an <em>meinem</em> Vater ... Es stehen da Domestiksachen innen ... Ich bitte Sie um alles, warum man in der Welt bitten kann.<br>Jungfer Lottchen. Nein, nein! ich muß durchaus wissen, was darinnen steht: es werden doch solche heimliche Sachen nicht seyn, die Sie ihm von hieraus schreiben könnten. Sie sind ja nicht verheirathet, Herr Vielwitz?<br>Herr Vielwitz fällt vor ihr auf die Knie. Ach! Ach! ich bitte Sie auf das inständigste, Mademoiselle, lassen Sie <em>mich</em> den Brief wiedergeben.<br>Jungfer Lottchen. Gelt! Sie haben eine Liebste zu Hause gelassen? Die muß ich erfahren! Lesen Sie nur Herr Reinhart.<br>Herr Vielwitz springt auf, und hält Reinharten, welcher lesen will, den Mund zu. Ach allerliebstes, englisches Reinhartchen, ließ nicht!<br>Jungfer Lottchen. Nun so geben Sie mir den Brief wieder her. Ich will ihn sachte für mich lesen.<br>Herr Vielwitz sehr ängstlich. Ach! ich bin des Todes, wo Sie ihn lesen, Mademoiselle.<br>Er windet die Hände.<br>Was habe ich in der Eile <em>vor</em> einen Irrthum begangen? Da habe ich die Verse an Sie, in meines Vaters Brief eingesiegelt, und den Brief an <em>meinem</em> Vater, bey <em>Sie</em> eingeschlagen.<br>Er wirft sich ganz matt auf den Stuhl und windet die Hände.<br>Jungfer Lottchen. Wenn Sie nicht so ängstlich thäten: so wäre ich nicht halb so neugierig. Geben Sie mir nur den Brief, Herr Reinhart: ich will ihn zum mindesten für mich allein lesen.<br>Sie liest und sieht den Vielwitz dann und wann ernstlich an, und macht erstaunte Geberden. Vielwitz sitzt ganz ängstlich auf dem Stuhle. Reinhart zieht einen versiegelten Brief aus der Tasche und macht ihn auf.<br>Jungfer Lottchen. Nun das hätte ich mir von Ihnen nicht vermuthet, Herr Vielwitz. Für alle Höflichkeit und Ehre, die Ihnen in unserm Hause wiederfahren ist; ja ich sage mehr: für alles das Gute, was der alte Herr Reinhart, wie ich gewisse Proben davon habe, mit Ihnen noch im Sinne gehabt hat, dafür schreiben Sie Ihrem Vater so verächtlich von ihm? Gesetzt, daß er auch so wenig Vernunft und Witz hätte, als Sie schreiben: so hat er doch ein redliches Herz, und dieß macht allemal ein besser Glück in der Welt, als der größte Witz; wenn er mit einem bösartigen, hochmüthigen und undankbaren Herzen verknüpft ist. Was meine Wenigkeit anlanget: so versichere ich Sie, daß, wenn ich Ihnen zu dumm bin, Sie mir hergegen so klug noch nicht sind, daß ichs nicht schon vor 14 Tagen gesehen hätte, daß Sie ein Geck sind. Was diesen jungen Herren Reinhart betrifft ...<br>Herr Reinhart. Wie? was? Stehe ich auch darinnen?<br>Jungfer Lottchen. O ja! der Herr Vater wird es Ihnen schon zu lesen geben.<br>Zum Vielwitz.<br>Was ihn belanget! so versichere ich Sie, daß seine empfindlichste Rache an Ihnen, der Verlust seiner Freundschaft ist, die er Ihnen bisher ohnedieß nur aus Ehrfurcht gegen seinen Vater bewiesen hat. Die witzigen Köpfe hier in der Stadt, von denen Sie, ehe Sie sie noch gekannt, so verächtlich geurtheilet haben, die werden sich unfehlbar selbst rächen, und Ihnen gleiches mit gleichem vergelten."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich hitzig. Was? was? hat er von den witzigen Köpfen allhier auch übels geredet?"
+          },
+          {
+            "typ": "kontext",
+            "text": "Jungfer Lottchen. O ja! Er schildert sie so schön ab, daß er ihnen endlich keine bessre Benennung zu geben weis, als daß sie dumme Jungen sind."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Sinnreich zum Vielwitz. Warten Sie, <em>Sind Sie der Haare</em>? das will ich dem Jambus sagen! Wir wollen eine Satire auf <em>Ihnen</em> machen, die sich gewaschen haben soll.<br>Er läuft in die Ecke, nimmt seinen Hut und Degen und geht zornig ab."
+          },
+          {
+            "typ": "kontext",
+            "text": "Jungfer Lottchen. Ich will hinunter gehen, und dem alten Herrn Reinhart doch zeigen, was für einen schönen Gast er hier im Hause hat.<br>Sie will gehen.<br>Herr Reinhart. Ey, warten Sie noch ein wenig. Hier ist noch ein andrer Misverstand vorgegangen. Die Verse die Sie haben kriegen sollen, die sind hier an mich eingesiegelt. Lesen Sie sie doch.<br>Er giebt sie ihr.<br>Jungfer Lottchen. Ach! ich habe viel zu wenig Verstand dazu.<br>Sie schmeißt sie dem Vielwitz vor die Füße, und geht zornig ab."
+          },
+          {
+            "typ": "figurtext",
+            "text": "(8. Auftritt)"
+          }
+        ]
+      },
+
+      {
+        "id": "Witzling03",
+        "theaterstück": {
+          "titel": "Der Witzling. Ein deutsches Nachspiel in einem Aufzuge",
+          "zeit": "1745",
+          "druckort": "Leipzig",
+          "auffuehrungshinweise": "Der Schauplatz ist auf Jungfer Lottchens Zimmer [Leipzig]. Die Handlung fängt gleich nach der Mittagsmahlzeit an, und endiget sich gegen 5 Uhr."
+        },
+        "autor": {
+          "name": "Luise Adelgunde Victorie Gottsched",
+          "herkunft": "Ndt.",
+          "orte": ["Danzig", "Leipzig"],
+          "lebensdaten": "1713-1762"
+        },
+        "figur": {
+          "name": "Herr Jambus",
+          "rolle": "Dichter",
+          "beschreibung": "spricht obersächsisch; ein junger Dichter"
+        },
+        "dialekt": {
+          "adaption": "Heteroadaption",
+          "dialekt_grossraum": "Omd."
+        },
+        "geokoordinaten": {
+          "herkunft_autor": {
+            "lat": 54.350556,
+            "lng": 18.652778
+          },
+          "herkunft_figur": { 
+            "lat": null,
+            "lng": null
+          }
+        },
+        "abschnitt": "[tbd]",
+        "original_link": "https://dracor.org/ger/gottschedin-der-witzling",
+        "abschnitt_segmentiert": [
+          {
+            "typ": "kontext",
+            "text": "Die Vorigen. Herr Sinnreich. Herr Jambus. Sie kommen mit ungezogenen wilden Minen ins Zimmer. Reinhart empfängt sie.<br>Herr Reinhart. Ihr Diener meine Herren. Hier sehen Sie den Herrn Vielwitz, einen jungen Menschen aus Niedersachsen, der unserer Universität die Ehre thun, und hier studieren will.<br>Herr Sinnreich. Ihr Diener, mein Herr, ich bin erfreut, <em>Ihnen</em> zu sehen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Es ist mir ein Vergnügen, <em>Ihnen</em> kennen zu lernen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Es ist <em>mich</em> herzlich angenehm, ein Paar solche Männer hier zu sehen, <em>von die</em> der Herr Reinhart <em>mich</em> so viel Gutes gesagt hat.<br>Herr Reinhart. Setzen Sie sich doch.<br>Sie laufen beide in eine Ecke des Zimmers und legen die Hüte und die Degen ab. Jungfer Lottchen will sich darüber aufhalten. Reinhart aber winkt ihr, sie soll es nur lassen gut seyn. Sie setzen sich zum Caffeetische. Jungfer Lottchen schenkt einem jeden Caffee ein."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus der allemal sehr schreyet. Ist es schon lange mein Herr Vielwitz, daß wir die Ehre haben, <em>Ihnen</em> hier zu sehen?"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Es ist erst vierzehn Tage.<br>Herr Sinnreich. Wo logieren Sie denn?<br>Herr Vielwitz. Ich bin hier bey dem Herrn Reinhart <em>ins Haus</em>."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. <em>Haben Sie in Willens</em> lange hier zu bleiben?"
+          },
+          {
+            "typ": "kontext",
+            "text": "Jungfer Lottchen. Ey, was? meine Herren, Sie müssen mit dem Herrn Vielwitz solche gleichgültige Dinge, nicht reden. Er ist ein großer Poet."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Ein Poet?"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Zu dienen.<br>Herr Reinhart. Und ein Mathematicus dazu!<br>Herr Sinnreich. Ein Mathematicus? Wie haben Sie sich denn bis zum Dichter erniedrigen können?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Ey, mein lieber Herr Sinnreich, es hat eher gescheide Poeten gegeben, als gescheide Mathematicos."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Sinnreich. Ey, Herr Jambus, wir sind gute Freunde: aber in das Alter der Mathematik müssen Sie nicht pfuschen. Sie möchten sonst eine Sau machen.<br>Herr Vielwitz. Es ist wahr, die Mathematik ist das Edelste, was ein denkendes Wesen lernen und wissen kann.<br>Herr Sinnreich. Sie ist die einzige Wissenschaft, die Wahrheiten aufzuweisen hat: mit allen andern ist es lauter Ungewißheit. O Meßkunst! Zaum der Phantasie, Wer dir nur folget, irret nie! Wer ohne dich will gehn, der gleitet!<br>Jungfer Lottchen spöttisch. Es ist wohl wahr; daß 2 mal 2 4 ist, das ist eine viel gewissere Wahrheit, als daß die Sonne hell scheint!<br>Herr Reinhart lachend. Ich möchte gleichwohl lieber ein Capitel von Leibnitzens Theodicee gemacht haben, als der Erfinder des Einmal Eins seyn: was für ewige Wahrheiten auch immer darinnen stehen.<br>Zu Jungfer Lottchen.<br>Ich bleibe mit Fleiß bey dem Gleichnisse, was Sie aus der Arithmetik genommen haben: ungeachtet sie nur ein Theil der Mathematik ist.<br>Herr Sinnreich. Ich streite Ihnen nicht, daß Leibnitz ein großer Mann gewesen! das macht aber, er war ein großer Mathematicus.<br>Herr Reinhart zeigt auf Vielwitzen. Da sitzt aber ein Mann, der an der Leibnitzischen Infinitesimalrechnung sehr viel auszusetzen hat.<br>Herr Sinnreich sieht ihn von oben bis unten an. Sie? an Leibnitzens Infinitesimalrechnung?<br>Herr Vielwitz sieht ihn wieder so an. Ja, mein Herr. Ich bin nicht gern ein blinder Verehrer von <em>die</em> großen Leute. Ich untersuche gern alles, und da finde ich, daß sie alle irrende Menschen gewesen.<br>Herr Sinnreich voll Verwunderung. Nun? z. E.: was haben Sie denn daran auszusetzen?<br>Herr Vielwitz hochmüthig. Das wird sich zeigen, wenn mein Werk herauskommen wird.<br>Herr Reinhart. Sie müssen wissen, daß der Herr Vielwitz sein Werk schon auf der Schule, als ein Secundaner, geschrieben hat. Es ist also schon fertig.<br>Herr Sinnreich sich verwundernd. Auf der Schule? Sind Sie auf einer Schule gewesen?<br>Herr Vielwitz. Ja, mein Herr. Meines wissens bringt man das Latein nicht mit auf die Welt. Sind Sie etwa auf keiner Schule gewesen?<br>Herr Sinnreich. Es wäre eben so gut, wann es unterblieben wäre! Ich habe doch von keinem Lehrer was gelernet, als von dem Mathematico: das ist noch der einzige, von dem ich was gelernet habe!<br>Jungfer Lottchen lachend. Haben Sie denn das Lesen und Schreiben schon die ersten acht Tage Ihres Lebens gekonnt?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Nun, das könnte wohl seyn! Wenigstens kann ich ihm das Zeugniß geben, daß er so schreibt, als ich in meinem ersten Jahre auch hätte schreiben wollen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart lachend. Ja, Herr Sinnreich, Ihre Liebste wird sich erst einmal an D. Fausts Zauberzeichen üben müssen, ehe sie Ihre Hand wird lesen können.<br>Herr Sinnreich stolz. Docti male pingunt! Indessen, um wieder auf die Schulen zu kommen; so wird man da nur mit lauter Ungewißheiten gequälet. Mit der philosophischen Ungewißheit, mit der juristischen, medicinischen, oratorischen, historischen, poetischen und tausend andern Ungewißheiten: so daß noch das einzige Wahre, was man höret, die Mathematik ist.<br>Herr Reinhart lachend. Also, mein Herr Sinnreich, alles was Sie außer der Mathematik gelernet haben, das ist erlogen?<br>Herr Sinnreich. Es giebt wohl einige Arten von halben Gewißheiten, oder Wahrscheinlichkeiten, in den andern Wissenschaften; allein auf die kann ein Kopf, der zu den ewigen Wahrheiten gebohren ist, allenfalls von sich selbst kommen. Dazu hätte ich keine Lehrer nöthig gehabt!<br>Jungfer Lottchen. Nun es ist mir lieb, daß ich keiner von Ihren Lehrern gewesen bin. Das würde mir ein wenig undankbar vorkommen!<br>Herr Sinnreich. Wenn Sie mir die Ehre thun, und meine Lehrmeisterinn werden wollen; so will ich Ihnen gern alle meine Wissenschaften verdanken.<br>Herr Vielwitz. Sie werden also wohl schon etwas mathematisches geschrieben haben? Darf ich <em>mich</em> wohl etwas davon zu sehen ausbitten?<br>Herr Sinnreich. In etwa vierzehn Tagen, werde ich <em>Sie</em> mit einer Dissertation aufwarten können.<br>Herr Vielwitz. Wovon wird sie handeln?<br>Herr Sinnreich. Von dem Maaße des Winkels der Abweichung derer Gesichtsstralen, womit ein Schielender einen Gegenstand ansieht.<br>Herr Vielwitz. Das ist eine neue Materie!<br>Herr Sinnreich. Was ich davon sagen werde, das wird auch alles ganz neu seyn. Die Erfindungen <em>gehören</em> alle <em>meine</em>: und ich habe deswegen kein optisches Werk, ja nicht einmal den Newton nachgeschlagen: ungeachtet dieser noch das einzige Buch ist, das man sich nicht schämen darf, gelesen zu haben.<br>Herr Vielwitz. Ich bin recht neugierig, das zu lesen.<br>Herr Sinnreich. Die Beweise schließe ich allemal mit einer oder zwey Zeilen aus einem mathematischen Poeten, als Pope, Gebhardi, oder dergleichen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Nun, da sehen wirs! vorhin wollten Sie die Poesie herunter machen, und jetzt spicken Sie Ihre mathematischen Abhandlungen damit aus."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Sinnreich. Ey Poesie und Poesie ist sehr unterschieden: Ich meyne nicht die Wiegenliederpoeten, wie Opitz, Canitz, Besser, Neukirch, Günther, und andere Dichter; sondern diejenigen, darinn man, das Wahre, das Schöne, das Hohe, das Tiefe, das Dunkele, das Gedachte, das Schalkhafte ... kurz, alles, was man nur abstract nennen kann, antrifft.<br>Jungfer Lottchen lachend. Abstract? könnte man das nicht das Abgezogene nennen?<br>Herr Reinhart lacht. a ja! das <em>Abgezogene</em> in Gedichten. Das ist sehr schön und <em>abgezogen</em> gesagt!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Nun Herr Sinnreich, Sie haben anjetzt den Herren Vielwitz lange genug unterhalten; nunmehr lassen Sie mich auch einmal mit der Dichtkunst daran kommen. Es ist ganz unnatürlich, daß ein Poet so lange schweigen und zuhören soll."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Sinnreich. Meinethalben! Ich werde zum mindesten von der Poesie auch mit reden können. Dahingegen Sie von der Mathematik schweigen, und uns allein reden lassen mußten."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus zum Vielwitze. Sie haben unfehlbar schon viel schönes drucken lassen?"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Nein, das eben nicht. Aber ich denke dennoch, daß meine Arbeiten hier nicht unbekannt seyn können.<br>Herr Sinnreich. Ich besinne mich nicht; etwas von <em>Sie</em> gelesen zu haben.<br>Herr Vielwitz erstaunt. Haben Sie nicht vergangenen August die Cantate auf dem Schellhaferischen Saale gehört?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Nein. Haben Sie die etwa gemacht?"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Ja. Der Componist schrieb an <em>mir</em> und ersuchte <em>mir</em>, ich möchte ihm die Ehre thun und ihm eine Cantate machen.<br>Herr Reinhart zu den andern. Ey! meine Herren, das sollten Sie dem Manne nicht für ungenossen ausgehen lassen! Was? Zween solche körnichte Dichter in der Stadt zu haben, und noch nach Niedersachsen zu gehen, wenn man was schönes haben will? Das litte ich nicht!<br>Sie schütteln die Köpfe. Lottchen lacht.<br>Herr Vielwitz. Ich mochte es ihm auch nicht abschlagen: denn ich dachte, es könnte des ehrlichen Mannes Glück seyn. Wenn er aber so dumm gewesen ist, und hat meinen Namen nicht darzu drucken lassen: <em>Da</em> habe ich nicht schuld <em>an</em>! Da kann ich nicht <em>vor</em>.<br>Herr Sinnreich. Nein, wir haben hier nichts davon gewußt.<br>Herr Vielwitz. Das ist ein dummes <em>Beest</em>! Bey <em>mich</em> hat sich ein Componist Haus und Hof mit einer von meinen Cantaten verdient: sie war <em>mich</em> aber auch schön gerathen.<br>Herr Reinhart. O! daran ist kein Zweifel.<br>Herr Vielwitz. Indessen, die ich <em>nach hier</em> machte, war auch schön: denn ich dachte, du mußt doch die Leipziger was hermachen, das eine Art hat! In <em>eine</em> Arie hatte ich aus der <em>Algebra</em> was angebracht. Das war recht schön. Ich hatte <em>mich</em> aber auch viel Mühe gegeben ... kann ich <em>mir</em> nicht noch darauf besinnen?<br>Er sinnt nach."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Bedienen Sie sich auch der Participiorum, Herr Vielwitz?"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Ey! die sind meine beste Zierde! Die Cantate war recht voll davon.<br>Jungfer Lottchen. Was sind das für Dinger, Herr Reinhart?<br>Herr Reinhart lächelnd. Das ist eben das, als wenn ich Ihnen sagte: <em>zu kalt zum Trinken</em>, wird der Caffee wohl weggeräumt werden müssen.<br>Jungfer Lottchen lacht. So so! und: <em>Nicht gebohren zum aufwarten</em>, werde ich wohl den Diener rufen müssen.<br>Sie steht auf; die andern lachen und Jambus aus vollem Halse: so daß sich Lottchen die Ohren zuhält und abgeht."
+          },
+          {
+            "typ": "figurtext",
+            "text": "(5. Auftritt)<br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Das ist mir eine herzliche Freude, daß ich höre, daß Sie die Participia lieben."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Sinnreich. Mir ebenfalls. Ohne Participia kann man gar nichts denken.<br>Herr Vielwitz. Und <em>für einem</em> Verse, der nicht gedacht ist, da stehe ich nicht vor auf.<br>Herr Reinhart lachend. O freylich! Und gedacht, das heißt wacker undeutsch geredet.<br>Herr Vielwitz. Ey, das macht, Sie haben sich in <em>der</em> deutschen Schaubühne verliebt, drum finden Sie keinen Geschmack an klugen Versen.<br>Herr Reinhart. So? das heißt, in der deutschen Schaubühne steht lauter dummes Zeug?<br>Herr Sinnreich. Nun, wer poetische Wassersuppen lesen will, der kann sie gewiß da finden.<br>Herr Vielwitz. Ey meine Herren, es ist <em>mich</em> eine rechte Freude, daß Sie auch hierinnen meiner Meynung sind. Ein einzig Stück nehme ich aus; davon ist der Verfasser mein guter Freund. Aber die andern taugen alle nichts."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Sie meynen etwa das erste Stück in einem gewissen Bande? Ja, ja! Es heißt doch aber auch zuweilen: bonus dormitat Homerus."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Alle Zeilen sind freylich nicht gedacht. Indessen ubi plura nitent in carmine etc. diese Regel brauche ich zwar sonst bey keinem Gedichte: aber weil dieß mein guter Freund ist!<br>Herr Sinnreich. Die andern sind alle <em>unendlich unter</em> dem!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Das <em>Matte</em>, das <em>Kalte</em>, das <em>Unwahrscheinliche</em> ..."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart lächelnd. <em>Das sich nicht Lesenlassende?</em> Nicht wahr?<br>Herr Vielwitz. Freylich, ich weis nichts ungeschickters, als der Jean de France, der sich auf dem Theater das Kleid abzieht.<br>Er lacht hönisch."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Und der dumme Schöps, der im Menschenfeinde die Participia lächerlich machen will!"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Nein! ich hätte <em>mich</em> in einem solchen Werke doch bessere Sachen vermuthet. <em>Da</em> wird unsere Zeit keine Ehre von haben.<br>Herr Sinnreich. Sollen das Meisterstücke seyn?<br>Herr Reinhart. Wo hat denn der Herausgeber welche versprochen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus heftig. Aber wir fordern welche!"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart lacht sehr. Ganz gut. Wenn er einmal für Sie ganz allein eine Schaubühne herausgeben wird: so wird er sich vielleicht auf welche befleißigen, oder sich Ihre eigene Arbeiten ausbitten, die Sie doch wohl für Meisterstücke werden gelten lassen. <stage>Es kömmt ein Diener und nimmt den Caffeetisch weg.</stage> Anjetzt aber ist seine Absicht nur gewesen, Stücke zu liefern, die nicht so sehr wider die Regeln verstießen, und den Comödianten Sachen zu liefern, die viel gesitteter und gescheidter wären, als das elende Zeug, was sie bisher fast überall gespielt haben. Das werden Sie doch den Stücken in der Schaubühne nicht absprechen können."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus sie lachen alle drey spöttisch. Sie meynen doch auch die Banise?"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Ja, ja, auch die! denn sie ist doch unendlich besser, als die alte prosaische Banise, die man gleichwohl noch immer spielt, so dumm als sie ist. Setzen Sie sich aber nur hin, und machen Sie eine bessere, wenn Ihnen diese nicht gefällt. Das wird den Herausgeber nicht verdrießen, sondern ihm eine wahre Freude seyn.<br>Herr Jambus lacht sehr.<br>Herr Reinhart. O das ist eine kluge Antwort! mich dünkt doch, es giebt keine bessere Art zu beweisen, daß eine Sache schlecht sey, als wenn man sich geschwinde hinsetzt, und was bessers macht.<br>Herr Vielwitz. Wir verstehn das Theater auch ein wenig, mein Herr Reinhart.<br>Herr Reinhart. Nun gut. Wo sind denn die Meisterstücke, die Sie gemacht haben? Ich sehe sie doch noch nicht.<br>Herr Vielwitz. So müssen Sie gewiß noch nicht das Päckchen gelesen haben, was ich Ihnen gestern Abends mit gab. Ich habe freylich einige gemacht.<br>Herr Reinhart. Nein, ich bin heute Vormittags sehr beschäfftigt gewesen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Und von meinen Sachen haben Sie genug gelesen?"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Ja. Nur daß ich daran gewiß eben so viel auszusetzen hätte, als Sie an der deutschen Schaubühne auszusetzen finden.<br>Herr Sinnreich. Und was wollten Sie wohl an meinen Stücken aussetzen?<br>Herr Reinhart. Fürs erste dieses, daß sie undeutsch sind.<br>Herr Vielwitz. Ha! ha! ha! sind Sie auch einer von die Mückensäuger, die der Grammatik zu gefallen, einen schönen Gedanken ersticken?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Ich schreibe nicht für die Leute, die erst decliniren und conjugiren lernen wollen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Sie schreiben aber für Ihre Leser, und denen gefällt man eben nicht mit Sprachschnitzern.<br>Herr Sinnreich. O ja, ich lese allemal lieber einen schönen Gedanken, als einen richtigen Ausdruck.<br>Herr Vielwitz. Und <em>mir</em> dünkt, ein Gedanken kömmt <em>mich</em> noch einmal so schön vor, wenn der Ausdruck wider die Grammatik läuft.<br>Herr Reinhart. Ich will Ihnen noch mehr sagen, der ganze Gedanke besteht oftmals nur im Schnitzer: wenn Sie die Worte recht zusammen setzen; so ist gewiß kein Gedanke mehr da."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Ach! das ist nur eine Erfindung der seichten Köpfe, die nicht die Fähigkeit haben zu denken."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart lachend. Je, meynen Sie denn, daß eine so große Kunst dazu gehöre, Sprachschnitzer zu machen? Das kann ich alle Augenblicke auch; wenn das anders Witz und Hexerey heißen soll. Aber warum machen Sie es in den lateinischen Versen nicht auch so? Warum binden Sie sich da an die Grammatik?<br>Herr Vielwitz. O das ist was anders! Deutsch ist nicht lateinisch!<br>Herr Reinhart. Ja, das höre ich heute nicht zum erstenmale.<br>Herr Sinnreich. Die lateinische Sprache hat nun einmal ihre Regeln. Allein man müßte sehr verblendet seyn, wenn man das auch von der deutschen sagen wollte.<br>Herr Reinhart. Was? die deutsche Sprache hat also keine Regeln?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Nein. Man kann im Deutschen alles sagen, was man will."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Das bestreite ich nicht; aber man kann und muß es auch mit guten deutschen Ausdrücken sagen.<br>Herr Vielwitz. Nein, über dem Zwange geht mancher schöne Gedanke verloren.<br>Herr Reinhart. Ich wollte wohl wetten, daß sich dieß unter hundertmalen nicht zweymal zutrifft. Z. E. Ich las neulich in einem Gedichte, da ein Verliebter seine Schöne um Gegenliebe ersuchet, den Ausdruck; <em>uns wird nicht immer Frühling seyn</em>. Ist das nicht ein bloßer Latinismus?<br>Herr Sinnreich. Latinismus oder nicht! der Gedanken ist doch schön.<br>Herr Vielwitz. Ja, er <em>ist all</em> artig.<br>Herr Reinhart. Würde er aber nicht bleiben, was er ist, wenn ich ihn nun gleich so verdeutschete: <em>Wir werden nicht immer jung seyn?</em><br>Sie schreyen alle drey. Nein! nein! nein! das ist kalt, matt, frostig!<br>Herr Reinhart zuckt die Achseln und lacht. Da sehen Sies ja nun, daß Ihnen bloß der Sprachschnitzer gefällt; der Gedanke ist ja eben derselbe."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Bey Leibe nicht. <em>Uns wird nicht immer Frühling seyn!</em> das ist so malerisch, so körnicht geredet. Das andere ist lauter Wasser dagegen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Wahrhaftig! <em>Mir ist Frühling</em>; das kömmt mir eben so vor, als wenn ich mit den Epistolis obscurorum virorum sagen sollte: Habemus valde calidam Aestatem.<br>Sie lachen alle.<br>Herr Sinnreich. Nun es ist mir lieb, daß wir den Herrn Vielwitz hieher bekommen haben. Wissen Sie was, Herr Jambus, wir müssen eine Gesellschaft mit einander aufrichten.<br>Herr Vielwitz. Von Herzen gern, <em>da</em> bin ich mit <em>bey</em>."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Und zwar eine <em>Antigrammatikalische</em>."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Ja, ja! daß wir die Leute einmal das Vorurtheil aus <em>den</em> Kopf bringen, daß man denken und doch rein Deutsch schreiben müsse.<br>Herr Sinnreich. Sie haben es getroffen.<br>Herr Reinhart lachend. O du arme deutsche Sprache! erzittere! <em>dir wird nicht immer Schönheit seyn!</em>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Nun, nun, spotten Sie nur nicht! Ihre Gedichte sollen brav herhalten, wenn Sie welche machen werden, die rein Deutsch sind."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. O das Märtyrthum würde mir eine Ehre seyn! allein es hat keine Noth. Ich treibe jetzt mein Advocatenhandwerk; weil mir ein witziger Kopf, der kein Brod hat, ein sehr elendes Geschöpf zu seyn scheint. Ich werde deswegen doch wohl wegen alter Bekanntschaft den Musen gewogen bleiben. Allein meiner Muttersprache auch. Wenn ich schlechtes und verstümmeltes Deutsch lesen will: so lese ich meine Acten und die Zeitungen! und wenn ich mir über einem Gedichte den Kopf zerbrechen will, so lese ich den Pindar und Persius selbst: und nicht ihre neuern Nachäffer.<br>Herr Vielwitz zu den andern. Lassen Sie <em>ihm</em> gehen. Den bekehren wir schon nicht! wie soll denn aber unsere neue Gesellschaft heißen?<br>Herr Sinnreich. Ja, einen Namen müssen wir doch haben. Wie wäre es, wenn wir uns die <em>participialische Gesellschaft</em> nennten?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Nein, nein! das würde nur eine einzige Eigenschaft ausdrücken: wir müssen aber auch zugleich andeuten, daß wir auf das <em>Körnichte</em>, und auf die <em>Gedanken</em> gehen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart lachend. Ey! so nennen Sie sich <em>die denkende Undeutsche Gesellschaft</em>, oder <em>die undeutschdenkende Gesellschaft</em>.<br>Herr Vielwitz. Die <em>Denkende</em>? das gienge wohl hin; aber die Undeutsche, das ist nichts: denn damit gäben wir selbst zu, daß unsere Gedichte undeutsch wären."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Freylich.<br>Er besinnt sich.<br>Wissen Sie was, meine Herren? wir wollen uns <em>die denkende Sprachschnitzer-Gesellschaft</em> nennen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Sinnreich. Ja, ja: der grammatikalischen Zunft zu Trotze!<br>Herr Vielwitz. Gut, gut! das drückt auch zugleich aus, daß wir nicht allein die Participia; sondern auch alle andere Schnitzer in der Sprache dulden.<br>Herr Sinnreich. Ja: nur daß der Poet auch <em>denke</em>! denn <em>denken</em> muß er! sonst ist alles nichts."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Nun also heißen wir: <em>die denkende Sprachschnitzer-Gesellschaft</em>."
+          },
+          {
+            "typ": "kontext",
+            "text": "Sie sagen alle. Ja! ja!<br>Und geben sich die Hände, umarmen sich auch. Ein jeder sagt.<br>Ihr Diener, Herr College.<br>Herr Reinhart macht einen Reverenz an sie. Ich gratulire von Herzen zu dieser neuen Societät, die den menschlichen Verstand wieder zu seiner alten Würde verhelfen wird; und empfehle mich Dero herzinniglichem Mitleiden, meine hochzuehrenden denkenden Herren Sprachschnitzler!<br>Sie schütteln die Köpfe.<br>Herr Sinnreich. Bey wem versammlen wir uns denn künftig meine Herren?<br>Herr Vielwitz. Wollen Sie zu <em>mich</em> auf <em>meiner</em> Stube kommen; so steht Ihnen allemal ein Glas Wein und ein Stück Hamburger Rauchfleisch zu Diensten.<br>Herr Reinhart. Ey! die Anerbiethung nehmen Sie ja an, meine Herren. Es denkt sich noch einmal so gut, wenn man was zum Besten darbey hat.<br>Herr Sinnreich. Wenn es Sie so beliebt, so lasse ich mirs gefallen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Wenn es Sie nur nicht zu beschwerlich fällt, mein Herr Vielwitz."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Im geringsten nicht; es soll <em>mich</em> eine Freude seyn."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus.<br>Und da wollen wir alles, was Neues herauskömmt, vornehmen, und das Seichte, das Matte, das Niedrige, das Kriechende, das unendlich drunter seyende, u.s.w. untersuchen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Sinnreich. Ja, ja. Damit wir uns aber nicht mit allem dem schlechten Zeuge, was die andern Scribenten schmieren, den Geschmack zu sehr verderben: so wollen wir jedesmal uns auch von unsern Arbeiten was vorlesen; und uns sonderlich bemühen, unsre Sprache mit den abgebrochenen Redensarten der Engländer zu bereichern; die von den wässerichten Dichtern insgemein Anglicismi und Barbarismi genennet werden."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Ja, und mit der Zeit können wir das, was wir uns denn vorgelesen und so gemustert und geändert haben, daß gar nichts mehr daran auszusetzen ist, als Muster der deutschen Dichtkunst in einem Bändchen drucken lassen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Noch zur Zeit sehe ich nicht, daß die Welt es werth wäre, etwas von mir zu lesen. Die Zeiten müßten sich noch sehr ändern!<br>Herr Sinnreich. Nun? wenn kommen wir zum erstenmale zusammen, meine Herren?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Wenn es <em>Sie</em> beliebt, Herr Vielwitz, so können wir morgendes Tages anfangen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Ja, meine Herren. Ich werde die Ehre haben Sie zu erwarten.<br>Herr Reinhart. Darf denn ein so unwürdiger deutscher Michel, als ich bin, zuweilen auch das Glück haben, Ihren denkenden Versammlungen beyzuwohnen.<br>Herr Sinnreich. Ja, ja; aber nur als ein Zuhörer."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Ja, er muß weder richten, noch was wir verurtheilen, vertheidigen. Denn er versteht das nicht, was zu einem recht schweren Verse gehört."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart lächelnd. O das bescheide ich mich gar gerne! ich will mich nur ein wenig von der grammatikalischen Sucht, die mir anklebt, zu befreyen suchen.<br>Herr Vielwitz. Wer soll denn zuerst lesen?<br>Herr Sinnreich. Ich habe eine mathematische Abhandlung von der Chloris Strickzeuge unter Händen; sie ist aber noch nicht fertig. Denn sie wird sehr ironisch, und sticht im vorbeygehen mehr als zwanzig von meinen guten Freunden und Lehrern an. Auch auf meine eigene Aeltern kommen ein Paar Püffe drinnen vor.<br>Herr Reinhart. Ein feines Werkchen! eine mathematische Satire!<br>Herr Sinnreich. Ja, ein Philosoph ist mit niemanden verwandt, und niemanden verbunden. Er geht gerade durch, und sagt allen die Wahrheit. Haben Sie indessen was fertig, Herr Jambus; so können Sie anfangen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Ja, ich habe eine Tragödie unter Händen, davon ist der erste Act fertig. Dergleichen muß noch nie gesehen seyn! sie besteht aus lauter epigrammatischen Gedanken, zwey und zwey Zeilen, oder selten vier Zeilen, machen allemal ein Sinngedicht aus. Jedes Stück davon hat mich wohl einen halben Tag Arbeit gekostet: und die trage ich nun zusammen, und schreibe nur die Namen drüber."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Sie bringen <em>mir</em> da auf einen Einfall. Gienge es nicht an, daß man auf eben <em>der</em> Art, aus dem Martial oder Ovenus eine Comödie machte? An satirischen Einfällen würde es nicht da fehlen, wenn jede Person, so oft sie den Mund aufthäte, eine stachelichte Spitzfündigkeit vorbrächte."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Warum nicht? Sie werden nur hören, daß sich mein Stück vortrefflich ausnimmt. Einige Stellen sind mir ganz besonders glücklich gerathen. Sophokles und Euripides sind lauter kaltes Wasser dagegen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Das glaube ich wohl! Aber welche Zuhörer werden ein so spitzfündiges Stück verstehen, wenn es aufgeführet wird?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus.Ich überlasse es dem poetischen Pöbel für den Pöbel zu schreiben: ich schreibe nur für die Weltweisen und Mathematicos."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Reinhart. Und ich versichere Sie, daß weder Wolf noch Bülfinger, noch Euler Ihre Tragödie lesen werden."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Man weis, was man von den neuen Propheten zu halten hat. Haben Sie nicht auch was schönes fertig, Herr Vielwitz?"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Ich habe ein Schäferspiel verfertiget, davon ich dem Herrn Reinhart gestern eine Abschrift gegeben habe. Darinn herrscht durchgehends das <em>Schalkhafte</em>.<br>Er lacht innerlich.<br>Es ist ein heilloses Ding!<br>Herr Sinnreich. Darf ich den Namen wissen?<br>Herr Vielwitz. Es heißt die <em>Nothzüchtigung</em>. Ein <em>vertraktes schalkhaftes</em> Stück!<br>Herr Reinhart sieht ihn von Haupt zu Füßen an. Die Nothzüchtigung? ein Schäferspiel?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Das bin ich neugierig zu hören."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Sie werden Ihre Lust dran hören. Es hat <em>mich</em> auch manche sauere Stunde gemacht.<br>Herr Sinnreich. Aber, um unserer neuen Collegialischen Freundschaft willen! Herr Vielwitz, brauchen Sie doch das <em>Mich</em> und <em>Mir</em> nicht immer so falsch. Die Ohren thun mir schon ganz weh!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Ja, es ist entsetzlich, <em>Ihnen</em> so reden zu hören."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Und es ist eben so entsetzlich, meine Herren, Ihr beständiges falsches <em>Sie</em> und <em>Ihnen</em> zu hören.<br>Herr Sinnreich lacht spöttisch. So? wir werden endlich noch von den Niedersachsen Deutsch lernen sollen!<br>Herr Vielwitz. Warum nicht? das Deutsche wäre eben nicht die einzige gescheide Sache, die der Herr und sein College von uns Niedersachsen zu erlernen nöthig hätte.<br>Herr Reinhart. Ey! meine Herren, wie ist es möglich, daß die Stifter der Sprachschnitzergesellschaft, sich über ihre Sprachschnitzer entzweyen können? Sie müssen ja zum besten der gemeinen Sache, ein jeder die Seinigen mit beytragen helfen.<br>Herr Sinnreich. Ich nehme mich der obersächsischen Sprachschnitzer nur an: die sollen hier allein gelten; in Niedersachsen mögen die niedersächsischen schön seyn!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Ja, aber die Niedersächsischen sind ja wider alle Vernunft."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Ich habe obersächsische Leute gesehen, die eben so unvernünftig gewesen, als ihre Sprachschnitzer; und nöthig hätten, ein paar Jahre nach Niedersachsen zu ziehen, um gescheide Leute zu werden.<br>Herr Sinnreich. Wen meynen Sie damit, Herr Vielwitz?<br>Herr Vielwitz. Ich nenne niemanden, und meyne mehr als einen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Mein Herr Sie sind doch nicht etwa in <em>die</em> Hundstage gebohren?"
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Nein: wahrhaftig nicht! denn es ist <em>mich</em> noch nie eingefallen, aus lauter Epigrammatibus ein Trauerspiel, oder eine Comödie zu machen.<br>Herr Reinhart. Ey! meine Herren, Sie fangen an zu <em>denken</em>, wie ich sehe.<br>Herr Sinnreich. Sie haben ja wohl eine große mächtige Selbstliebe im Leibe!<br>Herr Vielwitz. Ich habe aber noch nie auf <em>meinen</em> Aeltern ein Pasquill gemachet.<br>Herr Sinnreich. Mein Herr, Ihr Beyfall wäre gerade der schlechteste Lohn für meine Schriften.<br>Herr Vielwitz. Ich bedanke mich <em>vor Ihrer</em> Schnitzergesellschaft! Ich mag <em>dar</em> nicht <em>ein</em>!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Das erste Gedicht so ich darinnen vorlese, soll eine Satire auf <em>Ihnen</em> seyn."
+          },
+          {
+            "typ": "kontext",
+            "text": "Herr Vielwitz. Und ich will eine Critik über <em>Ihrer</em> Tragödie machen, daß keiner sie mit Füssen wird treten wollen.<br>Herr Sinnreich. Herr! fangen Sie mit uns nicht an: wir sind fähig die größten Gelehrten lächerlich zu machen. Wir sind ohne dieß Willens, ein neues Wochenblatt anzufangen, das soll der <em>Lustigmacher</em> heißen: da könnten Sie eine Stelle darinnen bekommen.<br>Herr Vielwitz. Es müßten sehr lächerliche Leute seyn, die sich auf solche lächerliche Criticos verließen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Ey! warum sagen Sie nicht, auf solche Criticis, das wäre ja ein schöner Niedersaxonismus gewesen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Sinnreich und Jambus lachen überlaut.<br>Herr Reinhart. Um des Himmels Willen! meine Herren, hören Sie auf zu <em>denken</em>. Dort kömmt Jungfer Lottchen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "(6. Auftritt)<br>"
+          },
+
+          {
+            "typ": "kontext",
+            "text": "Jungfer Lottchen. Nun? Es geht fein burschikoos auf meiner Stube zu.<br>Herr Vielwitz. erzeihe Sie es Mademoiselle. Ich dachte ich wäre unter gelehrten Männern gekommen: so sehe ich wohl, daß es nichts mehr, als Studenten sind."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus. Ja, wir geben Lection im Lateinischen conjugiren und decliniren. Wenn Sie etwa auf der Schule damit nicht fertig geworden sind, Herr Vielwitz: so dörfen Sie es nur sagen."
+          },
+          {
+            "typ": "kontext",
+            "text": "Jungfer Lottchen. Ey meine Herren! In meiner Gegenwart bitte ich, sich entweder nicht zu zanken; oder einen andern Ort dazu zu erwählen, als mein Zimmer. Herr Vielwitz hat mir heute früh etwas von seinen Versen geschickt, das wollen wir durchlesen. Der Herr Jambus und Sinnreich verstehen die Poesie so wohl, daß sie entweder die Arbeit bewundern, oder tadeln können werden.<br>Sie nimmt den Brief vom Tische und erbricht ihn."
+          },
+          {
+            "typ": "figurtext",
+            "text": "Herr Jambus schreyt sehr. Was? ich sollte mich dahin setzen, und eines andern Dichters Arbeit anhören? Das ist mir unmöglich! Daß andere Leute mir meine Gedichte 6 Stunden lang zuhören müssen, das ist wohl meine Gewohnheit: allein so, scheide ich davon.<br>Er läuft in den Winkel, rafft seinen Degen und Stock auf, und läuft ungestüm ab."
+          },
+          {
+            "typ": "figurtext",
+            "text": "(7. Auftritt)"
+          }
+        ]
+      },
+
+      
+    {
         "id": "MonetariusSeditiosus01",
         "theaterstück": {
           "titel": "Monetarius Seditiosus Sive Incendia Rusticorum Bellica",
