@@ -37,65 +37,73 @@
         "original_link": "https://dracor.org/ger/gottschedin-der-witzling",
         "abschnitt_segmentiert": [
           {
+            "typ": "figurtext",
+            "text": "<b>Dritter Auftritt<b>"
+          },
+          {
             "typ": "kontext",
-            "text": "Jungfer Lottchen; Herr Reinhart; Herr Vielwitz kömmt mit dem Hute auf dem Kopfe herein, und nimmt ihn erst ab, nachdem er die Thüre zugemacht hat."
+            "text": "<i>JUNGFER LOTTCHEN; HERR REINHART; HERR VIELWITZ kömmt mit dem Hute auf dem Kopfe herein, und nimmt ihn erst ab, nachdem er die Thüre zugemacht hat.</i>"
           },
           {
             "typ": "figurtext",
-            "text": "Herr Vielwitz sehr gravitätisch. Ihr gehorsamer Diener meine liebe Demoiselle! Ihr ergebner Diener, Herr Reinhart!"
+            "text": "HERR VIELWITZ <i>sehr gravitätisch.</i> Ihr gehorsamer Diener meine liebe Demoiselle! Ihr ergebner Diener, Herr Reinhart!"
           },
           {
             "typ": "kontext",
-            "text": "Jungfer Lottchen. Ihre Dienerinn, Herr Vielwitz. Regnet es etwa draußen im Vorsaale?"
+            "text": "JUNGFER LOTTCHEN. Ihre Dienerinn, Herr Vielwitz. Regnet es etwa draußen im Vorsaale?"
           },
           {
             "typ": "figurtext",
-            "text": "Herr Vielwitz sich verwundernd und lächelnd. Im Vorsaale? nein!"
+            "text": "HERR VIELWITZ <i>sich verwundernd und lächelnd.</i> Im Vorsaale? nein!"
           },
           {
             "typ": "kontext",
-            "text": "Jungfer Lottchen. Ich glaube es wohl. Aber ich vermuthete etwas dergleichen; weil Sie mit dem Hute auf dem Kopfe herein kamen.<br>Herr Reinhart. Sein Herr Vater kömmt allezeit so auf seine Schreibstube.<br>Jungfer Lottchen lächelnd. Ja, da sitzen auch seine Kaufmannsdiener; aber hier nicht."
+            "text": "JUNGFER LOTTCHEN. Ich glaube es wohl. Aber ich vermuthete etwas dergleichen; weil Sie mit dem Hute auf dem Kopfe herein kamen.<br>HERR REINHART. Sein Herr Vater kömmt allezeit so auf seine Schreibstube.<br>JUNGFER LOTTCHEN <i>lächelnd.</i> Ja, da sitzen auch seine Kaufmannsdiener; aber hier nicht."
           },
           {
             "typ": "figurtext",
-            "text": "Herr Vielwitz. Ländlich, sittlich. Bey mich kömmt niemand anders in einer Stube, als mit den Hut auf den Kopf."
+            "text": "HERR VIELWITZ. Ländlich, sittlich. Bey mich kömmt niemand anders in einer Stube, als mit den Hut auf den Kopf."
           },
           {
             "typ": "kontext",
-            "text": "Jungfer Lottchen. Ja, ja! grobe Moden, sind auch Moden. Setzen Sie sich doch.<br>Sie setzen sich, Jungfer Lottchen klingelt.<br>Herr Reinhart. Sind Sie etwa ausgegangen gewesen, mein Herr Vielwitz?"
+            "text": "JUNGFER LOTTCHEN. Ja, ja! grobe Moden, sind auch Moden. Setzen Sie sich doch. <i>Sie setzen sich, JUNGFER LOTTCHEN klingelt.</i><br>HERR REINHART. Sind Sie etwa ausgegangen gewesen, mein Herr Vielwitz?"
           },
           {
             "typ": "figurtext",
-            "text": "Herr Vielwitz. Ja, heute Vormittage bin ich in etliche Collegia gewesen."
+            "text": "HERR VIELWITZ. Ja, heute Vormittage bin ich in etliche Collegia gewesen."
           },
           {
             "typ": "kontext",
-            "text": "Jungfer Lottchen. Nun, wie haben Ihnen unsere Lehrer gefallen?"
+            "text": "JUNGFER LOTTCHEN. Nun, wie haben Ihnen unsere Lehrer gefallen?"
           },
           {
             "typ": "figurtext",
-            "text": "Herr Vielwitz zuckt die Achseln. Was das für schlechte Leute sind! Wie werde ich noch meine Präceptores zu Hause bedauren! Nein! so was elendes hätte ich mich nicht vermuthet."
+            "text": "HERR VIELWITZ <i>zuckt die Achseln.</i> Was das für schlechte Leute sind! Wie werde ich noch meine Präceptores zu Hause bedauren! Nein! so was elendes hätte ich mich nicht vermuthet."
           },
           {
             "typ": "kontext",
-            "text": "Herr Reinhart erstaunt. Wie? bey wem sind Sie denn gewesen?"
+            "text": "HERR REINHART erstaunt. Wie? bey wem sind Sie denn gewesen?"
           },
           {
             "typ": "figurtext",
-            "text": "Herr Vielwitz verächtlich. Ach! ich mag die lieben Leute nicht nennen! Sie stehn einmal in einem gewissen Ansehn bey der Welt.<br>Lächelnd.<br>Sie mögen ihren Ruhm genießen! ich will sie nicht zu Boden schlagen."
+            "text": "HERR VIELWITZ <i>verächtlich.</i> Ach! ich mag die lieben Leute nicht nennen! Sie stehn einmal in einem gewissen Ansehn bey der Welt. <i>Lächelnd.</i> Sie mögen ihren Ruhm genießen! ich will sie nicht zu Boden schlagen."
           },
           {
             "typ": "kontext",
-            "text": "Jungfer Lottchen. Ihr Urtheil würde sie vielleicht auch wohl nicht gleich zu elenden Leuten machen: wenn es gleich Männer sind, die, wie Sie sagen, schon ein Ansehen in der Welt erhalten haben."
+            "text": "JUNGFER LOTTCHEN. Ihr Urtheil würde sie vielleicht auch wohl nicht gleich zu elenden Leuten machen: wenn es gleich Männer sind, die, wie Sie sagen, schon ein Ansehen in der Welt erhalten haben."
           },
           {
             "typ": "figurtext",
-            "text": "(3. Auftritt)<br><br>"
+            "text": "<b>(3. Auftritt)<b><br><br>"
           },
-          
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Vierter Auftritt</b>"
+          },
           {
             "typ": "kontext",
-            "text": "Die Vorigen. Paul.<br>Paul zu Jungfer Lottchen. Was befehlen Sie?<br>Jungfer Lottchen. Bringt Caffee!<br>Der Diener gebt ab.<br>Herr Reinhart lächelnd. Sie werden also Ihren Zweck hier sehr schlecht erreichen, da Sie studierens wegen hergekommen sind?"
+            "text": "<i>Die Vorigen. Paul.</i><br>Paul zu Jungfer Lottchen. Was befehlen Sie?<br>Jungfer Lottchen. Bringt Caffee!<br>Der Diener gebt ab.<br>Herr Reinhart lächelnd. Sie werden also Ihren Zweck hier sehr schlecht erreichen, da Sie studierens wegen hergekommen sind?"
           },
           {
             "typ": "figurtext",
