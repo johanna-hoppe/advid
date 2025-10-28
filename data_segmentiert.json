@@ -10714,9 +10714,9 @@
         },
         "autor": {
           "name": "Luise Adelgunde Victorie Gottsched",
-          "herkunft": "Nd.",
+          "herkunft": "Ndt.",
           "orte": ["Danzig", "Leipzig"],
-          "lebensdaten": "1713–1762"
+          "lebensdaten": "1713-1762"
         },
         "figur": {
           "name": "Frau Ehrlichen",
@@ -10725,7 +10725,7 @@
         },
         "dialekt": {
           "adaption": "Autoadaption",
-          "dialekt_grossraum": "Nd."
+          "dialekt_grossraum": "Ndt."
         },
         "geokoordinaten": {
           "herkunft_autor": {
@@ -10737,9 +10737,17 @@
             "lng": null
           }
         },
-        "abschnitt": "FRAU EHRLICHEN. Ha! ha! Herr Magister! fing eck em hier? He es en schöner Herr! Eck bedanck my vor den schönen Onderrecht, den he myner Dochter gegewen hefft. HERR SCHEINFROMM. Was wollt ihr denn von mir haben? FRAU EHRLICHEN. I! du Schelm! Wat eck von dy hebben wöll? Eck frag dy, wat du von myner Dochter hebben wöllst? du verfloockter Hund! HERR SCHEINFROMM. Meine liebe Frau, was redet ihr? Habe ich eure Tochter nicht gut und gründlich unterrichtet? FRAU EHRLICHEN. Gründlich? Ja freylich! mehr, als't my löv es! du Schelm! Eck scheck dy myn Kind, dat du't en der Gottseeligkeit onderrechten sollst; on nich en der Gottlosigkeit! Wat Düwel wöllstu von dem Meeken hebben? Wöllstu Hooren hebben; so seek dy welcke: Op der Lestadie loopen genoog herümmer; aber vertobb my nich myn Kind. HERR SCHEINFROMM. Was redet ihr doch? Eure Tochter lüget euch solche Dinge vor; Vielleicht verdreußt es sie, daß ich mich ihrer Seeligkeit so eiffrig angenommen habe, und ihr manchesmahl scharff zugeredet. FRAU EHRLICHEN. Ja! du böst de rechte Keerel tor Seeligkeit; du sullst myne Dochter wohl föhren en den Himmel, wo de Engel met Külen dantzen. Zur Frau Glaubeleichtin. Wat meent se wohl Frau Nabern! Eck schak em myne Dochter en't Huuß, dat he se sall en der Reelgon enfermeeren; denn eck wöll se op Ostern tom heilgen Avendmaal nehmen. On de verflookte Keerl es dem Meeken allerly gottloß Tüg anmoden. Eck seh! se siht ut! se grient; eck frag er: Endlich kömmt 't herrut, wat Herr Scheinfromm vor een schöner Herr es. Da sall em de Düvel der veer halen! Eck wöll'm vor 't Constorien kriegen; da sall he my en een Loch kruupe, wor em nich Sonn nich Maand beschienen sall. FRAU GLAUBELEICHTIN. Ach liebe Frau Nachbarin! bedenckt doch, was ihr redet; Herr Scheinfromm ist ein heiliger Mann. HERR SCHEINFROMM. Mein GOtt! du schickst mir diese Versuchung zu. Ich dancke dir auch dafür! FRAU SEUFFZERIN. Seht doch! wie gedultig der fromme Mann bey seinem Leiden ist. Ach! ihr seyd eine böse Frau! FRAU ZANCKENHEIMIN. Packt euch fort; ehe wir euch die Treppe hinunter werffen lassen. Wer weiß, was eure Tochter vor ein Thierchen ist; und mit wem sie sich so gemein gemacht hat. Jetzo will sie es auf diesen heiligen Mann schieben. FRAU EHRLICHEN. Ja! klook kosen; nuscht dohn! Wat Düvel sy jy denn vor Rackertüg? Eck glow, jy sennt von dat pietistsche Wievervolck, de seck en de Reelgon mengen. Aber jy verstahn so veel darvon, als de Koh vom nygen Door. Hör jy dat? Domme Düvels sy jy! Dat segg eck ju! Eck sy so klook, als jy: Awer eck gloow, de Wiewer, de seck en solche Sachen mengen, de eenen nuscht angahn, onn de se nich verstahn, dat send Kalwes-Köppe! On dat sy jy ook! HERR SCHEINFROMM. Ach meine Frau! geht doch, und lasst uns zu frieden. FRAU EHRLICHEN. Wat? Eck war ju nich to freeden laten; stracks kaamt met my vor 't Constorien. HERR SCHEINFROMM. Was wollt ihr denn von mir haben? GOtt kennt meine Unschuld, und eurer Tochter Bosheit. FRAU EHRLICHEN. Ja! frylich weet GOtt, dat du en Schelm best! Kaamt met my! eck segg 't ju; oder eck kratz ju de Oogen ut. Sie zieht ihn beym Ermel. Er entflieht. Ah, ha! Loop du man! eck war dy wohl enhahlen. Sie geht ab. (4. Handlung, 4. Auftritt)",
+        "abschnitt": "[tbd]",
         "original_link": "https://dracor.org/ger/gottschedin-die-pietisterey-im-fischbein-rocke",
         "abschnitt_segmentiert": [
+          {
+            "typ": "figurtext",
+            "text": "<b>Vierte Handlung<br>Vierter Auftritt</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "Frau Glaubeleichtin, Frau Zanckenheimin, Herr Magister Scheinfromm, Frau Seuffzerin, und Frau Ehrlichen."
+          },
           {
             "typ": "figurtext",
             "text": "FRAU EHRLICHEN. Ha! ha! Herr Magister! fing eck em hier? He es en schöner Herr! Eck bedanck my vor den schönen Onderrecht, den he myner Dochter gegewen hefft."
@@ -10766,11 +10774,11 @@
           },
           {
             "typ": "figurtext",
-            "text": "FRAU EHRLICHEN. Ja! du böst de rechte Keerel tor Seeligkeit; du sullst myne Dochter wohl föhren en den Himmel, wo de Engel met Külen dantzen.\nZur Frau Glaubeleichtin.\nWat meent se wohl Frau Nabern! Eck schak em myne Dochter en't Huuß, dat he se sall en der Reelgon enfermeeren; denn eck wöll se op Ostern tom heilgen Avendmaal nehmen. On de verflookte Keerl es dem Meeken allerly gottloß Tüg anmoden. Eck seh! se siht ut! se grient; eck frag er: Endlich kömmt 't herrut, wat Herr Scheinfromm vor een schöner Herr es. Da sall em de Düvel der veer halen! Eck wöll'm vor 't Constorien kriegen; da sall he my en een Loch kruupe, wor em nich Sonn nich Maand beschienen sall."
+            "text": "FRAU EHRLICHEN. Ja! du böst de rechte Keerel tor Seeligkeit; du sullst myne Dochter wohl föhren en den Himmel, wo de Engel met Külen dantzen. <i>Zur Frau Glaubeleichtin.</i> Wat meent se wohl Frau Nabern! Eck schak em myne Dochter en't Huuß, dat he se sall en der Reelgon enfermeeren; denn eck wöll se op Ostern tom heilgen Avendmaal nehmen. On de verflookte Keerl es dem Meeken allerly gottloß Tüg anmoden. Eck seh! se siht ut! se grient; eck frag er: Endlich kömmt 't herrut, wat Herr Scheinfromm vor een schöner Herr es. Da sall em de Düvel der veer halen! Eck wöll'm vor 't Constorien kriegen; da sall he my en een Loch kruupe, wor em nich Sonn nich Maand beschienen sall."
           },
           {
             "typ": "kontext",
-            "text": "FRAU GLAUBELEICHTIN. Ach liebe Frau Nachbarin! bedenckt doch, was ihr redet; Herr Scheinfromm ist ein heiliger Mann.\nHERR SCHEINFROMM. Mein GOtt! du schickst mir diese Versuchung zu. Ich dancke dir auch dafür!"
+            "text": "FRAU GLAUBELEICHTIN. Ach liebe Frau Nachbarin! bedenckt doch, was ihr redet; Herr Scheinfromm ist ein heiliger Mann.<br>HERR SCHEINFROMM. Mein GOtt! du schickst mir diese Versuchung zu. Ich dancke dir auch dafür!"
           },
           {
             "typ": "figurtext",
@@ -10798,7 +10806,11 @@
           },
           {
             "typ": "figurtext",
-            "text": "FRAU EHRLICHEN. Ja! frylich weet GOtt, dat du en Schelm best! Kaamt met my! eck segg 't ju; oder eck kratz ju de Oogen ut.\nSie zieht ihn beym Ermel. Er entflieht.\nAh, ha! Loop du man! eck war dy wohl enhahlen.\nSie geht ab.\n(4. Handlung, 4. Auftritt)"
+            "text": "FRAU EHRLICHEN. Ja! frylich weet GOtt, dat du en Schelm best! Kaamt met my! eck segg 't ju; oder eck kratz ju de Oogen ut. <i>Sie zieht ihn beym Ermel. Er entflieht.</i> Ah, ha! Loop du man! eck war dy wohl enhahlen. <i>Sie geht ab.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(4. Handlung, 4. Auftritt)</b>"
           }
         ]
       },
