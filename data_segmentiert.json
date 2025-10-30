@@ -38,7 +38,7 @@
         "abschnitt_segmentiert": [
           {
             "typ": "figurtext",
-            "text": "<b>Dritter Auftritt</b>"
+            "text": "<b>Dritter Auftritt.</b>"
           },
           {
             "typ": "kontext",
@@ -99,7 +99,7 @@
 
           {
             "typ": "figurtext",
-            "text": "<b>Vierter Auftritt</b>"
+            "text": "<b>Vierter Auftritt.</b>"
           },
           {
             "typ": "kontext",
@@ -184,7 +184,7 @@
 
           {
             "typ": "figurtext",
-            "text": "<b>Fünfter Auftritt</b>"
+            "text": "<b>Fünfter Auftritt.</b>"
           },
           {
             "typ": "kontext",
@@ -350,7 +350,7 @@
 
           {
             "typ": "figurtext",
-            "text": "<b>Sechster Auftritt</b>"
+            "text": "<b>Sechster Auftritt.</b>"
           },          
           {
             "typ": "kontext",
@@ -651,7 +651,7 @@
 
           {
             "typ": "figurtext",
-            "text": "<b>Siebenter Auftritt</b>"
+            "text": "<b>Siebenter Auftritt.</b>"
           },
           {
             "typ": "kontext",
@@ -672,7 +672,7 @@
 
           {
             "typ": "figurtext",
-            "text": "<b>Achter Auftritt</b>"
+            "text": "<b>Achter Auftritt.</b>"
           },
           {
             "typ": "kontext",
@@ -725,7 +725,7 @@
 
           {
             "typ": "figurtext",
-            "text": "<b>Neunter Auftritt</b>"
+            "text": "<b>Neunter Auftritt.</b>"
           },
           {
             "typ": "kontext",
@@ -808,7 +808,7 @@
         "abschnitt_segmentiert": [
           {
             "typ": "figurtext",
-            "text": "<b>Fünfter Auftritt</b>"
+            "text": "<b>Fünfter Auftritt.</b>"
           },
           {
             "typ": "kontext",
@@ -990,7 +990,7 @@
           
           {
             "typ": "figurtext",
-            "text": "<b>Sechster Auftritt</b>"
+            "text": "<b>Sechster Auftritt.</b>"
           },
           {
             "typ": "kontext",
@@ -1232,7 +1232,7 @@
           
           {
             "typ": "figurtext",
-            "text": "<b>Achter Auftritt</b>"
+            "text": "<b>Achter Auftritt.</b>"
           },
           {
             "typ": "kontext",
@@ -1311,7 +1311,7 @@
         "abschnitt_segmentiert": [
           {
             "typ": "figurtext",
-            "text": "<b>Fünfter Auftritt</b>"
+            "text": "<b>Fünfter Auftritt.</b>"
           },
           {
             "typ": "kontext",
@@ -1412,7 +1412,7 @@
 
           {
             "typ": "figurtext",
-            "text": "<b>Sechster Auftritt</b>"
+            "text": "<b>Sechster Auftritt.</b>"
           },
           {
             "typ": "kontext",
@@ -1673,7 +1673,7 @@
           
           {
             "typ": "figurtext",
-            "text": "<b>Siebenter Auftritt</b>"
+            "text": "<b>Siebenter Auftritt.</b>"
           },
           {
             "typ": "kontext",
@@ -9515,7 +9515,7 @@
         "abschnitt_segmentiert": [
           {
             "typ": "figurtext",
-            "text": "<b>Erste Scene</b>"
+            "text": "<b>Erste Scene.</b>"
           },
           {
             "typ": "kontext",
@@ -9540,7 +9540,7 @@
 
           {
             "typ": "figurtext",
-            "text": "<b>Zweite Scene</b>"
+            "text": "<b>Zweite Scene.</b>"
           },
           {
             "typ": "kontext",
@@ -9613,7 +9613,7 @@
           
           {
             "typ": "figurtext",
-            "text": "<b>Fünfte Scene</b>"
+            "text": "<b>Fünfte Scene.</b>"
           },
           {
             "typ": "kontext",
@@ -9630,7 +9630,7 @@
 
           {
             "typ": "figurtext",
-            "text": "<b>Sechste Scene</b>"
+            "text": "<b>Sechste Scene.</b>"
           },
           {
             "typ": "kontext",
@@ -9731,7 +9731,7 @@
           
           {
             "typ": "figurtext",
-            "text": "<b>Siebente Scene</b>"
+            "text": "<b>Siebente Scene.</b>"
           },
           {
             "typ": "kontext",
@@ -9864,7 +9864,7 @@
           
           {
             "typ": "figurtext",
-            "text": "<b>Achte Scene</b>"
+            "text": "<b>Achte Scene.</b>"
           },
           {
             "typ": "kontext",
@@ -9889,7 +9889,7 @@
 
           {
             "typ": "figurtext",
-            "text": "<b>Zwölfte Scene</b>"
+            "text": "<b>Zwölfte Scene.</b>"
           },
           {
             "typ": "kontext",
@@ -9918,7 +9918,7 @@
 
           {
             "typ": "figurtext",
-            "text": "<b>Dreizehnte Scene</b>"
+            "text": "<b>Dreizehnte Scene.</b>"
           },
           {
             "typ": "kontext",
@@ -9939,7 +9939,7 @@
 
           {
             "typ": "figurtext",
-            "text": "<b>Vierzehnte Scene</b>"
+            "text": "<b>Vierzehnte Scene.</b>"
           },
           {
             "typ": "kontext",
@@ -9961,7 +9961,7 @@
           
           {
             "typ": "figurtext",
-            "text": "<b>Fünfzehnte Scene</b>"
+            "text": "<b>Fünfzehnte Scene.</b>"
           },
           {
             "typ": "figurtext",
@@ -9974,7 +9974,7 @@
 
           {
             "typ": "figurtext",
-            "text": "<b>Sechszehnte Scene</b>"
+            "text": "<b>Sechszehnte Scene.</b>"
           },
           {
             "typ": "kontext",
@@ -10099,7 +10099,7 @@
 
           {
             "typ": "figurtext",
-            "text": "<b>Siebenzehnte Scene</b>"
+            "text": "<b>Siebenzehnte Scene.</b>"
           },
           {
             "typ": "kontext",
@@ -10115,12 +10115,12 @@
           },
           {
             "typ": "figurtext",
-            "text": "(17. Szene)<br>"
+            "text": "<b>(17. Szene)</b><br><br>"
           },
 
           {
             "typ": "figurtext",
-            "text": "<b>Achtzehnte Scene</b>"
+            "text": "<b>Achtzehnte Scene.</b>"
           },
           {
             "typ": "kontext",
@@ -10153,7 +10153,7 @@
 
           {
             "typ": "figurtext",
-            "text": "<b>Neunzehnte Scene</b>"
+            "text": "<b>Neunzehnte Scene.</b>"
           },
           {
             "typ": "kontext",
@@ -10208,7 +10208,7 @@
         "abschnitt_segmentiert": [
           {
             "typ": "figurtext",
-            "text": "<b>Sechste Scene</b>"
+            "text": "<b>Sechste Scene.</b>"
           },
           {
             "typ": "kontext",
@@ -10351,7 +10351,7 @@
         "abschnitt_segmentiert": [
           {
             "typ": "figurtext",
-            "text": "<b>Siebente Scene</b>"
+            "text": "<b>Siebente Scene.</b>"
           },
           {
             "typ": "kontext",
@@ -10518,7 +10518,7 @@
         "abschnitt_segmentiert": [
           {
             "typ": "figurtext",
-            "text": "<b>Zehnte Scene</b>"
+            "text": "<b>Zehnte Scene.</b>"
           },
           {
             "typ": "kontext",
@@ -10651,7 +10651,7 @@
 
           {
             "typ": "figurtext",
-            "text": "<b>Eilfte Scene</b>"
+            "text": "<b>Eilfte Scene.</b>"
           },
           {
             "typ": "figurtext",
@@ -10664,7 +10664,7 @@
 
           {
             "typ": "figurtext",
-            "text": "<b>Neunzehnte Scene</b>"
+            "text": "<b>Neunzehnte Scene.</b>"
           },
           {
             "typ": "kontext",
@@ -10739,7 +10739,7 @@
         "abschnitt_segmentiert": [
           {
             "typ": "figurtext",
-            "text": "<b>Sechszehnte Scene</b>"
+            "text": "<b>Sechszehnte Scene.</b>"
           },
           {
             "typ": "kontext",
@@ -10899,7 +10899,7 @@
         "abschnitt_segmentiert": [
           {
             "typ": "figurtext",
-            "text": "<b>Vierte Handlung<br>Vierter Auftritt</b>"
+            "text": "<b>Vierte Handlung.<br>Vierter Auftritt.</b>"
           },
           {
             "typ": "kontext",
@@ -16681,7 +16681,7 @@
       "abschnitt_segmentiert": [
         {
           "typ": "figurtext",
-          "text": "<b>Actus Tertius<br>Scena 3</b>"
+          "text": "<b>Actus Tertius.<br>Scena 3.</b>"
         },
         {
           "typ": "figurtext",
@@ -16724,465 +16724,505 @@
 
     
   {
-    "id": "ChristlichAction01",
-    "theaterstück": {
-      "titel": "Ein schön Christlich Action, Von der Geburt vnd Offenbarung vnsers HERRN vnd Heylandts Jhesu CHrist",
-      "zeit": "1595",
-      "druckort": "NN",
-      "auffuehrungshinweise": ""
-    },
-    "autor": {
-      "name": "Johann Cuno",
-      "herkunft": "Omd.",
-      "orte": ["Erfurt", "Calbe (Saale)"],
-      "lebensdaten": "1555–1598"
-    },
-    "figur": {
-      "name": "Laban",
-      "rolle": "Hirte",
-      "beschreibung": "'böser verwogener Schafknecht, redet Sechsisch', redet mit Nabal (ndt.), Jacob, David (thür.)"
-    },
-    "dialekt": {
-      "adaption": "Heteroadaption",
-      "dialekt_grossraum": "Nd."
-    },
-    "geokoordinaten": {
-      "herkunft_autor": {
-        "lat": 50.978056,
-        "lng": 11.029167
-      },
-      "herkunft_figur": { 
-        "lat": null,
-        "lng": null
-      }
-    },
-    "abschnitt": "Laban. Ey gy Gesellen / wat rad gy tho den saken Wu werd wy yde henförder maken De füdderung wert grusam kleen Und unse Järlinck werden schlim De Felder synd scher worden leer All uth gehödet hen und her Temlyck groth synd unse hopen Ick mein de Herrn schöllen anlopn So vele vehs dyt jahr ick nich In winterschlöge / ick bericht Nu forder wy uns deelen mothen Dat Saadtfelt ys vast gar befreten Van unsen schapen allthomal Hödt du na den bargen / ick wil im dack Ado füddering ynt Lückerfeld. Efftyr börgen und burn glyck nich gefelt Wat können se an uns begeren. Synd doch de Schape unsen Heren De schade in framen kamen deith Jocoff. Wultu sü thue / dahs ehs nich gut Dorffe wies doch (Gott sys gelobt (nech (das wir soln Der Leut ehr Korn verderb mer wolln Wy syn zu iem gelubten läng allhie Do es uns an weide gmängelt nie Wedder im Sommer / noch zu weinters zyt An graß / strüch / krommet / fotter halte Dieß Jahrs fotters gnogsam gewächsen eß Deß besten anis / das trocken inbracht es Werlich / off myn Seel / off myn Eyd Myne Schoff entlossen hahn bereit Sü schowe / so schön das sie Got bhüt Sol ich mech in gefahr geb / on dörfft es necht Han sieh doch werlich solche Ytter nun Els sollen sie off der stund Lammen thun Do sie doch kuhm über die helffte seynt. Nabal. Wat dusent Düffel lyt dick im Syn Dat du Börgern / Buren / wult im karn Vorsckonen yd ys doch all vorlarn Dann wenn se glyck veel Karn gewinen So supen se sick gar van Sinnen Und spälen tag und Nacht dartho Drümb moth men maken das se row Hebben / und mit freden schlapen Ick wil nu fort mit mynen Schapen Kampt mit ye gesellen. Yd ys nicht fern Schöllen se nicht einmal de weyd endern Wy willen de leng und quer auer de saec Wol achts wann glyck de Buerwerd quaet Ick segge vorwar de Dener wol Der Heren gunst hebben kan allmahl Und kan ock dat fo der syn sparn Dat men solckes kan bewaren Up den nawinter / Nu hör mehr Wy genetens so scher als unse Herrn So beholden wy wat vor de Bucht Dat ock wol vns belohnt de möye. Jacoff. Ech wil nech met / es sol alhier An deser Weid genügen mier. David. Lieb Jocoff ichs auch met digen hehl On ob wy glich noch fingen behle Jene weid / mossen darnoch trieben Wohl ech doch leber hie blieben Keinen öber ahl nech schaden thuen Ech seig dahs / waß wiers denn nun Wenn wir uns wolden schadens fliesen On hetten dröber ein büse gewissen Was hetten wir denn danon gebrocht Nabal. Ey wat schold ick ein gantze Nacht Myn Schap im feld herumb doen dryven Narren deith sölcke arbeid leeuen Schol ick se mich leeuer im drögsten feld Upm korn / sath maken / schnel und bold. Laban. Ich ock warlick des sinnes wehr So kemen de Schape yo desto ehr Vom stall und bucht / heden got gemack Und ick mick künde leggen ock In myn Hütten mick fry lagerde Und schleep dat de heyde wagede Nabal Ey wol hefft ock groth feils darn Wy wollen de beyde nich mit uns gan So willen wy doch fort dryven Und disse nacht bynander blyuen Ick segge dy / unse grothe Magd De heft my hüden thogesagt Dat se wolle tho my kamen hen Disse Nacht in de schlaphütte henin Da wöllen wy wat warmes kriegen Redlike wöllnn wy se bedregn Ja yck wil dick noch mehr sagen Wenn ick yd nör wolde wagen Ick wol ock de Meisterscke hebben macht Se schold tho my kamen auer Nacht Mag sölcke schalckheit överst nicht doen Am Meister / denn he ys sehr fraem Ick segge överst up mynen Eyd De Meisterscke wehr my stets bereit Besonder wann he offt lancksam kümpt tho Huß Und heffe gesopen ein guden Ruß. Jacoff. Ey lieb Geselln / wolts besser lern. Wenn die Ecker ühwer eigen wiern Unn hets euch lassen werden suwr Wie offm Dorff wol manicher Buwer Thue moß / und in den meßiohrn Vehl mos von sym muhl ersporn Ech freug uch / ge Gesellen / Wenn je ehs möst bestellen Uhwr ecker mit grosser erbt Ein böser Bufe aber Kehm hehn / solchs woll verderbe Most he nicht für uhwren sichtigen augen sterbe Denckt nu wies möcht gefallen uch. Su gefelts einem angern auch. David. Ach wenn seh nohr bedechten Was die natur voer met sich brechte Do steht alles miteinanger was i woll: Das uch de Lüht thun soln Das sol je ehnen wedder thun Off myn Sehl / ich seigs ohn schuw Wörden se solckes bedencken fry Dat solcher mutwil sünge sy Wörden sies behle by sich fingen schlecht Dat deß allemetheinanger wyer unrecht. Nabal. Ey / Ey / wie hestig west doch juw Ick segge dat / yu hetten scher Unserm HEREN Gott disse tyt Vor yuwer grothen hillicheit Syne Böte gar affgefreten. Laban ad Nabal. Kum her wy willen uns ermein Wat schol man jedem seggen alls Ick wet’du syest ein Wagehalß Wat wil wy hier lange maken Nimb mit dynen grothen Schaperhaken Und dyne grote Plötze ock Up ein vorsorge seg ick noch Ick wil ock tho disser stunde Mit my nemen myne Hunde Und sonderliken den grißgram De ys gar böse wie ein Lam Ob uns thet jemand ansprecken De scholt wol redlich wedder reckn Wann de einen Burn darnedder rith Vor leed he in de Hasen sckit Und auer dat seg ick noch mehr Willn wy uns tapper stelln thor wehr. Nabal Potz angst / wat han de Burn veel möckn Süe wat ys hier up mynem Röcken Underm Rock heb ick alda vorwahrt Eine gude scharpe Spitzbart Trotz seg uns einer ein krummes wort Met myner Parten drück ick fort Und werp se em in die Lenden nein Dat he de kutteln dregt in henden sein. Laban. Die vortzagten Memmer / die han Jümmer sorge / dat de Hemmel kan Nicht lenger stahn / he falle yn Ock noch ein spryckwort ys gemein Ein blöder Kerl / de gar vorzagt De boelt umb kene schöne Magd Ey yümmer frisck in tel gewagt Wer weth wer noch den andern yagt Kame my darauer in de hafft Werd doch wol wedder rath geschafft So anders denne wyllen unse Herrn Ihre Schap hebbn gehödet gern Se werden wol raden tho der saken Und uns des Thorms loß maken David. O das Handtwerck ehs behle zu lerrn Du derffst dich nicht beruffn auff Herrn För einen Schäffknecht zehn andere syn Jocoff. Gleubt mir / die Herrn itzt syn geschwing Wördet itze drober sihre geschlaun Su wörden hernach die Herren seign Sie hettens nicht geheissen uch. David. Ich kan auch wärlich gleuben nicht Das sölchs den Herrn gefallen söle Wenn eins das ander verderben wolt Herrn Schoff hehn / Herrn Schoff her Wenn das wol syn der Herrn begehr Dz man der Lüth ehr korn verderben wolt Leber seig mir wo von man geben solt Den Herrn ehre zintz / schos / dienst und rent. Laban. Pludre dat diek de Düffel schend Heffsiu denn nich gehöret dat ein Schepken heb ein gülden voet Wo yd frit / da mestet bald wedder David. Ich hehle wol / man mests off und nedder Das korn des Schoffe vorbessen hehn Do siht man nicht vehr ehren steyn Laban Wille gy Narren nich / so blyuet hyer stan Kum her Nabal wy willen gahn David. Emmer hen / uff uwer ebenthümr Morgen so syn de Schaffknecht thüer Won wir beid hie verharrn Wenn wir morgen nuw zeitung erfarn Das der Rechter zu Bethania Die Schaffknecht von Bethsaida Inn Torm gesteckt zu Bethlehem Wanne wie werd je sihn so schlem Jacoff. Ich wölle dem Richter seigen danck Das he üch wöl vier wochen lang Im Torme mocht han und maures leren Das möcht ich üch wol wünschen gern Und geb euch die je syt vormessen Nicht mehr den ytel speck zu essen Und kein brod / so werd je sehen wol Wie man an ihnen halten soll Die liebe Goth und Korn im Feld Davon sich Mensch und Viech erhelt Kenne ich ehn wol so darff hers wagen Freügt wenig darnach dz du mochst seign Du weirst ein Jöde / du issest kehn speck Hüerstu gesell / woltu zu drecke Machen die liebe Goth im Feld Engers werd die nocht för gestelt Und wyl he Römisch ehs / ein heid Ists ehm vorwahr solches weinig leid. Nabal. Grusam veel heffstu der müggen Ick sitte jo so mehr in dem drögen Denn dat ick mick lethe beregnen Wo uns den pfleget tho begegnen Edder gar im Felde erfreern Ick kan de Burn wol süst verern Zho dem / und kehm yd glyck darhen Noch ein renck ick heb in mymn Sinn Geve ick dem Schötzer man ein blick So weth he bald van stück tho stück Dat he mick wedder schallos geuen Laban. Vorwar Gesell ick segge dy euen Dat ick ock wol by Schapen Hebbe myn lengste tydt gelathen Und thobracht / överst solcke wort Uth Schapers possen nie gehört Lath stahn de Narrn / my willen gahn Doch segge mickt ock dat ickt vorstan Wie du so lichtlich scheppest dat Dat men dick moth tho freden lahn Wen mit eim blick du stickst vul tuck Nabal. Dat ys noch wol ein Meisterstück Myn Vader ein Erff Schepers war Van dem ick solck es gehört heb zwar Süs wüst ick so wenig daraff aß du Welcks ick dy wil ock seggen nu Wann du im Feld wilt hebben macht Tho höden allenthalven / nim in acht Deßglicken wedder Burn beholden recht Wann yemand eine klage vorbrecht Dat nemand dy wat anhebbn kan So laue dem Schötzer oder Amptman Dat du em 3. edder 4. stieg Schap Mit höden wilt under dem hupen Wenn dann thom Schötzer kamen werdn Unde dy anklagen de Buren Mustu den Amptman blycken an De deyt yd denn gar bald vorstan Dat syn Schaep ock drey schüldig syn Denn kan he de klag mancherley Düden / dreyhen unde gar affhelpen Dat men dy kan gar nichts anhebhn So moth Börger / Buwer ick dy seg Alse den van erer klage lathen af Efft glyck de Buwer thom land uth loey So bringet de Schötzer syn guth thohop Wol an veel deent / by ein hefft gunst Darvör helpt weder recht noch kunst Laban. Süe schol ick nich van wunder segn Mick sprecken ock an in den regn De Schryuers dat ick scholde ehn Ein veerddel Schap in geheem Mit höden. Sölcks lathn by my blyven Lucas nich veel darvan schold schrynen Gwyßlick sprickt he mick weder an Schal syn bid syn gewehret schon Noch eins auerst moth ick dy fragn Nich allen den de Schap behagn Wat döeth man den en wol tho willn. Nabal. Ein sahnkees mackt ock veel dings still Densülven dem Schötzer ind joppe steck Sö helpt he all dyn tück vordeckn Veel hebben ock wol tho Swynen lust Darümb dewyl du doch must süß Van der waddike de swyn holden wol Seg he ock etlike dartho doen schal Ydt kost dy nicht / geith aver de Herrn So wol im Sommer alß im Wintr Den Drösckers bring in hungers noth Gut keeß / bottr / wörst / thom morgenbrot So kehrn sie denn viel Korns in kaff Dat kanstu syn thosamden raff. De Swyn im kaff den fynden wol Glöve my / dat wol halffe mast syn schol. Des Sommers umb de mandel herumb Swyn / Schap leth gahn umb und umb. Laban. Nu wolan ick segge dy eben Du my eine gude lehr heffst geven Darup icks nu wil wagen ock Up de Sath tho dryven sckerlick Drümb kom my willen lopen / An hen na unsem Hupen My willen överst erstlick lurn Efft ock vorhanden syn de Burn. Laban. Pyp yp de Sackpyp und se drück Und pyp darup ein Meisterstück Nabal. Die nehm ick up de Saat nicht mit Dat ys kenes rechten Schappers Sit. Edder lath doch se nicht hören tho Beth neen Schap up der saat mehr gah Ick stop noch wol tho de Schapschelln Up dat se nich so klingen hell Dat se de Buren hören schnel Und in dem Feld uns ubereiln. Laban. Dryff fort yd ys itzund finster und trübicht Ick weet gwiß se hindt kommen nicht Laban. Heddestu deine Sackpype middde bracht So hedden de Schape upt pypent acht Unde bleuen syn bysamen Weydeden an hen in Gades Nahm Wowol se kennen unse stem So willen wy singen jümmer hen Hie heben sie an zu singen. Yd wolde ein Schaper weyden / juch / juch / weyde wol / so fern up gröner Heyden / das tyrletom / das tyrletom. (2. Akt, 1. Szene)",
-    "original_link": "https://haab-digital.klassik-stiftung.de/viewer/image/1445495287/6/LOG_0002/?#",
-    "abschnitt_segmentiert": [
-      {
-        "typ": "figurtext",
-        "text": "Laban.\nEy gy Gesellen / wat rad gy tho den saken Wu werd wy yde henförder maken De füdderung wert grusam kleen Und unse Järlinck werden schlim De Felder synd scher worden leer All uth gehödet hen und her Temlyck groth synd unse hopen Ick mein de Herrn schöllen anlopn So vele vehs dyt jahr ick nich In winterschlöge / ick bericht Nu forder wy uns deelen mothen Dat Saadtfelt ys vast gar befreten Van unsen schapen allthomal Hödt du na den bargen / ick wil im dack Ado füddering ynt Lückerfeld. Efftyr börgen und burn glyck nich gefelt Wat können se an uns begeren. Synd doch de Schape unsen Heren De schade in framen kamen deith"
-      },
-      {
-        "typ": "kontext",
-        "text": "Jocoff.\nWultu sü thue / dahs ehs nich gut Dorffe wies doch (Gott sys gelobt (nech (das wir soln Der Leut ehr Korn verderb mer wolln Wy syn zu iem gelubten läng allhie Do es uns an weide gmängelt nie Wedder im Sommer / noch zu weinters zyt An graß / strüch / krommet / fotter halte Dieß Jahrs fotters gnogsam gewächsen eß Deß besten anis / das trocken inbracht es Werlich / off myn Seel / off myn Eyd Myne Schoff entlossen hahn bereit Sü schowe / so schön das sie Got bhüt Sol ich mech in gefahr geb / on dörfft es necht Han sieh doch werlich solche Ytter nun Els sollen sie off der stund Lammen thun Do sie doch kuhm über die helffte seynt.\nNabal.\nWat dusent Düffel lyt dick im Syn Dat du Börgern / Buren / wult im karn Vorsckonen yd ys doch all vorlarn Dann wenn se glyck veel Karn gewinen So supen se sick gar van Sinnen Und spälen tag und Nacht dartho Drümb moth men maken das se row Hebben / und mit freden schlapen Ick wil nu fort mit mynen Schapen Kampt mit ye gesellen. Yd ys nicht fern Schöllen se nicht einmal de weyd endern Wy willen de leng und quer auer de saec Wol achts wann glyck de Buerwerd quaet Ick segge vorwar de Dener wol Der Heren gunst hebben kan allmahl Und kan ock dat fo der syn sparn Dat men solckes kan bewaren Up den nawinter / Nu hör mehr Wy genetens so scher als unse Herrn So beholden wy wat vor de Bucht Dat ock wol vns belohnt de möye.\nJacoff.\nEch wil nech met / es sol alhier An deser Weid genügen mier.\nDavid.\nLieb Jocoff ichs auch met digen hehl On ob wy glich noch fingen behle Jene weid / mossen darnoch trieben Wohl ech doch leber hie blieben Keinen öber ahl nech schaden thuen Ech seig dahs / waß wiers denn nun Wenn wir uns wolden schadens fliesen On hetten dröber ein büse gewissen Was hetten wir denn danon gebrocht\nNabal.\nEy wat schold ick ein gantze Nacht Myn Schap im feld herumb doen dryven Narren deith sölcke arbeid leeuen Schol ick se mich leeuer im drögsten feld Upm korn / sath maken / schnel und bold."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Laban.\nIch ock warlick des sinnes wehr So kemen de Schape yo desto ehr Vom stall und bucht / heden got gemack Und ick mick künde leggen ock In myn Hütten mick fry lagerde Und schleep dat de heyde wagede"
-      },
-      {
-        "typ": "kontext",
-        "text": "Nabal\nEy wol hefft ock groth feils darn Wy wollen de beyde nich mit uns gan So willen wy doch fort dryven Und disse nacht bynander blyuen Ick segge dy / unse grothe Magd De heft my hüden thogesagt Dat se wolle tho my kamen hen Disse Nacht in de schlaphütte henin Da wöllen wy wat warmes kriegen Redlike wöllnn wy se bedregn Ja yck wil dick noch mehr sagen Wenn ick yd nör wolde wagen Ick wol ock de Meisterscke hebben macht Se schold tho my kamen auer Nacht Mag sölcke schalckheit överst nicht doen Am Meister / denn he ys sehr fraem Ick segge överst up mynen Eyd De Meisterscke wehr my stets bereit Besonder wann he offt lancksam kümpt tho Huß Und heffe gesopen ein guden Ruß.\nJacoff.\nEy lieb Geselln / wolts besser lern. Wenn die Ecker ühwer eigen wiern Unn hets euch lassen werden suwr Wie offm Dorff wol manicher Buwer Thue moß / und in den meßiohrn Vehl mos von sym muhl ersporn Ech freug uch / ge Gesellen / Wenn je ehs möst bestellen Uhwr ecker mit grosser erbt Ein böser Bufe aber Kehm hehn / solchs woll verderbe Most he nicht für uhwren sichtigen augen sterbe Denckt nu wies möcht gefallen uch. Su gefelts einem angern auch.\nDavid.\nAch wenn seh nohr bedechten Was die natur voer met sich brechte Do steht alles miteinanger was i woll: Das uch de Lüht thun soln Das sol je ehnen wedder thun Off myn Sehl / ich seigs ohn schuw Wörden se solckes bedencken fry Dat solcher mutwil sünge sy Wörden sies behle by sich fingen schlecht Dat deß allemetheinanger wyer unrecht.\nNabal.\nEy / Ey / wie hestig west doch juw Ick segge dat / yu hetten scher Unserm HEREN Gott disse tyt Vor yuwer grothen hillicheit Syne Böte gar affgefreten."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Laban ad Nabal.\nKum her wy willen uns ermein Wat schol man jedem seggen alls Ick wet’du syest ein Wagehalß Wat wil wy hier lange maken Nimb mit dynen grothen Schaperhaken Und dyne grote Plötze ock Up ein vorsorge seg ick noch Ick wil ock tho disser stunde Mit my nemen myne Hunde Und sonderliken den grißgram De ys gar böse wie ein Lam Ob uns thet jemand ansprecken De scholt wol redlich wedder reckn Wann de einen Burn darnedder rith Vor leed he in de Hasen sckit Und auer dat seg ick noch mehr Willn wy uns tapper stelln thor wehr."
-      },
-      {
-        "typ": "kontext",
-        "text": "Nabal\nPotz angst / wat han de Burn veel möckn Süe wat ys hier up mynem Röcken Underm Rock heb ick alda vorwahrt Eine gude scharpe Spitzbart Trotz seg uns einer ein krummes wort Met myner Parten drück ick fort Und werp se em in die Lenden nein Dat he de kutteln dregt in henden sein."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Laban.\nDie vortzagten Memmer / die han Jümmer sorge / dat de Hemmel kan Nicht lenger stahn / he falle yn Ock noch ein spryckwort ys gemein Ein blöder Kerl / de gar vorzagt De boelt umb kene schöne Magd Ey yümmer frisck in tel gewagt Wer weth wer noch den andern yagt Kame my darauer in de hafft Werd doch wol wedder rath geschafft So anders denne wyllen unse Herrn Ihre Schap hebbn gehödet gern Se werden wol raden tho der saken Und uns des Thorms loß maken"
-      },
-      {
-        "typ": "kontext",
-        "text": "David.\nO das Handtwerck ehs behle zu lerrn Du derffst dich nicht beruffn auff Herrn För einen Schäffknecht zehn andere syn\nJocoff.\nGleubt mir / die Herrn itzt syn geschwing Wördet itze drober sihre geschlaun Su wörden hernach die Herren seign Sie hettens nicht geheissen uch.\nDavid.\nIch kan auch wärlich gleuben nicht Das sölchs den Herrn gefallen söle Wenn eins das ander verderben wolt Herrn Schoff hehn / Herrn Schoff her Wenn das wol syn der Herrn begehr Dz man der Lüth ehr korn verderben wolt Leber seig mir wo von man geben solt Den Herrn ehre zintz / schos / dienst und rent."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Laban.\nPludre dat diek de Düffel schend Heffsiu denn nich gehöret dat ein Schepken heb ein gülden voet Wo yd frit / da mestet bald wedder"
-      },
-      {
-        "typ": "kontext",
-        "text": "David.\nIch hehle wol / man mests off und nedder Das korn des Schoffe vorbessen hehn Do siht man nicht vehr ehren steyn"
-      },
-      {
-        "typ": "figurtext",
-        "text": "Laban\nWille gy Narren nich / so blyuet hyer stan Kum her Nabal wy willen gahn"
-      },
-      {
-        "typ": "kontext",
-        "text": "David.\nEmmer hen / uff uwer ebenthümr Morgen so syn de Schaffknecht thüer Won wir beid hie verharrn Wenn wir morgen nuw zeitung erfarn Das der Rechter zu Bethania Die Schaffknecht von Bethsaida Inn Torm gesteckt zu Bethlehem Wanne wie werd je sihn so schlem\nJacoff.\nIch wölle dem Richter seigen danck Das he üch wöl vier wochen lang Im Torme mocht han und maures leren Das möcht ich üch wol wünschen gern Und geb euch die je syt vormessen Nicht mehr den ytel speck zu essen Und kein brod / so werd je sehen wol Wie man an ihnen halten soll Die liebe Goth und Korn im Feld Davon sich Mensch und Viech erhelt Kenne ich ehn wol so darff hers wagen Freügt wenig darnach dz du mochst seign Du weirst ein Jöde / du issest kehn speck Hüerstu gesell / woltu zu drecke Machen die liebe Goth im Feld Engers werd die nocht för gestelt Und wyl he Römisch ehs / ein heid Ists ehm vorwahr solches weinig leid.\nNabal.\nGrusam veel heffstu der müggen Ick sitte jo so mehr in dem drögen Denn dat ick mick lethe beregnen Wo uns den pfleget tho begegnen Edder gar im Felde erfreern Ick kan de Burn wol süst verern Zho dem / und kehm yd glyck darhen Noch ein renck ick heb in mymn Sinn Geve ick dem Schötzer man ein blick So weth he bald van stück tho stück Dat he mick wedder schallos geuen"
-      },
-      {
-        "typ": "figurtext",
-        "text": "Laban.\nVorwar Gesell ick segge dy euen Dat ick ock wol by Schapen Hebbe myn lengste tydt gelathen Und thobracht / överst solcke wort Uth Schapers possen nie gehört Lath stahn de Narrn / my willen gahn Doch segge mickt ock dat ickt vorstan Wie du so lichtlich scheppest dat Dat men dick moth tho freden lahn Wen mit eim blick du stickst vul tuck"
-      },
-      {
-        "typ": "kontext",
-        "text": "Nabal.\nDat ys noch wol ein Meisterstück Myn Vader ein Erff Schepers war Van dem ick solck es gehört heb zwar Süs wüst ick so wenig daraff aß du Welcks ick dy wil ock seggen nu Wann du im Feld wilt hebben macht Tho höden allenthalven / nim in acht Deßglicken wedder Burn beholden recht Wann yemand eine klage vorbrecht Dat nemand dy wat anhebbn kan So laue dem Schötzer oder Amptman Dat du em 3. edder 4. stieg Schap Mit höden wilt under dem hupen Wenn dann thom Schötzer kamen werdn Unde dy anklagen de Buren Mustu den Amptman blycken an De deyt yd denn gar bald vorstan Dat syn Schaep ock drey schüldig syn Denn kan he de klag mancherley Düden / dreyhen unde gar affhelpen Dat men dy kan gar nichts anhebhn So moth Börger / Buwer ick dy seg Alse den van erer klage lathen af Efft glyck de Buwer thom land uth loey So bringet de Schötzer syn guth thohop Wol an veel deent / by ein hefft gunst Darvör helpt weder recht noch kunst"
-      },
-      {
-        "typ": "figurtext",
-        "text": "Laban.\nSüe schol ick nich van wunder segn Mick sprecken ock an in den regn De Schryuers dat ick scholde ehn Ein veerddel Schap in geheem Mit höden. Sölcks lathn by my blyven Lucas nich veel darvan schold schrynen Gwyßlick sprickt he mick weder an Schal syn bid syn gewehret schon Noch eins auerst moth ick dy fragn Nich allen den de Schap behagn Wat döeth man den en wol tho willn."
-      },
-      {
-        "typ": "kontext",
-        "text": "Nabal.\nEin sahnkees mackt ock veel dings still Densülven dem Schötzer ind joppe steck Sö helpt he all dyn tück vordeckn Veel hebben ock wol tho Swynen lust Darümb dewyl du doch must süß Van der waddike de swyn holden wol Seg he ock etlike dartho doen schal Ydt kost dy nicht / geith aver de Herrn So wol im Sommer alß im Wintr Den Drösckers bring in hungers noth Gut keeß / bottr / wörst / thom morgenbrot So kehrn sie denn viel Korns in kaff Dat kanstu syn thosamden raff. De Swyn im kaff den fynden wol Glöve my / dat wol halffe mast syn schol. Des Sommers umb de mandel herumb Swyn / Schap leth gahn umb und umb."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Laban.\nNu wolan ick segge dy eben Du my eine gude lehr heffst geven Darup icks nu wil wagen ock Up de Sath tho dryven sckerlick Drümb kom my willen lopen / An hen na unsem Hupen My willen överst erstlick lurn Efft ock vorhanden syn de Burn.\nLaban.\nPyp yp de Sackpyp und se drück Und pyp darup ein Meisterstück"
-      },
-      {
-        "typ": "kontext",
-        "text": "Nabal.\nDie nehm ick up de Saat nicht mit Dat ys kenes rechten Schappers Sit. Edder lath doch se nicht hören tho Beth neen Schap up der saat mehr gah Ick stop noch wol tho de Schapschelln Up dat se nich so klingen hell Dat se de Buren hören schnel Und in dem Feld uns ubereiln."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Laban.\nDryff fort yd ys itzund finster und trübicht Ick weet gwiß se hindt kommen nicht\nLaban.\nHeddestu deine Sackpype middde bracht So hedden de Schape upt pypent acht Unde bleuen syn bysamen Weydeden an hen in Gades Nahm Wowol se kennen unse stem So willen wy singen jümmer hen\nHie heben sie an zu singen.\nYd wolde ein Schaper weyden / juch / juch / weyde wol / so fern up gröner Heyden / das tyrletom / das tyrletom.\n(2. Akt, 1. Szene)"
-      }
-    ]
-  },
-
-  {
-    "id": "ChristlichAction02",
-    "theaterstück": {
-      "titel": "Ein schön Christlich Action, Von der Geburt vnd Offenbarung vnsers HERRN vnd Heylandts Jhesu CHrist",
-      "zeit": "1595",
-      "druckort": "NN",
-      "auffuehrungshinweise": ""
-    },
-    "autor": {
-      "name": "Johann Cuno",
-      "herkunft": "Omd.",
-      "orte": ["Erfurt", "Calbe (Saale)"],
-      "lebensdaten": "1555–1598"
-    },
-    "figur": {
-      "name": "Nabal",
-      "rolle": "Hirte",
-      "beschreibung": "'böser verwogener Schafknecht, redet Sechsisch', redet mit Laban (ndt.), Jacob, David (thür.)"
-    },
-    "dialekt": {
-      "adaption": "Heteroadaption",
-      "dialekt_grossraum": "Nd."
-    },
-    "geokoordinaten": {
-      "herkunft_autor": {
-        "lat": 50.978056,
-        "lng": 11.029167
-      },
-      "herkunft_figur": { 
-        "lat": null,
-        "lng": null
-      }
-    },
-    "abschnitt": "Laban. Ey gy Gesellen / wat rad gy tho den saken Wu werd wy yde henförder maken De füdderung wert grusam kleen Und unse Järlinck werden schlim De Felder synd scher worden leer All uth gehödet hen und her Temlyck groth synd unse hopen Ick mein de Herrn schöllen anlopn So vele vehs dyt jahr ick nich In winterschlöge / ick bericht Nu forder wy uns deelen mothen Dat Saadtfelt ys vast gar befreten Van unsen schapen allthomal Hödt du na den bargen / ick wil im dack Ado füddering ynt Lückerfeld. Efftyr börgen und burn glyck nich gefelt Wat können se an uns begeren. Synd doch de Schape unsen Heren De schade in framen kamen deith Jocoff. Wultu sü thue / dahs ehs nich gut Dorffe wies doch (Gott sys gelobt (nech (das wir soln Der Leut ehr Korn verderb mer wolln Wy syn zu iem gelubten läng allhie Do es uns an weide gmängelt nie Wedder im Sommer / noch zu weinters zyt An graß / strüch / krommet / fotter halte Dieß Jahrs fotters gnogsam gewächsen eß Deß besten anis / das trocken inbracht es Werlich / off myn Seel / off myn Eyd Myne Schoff entlossen hahn bereit Sü schowe / so schön das sie Got bhüt Sol ich mech in gefahr geb / on dörfft es necht Han sieh doch werlich solche Ytter nun Els sollen sie off der stund Lammen thun Do sie doch kuhm über die helffte seynt. Nabal. Wat dusent Düffel lyt dick im Syn Dat du Börgern / Buren / wult im karn Vorsckonen yd ys doch all vorlarn Dann wenn se glyck veel Karn gewinen So supen se sick gar van Sinnen Und spälen tag und Nacht dartho Drümb moth men maken das se row Hebben / und mit freden schlapen Ick wil nu fort mit mynen Schapen Kampt mit ye gesellen. Yd ys nicht fern Schöllen se nicht einmal de weyd endern Wy willen de leng und quer auer de saec Wol achts wann glyck de Buerwerd quaet Ick segge vorwar de Dener wol Der Heren gunst hebben kan allmahl Und kan ock dat fo der syn sparn Dat men solckes kan bewaren Up den nawinter / Nu hör mehr Wy genetens so scher als unse Herrn So beholden wy wat vor de Bucht Dat ock wol vns belohnt de möye. Jacoff. Ech wil nech met / es sol alhier An deser Weid genügen mier. David. Lieb Jocoff ichs auch met digen hehl On ob wy glich noch fingen behle Jene weid / mossen darnoch trieben Wohl ech doch leber hie blieben Keinen öber ahl nech schaden thuen Ech seig dahs / waß wiers denn nun Wenn wir uns wolden schadens fliesen On hetten dröber ein büse gewissen Was hetten wir denn danon gebrocht Nabal. Ey wat schold ick ein gantze Nacht Myn Schap im feld herumb doen dryven Narren deith sölcke arbeid leeuen Schol ick se mich leeuer im drögsten feld Upm korn / sath maken / schnel und bold. Laban. Ich ock warlick des sinnes wehr So kemen de Schape yo desto ehr Vom stall und bucht / heden got gemack Und ick mick künde leggen ock In myn Hütten mick fry lagerde Und schleep dat de heyde wagede Nabal Ey wol hefft ock groth feils darn Wy wollen de beyde nich mit uns gan So willen wy doch fort dryven Und disse nacht bynander blyuen Ick segge dy / unse grothe Magd De heft my hüden thogesagt Dat se wolle tho my kamen hen Disse Nacht in de schlaphütte henin Da wöllen wy wat warmes kriegen Redlike wöllnn wy se bedregn Ja yck wil dick noch mehr sagen Wenn ick yd nör wolde wagen Ick wol ock de Meisterscke hebben macht Se schold tho my kamen auer Nacht Mag sölcke schalckheit överst nicht doen Am Meister / denn he ys sehr fraem Ick segge överst up mynen Eyd De Meisterscke wehr my stets bereit Besonder wann he offt lancksam kümpt tho Huß Und heffe gesopen ein guden Ruß. Jacoff. Ey lieb Geselln / wolts besser lern. Wenn die Ecker ühwer eigen wiern Unn hets euch lassen werden suwr Wie offm Dorff wol manicher Buwer Thue moß / und in den meßiohrn Vehl mos von sym muhl ersporn Ech freug uch / ge Gesellen / Wenn je ehs möst bestellen Uhwr ecker mit grosser erbt Ein böser Bufe aber Kehm hehn / solchs woll verderbe Most he nicht für uhwren sichtigen augen sterbe Denckt nu wies möcht gefallen uch. Su gefelts einem angern auch. David. Ach wenn seh nohr bedechten Was die natur voer met sich brechte Do steht alles miteinanger was i woll: Das uch de Lüht thun soln Das sol je ehnen wedder thun Off myn Sehl / ich seigs ohn schuw Wörden se solckes bedencken fry Dat solcher mutwil sünge sy Wörden sies behle by sich fingen schlecht Dat deß allemetheinanger wyer unrecht. Nabal. Ey / Ey / wie hestig west doch juw Ick segge dat / yu hetten scher Unserm HEREN Gott disse tyt Vor yuwer grothen hillicheit Syne Böte gar affgefreten. Laban ad Nabal. Kum her wy willen uns ermein Wat schol man jedem seggen alls Ick wet’du syest ein Wagehalß Wat wil wy hier lange maken Nimb mit dynen grothen Schaperhaken Und dyne grote Plötze ock Up ein vorsorge seg ick noch Ick wil ock tho disser stunde Mit my nemen myne Hunde Und sonderliken den grißgram De ys gar böse wie ein Lam Ob uns thet jemand ansprecken De scholt wol redlich wedder reckn Wann de einen Burn darnedder rith Vor leed he in de Hasen sckit Und auer dat seg ick noch mehr Willn wy uns tapper stelln thor wehr. Nabal Potz angst / wat han de Burn veel möckn Süe wat ys hier up mynem Röcken Underm Rock heb ick alda vorwahrt Eine gude scharpe Spitzbart Trotz seg uns einer ein krummes wort Met myner Parten drück ick fort Und werp se em in die Lenden nein Dat he de kutteln dregt in henden sein. Laban. Die vortzagten Memmer / die han Jümmer sorge / dat de Hemmel kan Nicht lenger stahn / he falle yn Ock noch ein spryckwort ys gemein Ein blöder Kerl / de gar vorzagt De boelt umb kene schöne Magd Ey yümmer frisck in tel gewagt Wer weth wer noch den andern yagt Kame my darauer in de hafft Werd doch wol wedder rath geschafft So anders denne wyllen unse Herrn Ihre Schap hebbn gehödet gern Se werden wol raden tho der saken Und uns des Thorms loß maken David. O das Handtwerck ehs behle zu lerrn Du derffst dich nicht beruffn auff Herrn För einen Schäffknecht zehn andere syn Jocoff. Gleubt mir / die Herrn itzt syn geschwing Wördet itze drober sihre geschlaun Su wörden hernach die Herren seign Sie hettens nicht geheissen uch. David. Ich kan auch wärlich gleuben nicht Das sölchs den Herrn gefallen söle Wenn eins das ander verderben wolt Herrn Schoff hehn / Herrn Schoff her Wenn das wol syn der Herrn begehr Dz man der Lüth ehr korn verderben wolt Leber seig mir wo von man geben solt Den Herrn ehre zintz / schos / dienst und rent. Laban. Pludre dat diek de Düffel schend Heffsiu denn nich gehöret dat ein Schepken heb ein gülden voet Wo yd frit / da mestet bald wedder David. Ich hehle wol / man mests off und nedder Das korn des Schoffe vorbessen hehn Do siht man nicht vehr ehren steyn Laban Wille gy Narren nich / so blyuet hyer stan Kum her Nabal wy willen gahn David. Emmer hen / uff uwer ebenthümr Morgen so syn de Schaffknecht thüer Won wir beid hie verharrn Wenn wir morgen nuw zeitung erfarn Das der Rechter zu Bethania Die Schaffknecht von Bethsaida Inn Torm gesteckt zu Bethlehem Wanne wie werd je sihn so schlem Jacoff. Ich wölle dem Richter seigen danck Das he üch wöl vier wochen lang Im Torme mocht han und maures leren Das möcht ich üch wol wünschen gern Und geb euch die je syt vormessen Nicht mehr den ytel speck zu essen Und kein brod / so werd je sehen wol Wie man an ihnen halten soll Die liebe Goth und Korn im Feld Davon sich Mensch und Viech erhelt Kenne ich ehn wol so darff hers wagen Freügt wenig darnach dz du mochst seign Du weirst ein Jöde / du issest kehn speck Hüerstu gesell / woltu zu drecke Machen die liebe Goth im Feld Engers werd die nocht för gestelt Und wyl he Römisch ehs / ein heid Ists ehm vorwahr solches weinig leid. Nabal. Grusam veel heffstu der müggen Ick sitte jo so mehr in dem drögen Denn dat ick mick lethe beregnen Wo uns den pfleget tho begegnen Edder gar im Felde erfreern Ick kan de Burn wol süst verern Zho dem / und kehm yd glyck darhen Noch ein renck ick heb in mymn Sinn Geve ick dem Schötzer man ein blick So weth he bald van stück tho stück Dat he mick wedder schallos geuen Laban. Vorwar Gesell ick segge dy euen Dat ick ock wol by Schapen Hebbe myn lengste tydt gelathen Und thobracht / överst solcke wort Uth Schapers possen nie gehört Lath stahn de Narrn / my willen gahn Doch segge mickt ock dat ickt vorstan Wie du so lichtlich scheppest dat Dat men dick moth tho freden lahn Wen mit eim blick du stickst vul tuck Nabal. Dat ys noch wol ein Meisterstück Myn Vader ein Erff Schepers war Van dem ick solck es gehört heb zwar Süs wüst ick so wenig daraff aß du Welcks ick dy wil ock seggen nu Wann du im Feld wilt hebben macht Tho höden allenthalven / nim in acht Deßglicken wedder Burn beholden recht Wann yemand eine klage vorbrecht Dat nemand dy wat anhebbn kan So laue dem Schötzer oder Amptman Dat du em 3. edder 4. stieg Schap Mit höden wilt under dem hupen Wenn dann thom Schötzer kamen werdn Unde dy anklagen de Buren Mustu den Amptman blycken an De deyt yd denn gar bald vorstan Dat syn Schaep ock drey schüldig syn Denn kan he de klag mancherley Düden / dreyhen unde gar affhelpen Dat men dy kan gar nichts anhebhn So moth Börger / Buwer ick dy seg Alse den van erer klage lathen af Efft glyck de Buwer thom land uth loey So bringet de Schötzer syn guth thohop Wol an veel deent / by ein hefft gunst Darvör helpt weder recht noch kunst Laban. Süe schol ick nich van wunder segn Mick sprecken ock an in den regn De Schryuers dat ick scholde ehn Ein veerddel Schap in geheem Mit höden. Sölcks lathn by my blyven Lucas nich veel darvan schold schrynen Gwyßlick sprickt he mick weder an Schal syn bid syn gewehret schon Noch eins auerst moth ick dy fragn Nich allen den de Schap behagn Wat döeth man den en wol tho willn. Nabal. Ein sahnkees mackt ock veel dings still Densülven dem Schötzer ind joppe steck Sö helpt he all dyn tück vordeckn Veel hebben ock wol tho Swynen lust Darümb dewyl du doch must süß Van der waddike de swyn holden wol Seg he ock etlike dartho doen schal Ydt kost dy nicht / geith aver de Herrn So wol im Sommer alß im Wintr Den Drösckers bring in hungers noth Gut keeß / bottr / wörst / thom morgenbrot So kehrn sie denn viel Korns in kaff Dat kanstu syn thosamden raff. De Swyn im kaff den fynden wol Glöve my / dat wol halffe mast syn schol. Des Sommers umb de mandel herumb Swyn / Schap leth gahn umb und umb. Laban. Nu wolan ick segge dy eben Du my eine gude lehr heffst geven Darup icks nu wil wagen ock Up de Sath tho dryven sckerlick Drümb kom my willen lopen / An hen na unsem Hupen My willen överst erstlick lurn Efft ock vorhanden syn de Burn. Laban. Pyp yp de Sackpyp und se drück Und pyp darup ein Meisterstück Nabal. Die nehm ick up de Saat nicht mit Dat ys kenes rechten Schappers Sit. Edder lath doch se nicht hören tho Beth neen Schap up der saat mehr gah Ick stop noch wol tho de Schapschelln Up dat se nich so klingen hell Dat se de Buren hören schnel Und in dem Feld uns ubereiln. Laban. Dryff fort yd ys itzund finster und trübicht Ick weet gwiß se hindt kommen nicht Laban. Heddestu deine Sackpype middde bracht So hedden de Schape upt pypent acht Unde bleuen syn bysamen Weydeden an hen in Gades Nahm Wowol se kennen unse stem So willen wy singen jümmer hen Hie heben sie an zu singen. Yd wolde ein Schaper weyden / juch / juch / weyde wol / so fern up gröner Heyden / das tyrletom / das tyrletom. (2. Akt, 1. Szene)",
-    "original_link": "https://haab-digital.klassik-stiftung.de/viewer/image/1445495287/6/LOG_0002/?#",
-    "abschnitt_segmentiert": [
-      {
-        "typ": "kontext",
-        "text": "Laban.\nEy gy Gesellen / wat rad gy tho den saken Wu werd wy yde henförder maken De füdderung wert grusam kleen Und unse Järlinck werden schlim De Felder synd scher worden leer All uth gehödet hen und her Temlyck groth synd unse hopen Ick mein de Herrn schöllen anlopn So vele vehs dyt jahr ick nich In winterschlöge / ick bericht Nu forder wy uns deelen mothen Dat Saadtfelt ys vast gar befreten Van unsen schapen allthomal Hödt du na den bargen / ick wil im dack Ado füddering ynt Lückerfeld. Efftyr börgen und burn glyck nich gefelt Wat können se an uns begeren. Synd doch de Schape unsen Heren De schade in framen kamen deith\nJocoff.\nWultu sü thue / dahs ehs nich gut Dorffe wies doch (Gott sys gelobt (nech (das wir soln Der Leut ehr Korn verderb mer wolln Wy syn zu iem gelubten läng allhie Do es uns an weide gmängelt nie Wedder im Sommer / noch zu weinters zyt An graß / strüch / krommet / fotter halte Dieß Jahrs fotters gnogsam gewächsen eß Deß besten anis / das trocken inbracht es Werlich / off myn Seel / off myn Eyd Myne Schoff entlossen hahn bereit Sü schowe / so schön das sie Got bhüt Sol ich mech in gefahr geb / on dörfft es necht Han sieh doch werlich solche Ytter nun Els sollen sie off der stund Lammen thun Do sie doch kuhm über die helffte seynt."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Nabal.\nWat dusent Düffel lyt dick im Syn Dat du Börgern / Buren / wult im karn Vorsckonen yd ys doch all vorlarn Dann wenn se glyck veel Karn gewinen So supen se sick gar van Sinnen Und spälen tag und Nacht dartho Drümb moth men maken das se row Hebben / und mit freden schlapen Ick wil nu fort mit mynen Schapen Kampt mit ye gesellen. Yd ys nicht fern Schöllen se nicht einmal de weyd endern Wy willen de leng und quer auer de saec Wol achts wann glyck de Buerwerd quaet Ick segge vorwar de Dener wol Der Heren gunst hebben kan allmahl Und kan ock dat fo der syn sparn Dat men solckes kan bewaren Up den nawinter / Nu hör mehr Wy genetens so scher als unse Herrn So beholden wy wat vor de Bucht Dat ock wol vns belohnt de möye."
-      },
-      {
-        "typ": "kontext",
-        "text": "Jacoff.\nEch wil nech met / es sol alhier An deser Weid genügen mier.\nDavid.\nLieb Jocoff ichs auch met digen hehl On ob wy glich noch fingen behle Jene weid / mossen darnoch trieben Wohl ech doch leber hie blieben Keinen öber ahl nech schaden thuen Ech seig dahs / waß wiers denn nun Wenn wir uns wolden schadens fliesen On hetten dröber ein büse gewissen Was hetten wir denn danon gebrocht"
-      },
-      {
-        "typ": "figurtext",
-        "text": "Nabal.\nEy wat schold ick ein gantze Nacht Myn Schap im feld herumb doen dryven Narren deith sölcke arbeid leeuen Schol ick se mich leeuer im drögsten feld Upm korn / sath maken / schnel und bold."
-      },
-      {
-        "typ": "kontext",
-        "text": "Laban.\nIch ock warlick des sinnes wehr So kemen de Schape yo desto ehr Vom stall und bucht / heden got gemack Und ick mick künde leggen ock In myn Hütten mick fry lagerde Und schleep dat de heyde wagede"
-      },
-      {
-        "typ": "figurtext",
-        "text": "Nabal\nEy wol hefft ock groth feils darn Wy wollen de beyde nich mit uns gan So willen wy doch fort dryven Und disse nacht bynander blyuen Ick segge dy / unse grothe Magd De heft my hüden thogesagt Dat se wolle tho my kamen hen Disse Nacht in de schlaphütte henin Da wöllen wy wat warmes kriegen Redlike wöllnn wy se bedregn Ja yck wil dick noch mehr sagen Wenn ick yd nör wolde wagen Ick wol ock de Meisterscke hebben macht Se schold tho my kamen auer Nacht Mag sölcke schalckheit överst nicht doen Am Meister / denn he ys sehr fraem Ick segge överst up mynen Eyd De Meisterscke wehr my stets bereit Besonder wann he offt lancksam kümpt tho Huß Und heffe gesopen ein guden Ruß."
-      },
-      {
-        "typ": "kontext",
-        "text": "Jacoff.\nEy lieb Geselln / wolts besser lern. Wenn die Ecker ühwer eigen wiern Unn hets euch lassen werden suwr Wie offm Dorff wol manicher Buwer Thue moß / und in den meßiohrn Vehl mos von sym muhl ersporn Ech freug uch / ge Gesellen / Wenn je ehs möst bestellen Uhwr ecker mit grosser erbt Ein böser Bufe aber Kehm hehn / solchs woll verderbe Most he nicht für uhwren sichtigen augen sterbe Denckt nu wies möcht gefallen uch. Su gefelts einem angern auch.\nDavid.\nAch wenn seh nohr bedechten Was die natur voer met sich brechte Do steht alles miteinanger was i woll: Das uch de Lüht thun soln Das sol je ehnen wedder thun Off myn Sehl / ich seigs ohn schuw Wörden se solckes bedencken fry Dat solcher mutwil sünge sy Wörden sies behle by sich fingen schlecht Dat deß allemetheinanger wyer unrecht."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Nabal.\nEy / Ey / wie hestig west doch juw Ick segge dat / yu hetten scher Unserm HEREN Gott disse tyt Vor yuwer grothen hillicheit Syne Böte gar affgefreten."
-      },
-      {
-        "typ": "kontext",
-        "text": "Laban ad Nabal.\nKum her wy willen uns ermein Wat schol man jedem seggen alls Ick wet’du syest ein Wagehalß Wat wil wy hier lange maken Nimb mit dynen grothen Schaperhaken Und dyne grote Plötze ock Up ein vorsorge seg ick noch Ick wil ock tho disser stunde Mit my nemen myne Hunde Und sonderliken den grißgram De ys gar böse wie ein Lam Ob uns thet jemand ansprecken De scholt wol redlich wedder reckn Wann de einen Burn darnedder rith Vor leed he in de Hasen sckit Und auer dat seg ick noch mehr Willn wy uns tapper stelln thor wehr."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Nabal\nPotz angst / wat han de Burn veel möckn Süe wat ys hier up mynem Röcken Underm Rock heb ick alda vorwahrt Eine gude scharpe Spitzbart Trotz seg uns einer ein krummes wort Met myner Parten drück ick fort Und werp se em in die Lenden nein Dat he de kutteln dregt in henden sein."
-      },
-      {
-        "typ": "kontext",
-        "text": "Laban.\nDie vortzagten Memmer / die han Jümmer sorge / dat de Hemmel kan Nicht lenger stahn / he falle yn Ock noch ein spryckwort ys gemein Ein blöder Kerl / de gar vorzagt De boelt umb kene schöne Magd Ey yümmer frisck in tel gewagt Wer weth wer noch den andern yagt Kame my darauer in de hafft Werd doch wol wedder rath geschafft So anders denne wyllen unse Herrn Ihre Schap hebbn gehödet gern Se werden wol raden tho der saken Und uns des Thorms loß maken\nDavid.\nO das Handtwerck ehs behle zu lerrn Du derffst dich nicht beruffn auff Herrn För einen Schäffknecht zehn andere syn\nJocoff.\nGleubt mir / die Herrn itzt syn geschwing Wördet itze drober sihre geschlaun Su wörden hernach die Herren seign Sie hettens nicht geheissen uch.\nDavid.\nIch kan auch wärlich gleuben nicht Das sölchs den Herrn gefallen söle Wenn eins das ander verderben wolt Herrn Schoff hehn / Herrn Schoff her Wenn das wol syn der Herrn begehr Dz man der Lüth ehr korn verderben wolt Leber seig mir wo von man geben solt Den Herrn ehre zintz / schos / dienst und rent.\nLaban.\nPludre dat diek de Düffel schend Heffsiu denn nich gehöret dat ein Schepken heb ein gülden voet Wo yd frit / da mestet bald wedder\nDavid.\nIch hehle wol / man mests off und nedder Das korn des Schoffe vorbessen hehn Do siht man nicht vehr ehren steyn\nLaban\nWille gy Narren nich / so blyuet hyer stan Kum her Nabal wy willen gahn\nDavid.\nEmmer hen / uff uwer ebenthümr Morgen so syn de Schaffknecht thüer Won wir beid hie verharrn Wenn wir morgen nuw zeitung erfarn Das der Rechter zu Bethania Die Schaffknecht von Bethsaida Inn Torm gesteckt zu Bethlehem Wanne wie werd je sihn so schlem\nJacoff.\nIch wölle dem Richter seigen danck Das he üch wöl vier wochen lang Im Torme mocht han und maures leren Das möcht ich üch wol wünschen gern Und geb euch die je syt vormessen Nicht mehr den ytel speck zu essen Und kein brod / so werd je sehen wol Wie man an ihnen halten soll Die liebe Goth und Korn im Feld Davon sich Mensch und Viech erhelt Kenne ich ehn wol so darff hers wagen Freügt wenig darnach dz du mochst seign Du weirst ein Jöde / du issest kehn speck Hüerstu gesell / woltu zu drecke Machen die liebe Goth im Feld Engers werd die nocht för gestelt Und wyl he Römisch ehs / ein heid Ists ehm vorwahr solches weinig leid."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Nabal.\nGrusam veel heffstu der müggen Ick sitte jo so mehr in dem drögen Denn dat ick mick lethe beregnen Wo uns den pfleget tho begegnen Edder gar im Felde erfreern Ick kan de Burn wol süst verern Zho dem / und kehm yd glyck darhen Noch ein renck ick heb in mymn Sinn Geve ick dem Schötzer man ein blick So weth he bald van stück tho stück Dat he mick wedder schallos geuen"
-      },
-      {
-        "typ": "kontext",
-        "text": "Laban.\nVorwar Gesell ick segge dy euen Dat ick ock wol by Schapen Hebbe myn lengste tydt gelathen Und thobracht / överst solcke wort Uth Schapers possen nie gehört Lath stahn de Narrn / my willen gahn Doch segge mickt ock dat ickt vorstan Wie du so lichtlich scheppest dat Dat men dick moth tho freden lahn Wen mit eim blick du stickst vul tuck"
-      },
-      {
-        "typ": "figurtext",
-        "text": "Nabal.\nDat ys noch wol ein Meisterstück Myn Vader ein Erff Schepers war Van dem ick solck es gehört heb zwar Süs wüst ick so wenig daraff aß du Welcks ick dy wil ock seggen nu Wann du im Feld wilt hebben macht Tho höden allenthalven / nim in acht Deßglicken wedder Burn beholden recht Wann yemand eine klage vorbrecht Dat nemand dy wat anhebbn kan So laue dem Schötzer oder Amptman Dat du em 3. edder 4. stieg Schap Mit höden wilt under dem hupen Wenn dann thom Schötzer kamen werdn Unde dy anklagen de Buren Mustu den Amptman blycken an De deyt yd denn gar bald vorstan Dat syn Schaep ock drey schüldig syn Denn kan he de klag mancherley Düden / dreyhen unde gar affhelpen Dat men dy kan gar nichts anhebhn So moth Börger / Buwer ick dy seg Alse den van erer klage lathen af Efft glyck de Buwer thom land uth loey So bringet de Schötzer syn guth thohop Wol an veel deent / by ein hefft gunst Darvör helpt weder recht noch kunst"
-      },
-      {
-        "typ": "kontext",
-        "text": "Laban.\nSüe schol ick nich van wunder segn Mick sprecken ock an in den regn De Schryuers dat ick scholde ehn Ein veerddel Schap in geheem Mit höden. Sölcks lathn by my blyven Lucas nich veel darvan schold schrynen Gwyßlick sprickt he mick weder an Schal syn bid syn gewehret schon Noch eins auerst moth ick dy fragn Nich allen den de Schap behagn Wat döeth man den en wol tho willn."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Nabal.\nEin sahnkees mackt ock veel dings still Densülven dem Schötzer ind joppe steck Sö helpt he all dyn tück vordeckn Veel hebben ock wol tho Swynen lust Darümb dewyl du doch must süß Van der waddike de swyn holden wol Seg he ock etlike dartho doen schal Ydt kost dy nicht / geith aver de Herrn So wol im Sommer alß im Wintr Den Drösckers bring in hungers noth Gut keeß / bottr / wörst / thom morgenbrot So kehrn sie denn viel Korns in kaff Dat kanstu syn thosamden raff. De Swyn im kaff den fynden wol Glöve my / dat wol halffe mast syn schol. Des Sommers umb de mandel herumb Swyn / Schap leth gahn umb und umb."
-      },
-      {
-        "typ": "kontext",
-        "text": "Laban.\nNu wolan ick segge dy eben Du my eine gude lehr heffst geven Darup icks nu wil wagen ock Up de Sath tho dryven sckerlick Drümb kom my willen lopen / An hen na unsem Hupen My willen överst erstlick lurn Efft ock vorhanden syn de Burn.\nLaban.\nPyp yp de Sackpyp und se drück Und pyp darup ein Meisterstück"
-      },
-      {
-        "typ": "figurtext",
-        "text": "Nabal.\nDie nehm ick up de Saat nicht mit Dat ys kenes rechten Schappers Sit. Edder lath doch se nicht hören tho Beth neen Schap up der saat mehr gah Ick stop noch wol tho de Schapschelln Up dat se nich so klingen hell Dat se de Buren hören schnel Und in dem Feld uns ubereiln."
-      },
-      {
-        "typ": "kontext",
-        "text": "Laban.\nDryff fort yd ys itzund finster und trübicht Ick weet gwiß se hindt kommen nicht\nLaban.\nHeddestu deine Sackpype middde bracht So hedden de Schape upt pypent acht Unde bleuen syn bysamen Weydeden an hen in Gades Nahm Wowol se kennen unse stem So willen wy singen jümmer hen"
-      },
-      {
-        "typ": "figurtext",
-        "text": "Hie heben sie an zu singen.\nYd wolde ein Schaper weyden / juch / juch / weyde wol / so fern up gröner Heyden / das tyrletom / das tyrletom.\n(2. Akt, 1. Szene)"
-      }
-    ]
-  },
-
-  {
-    "id": "ChristlichAction03",
-    "theaterstück": {
-      "titel": "Ein schön Christlich Action, Von der Geburt vnd Offenbarung vnsers HERRN vnd Heylandts Jhesu CHrist",
-      "zeit": "1595",
-      "druckort": "NN",
-      "auffuehrungshinweise": ""
-    },
-    "autor": {
-      "name": "Johann Cuno",
-      "herkunft": "Omd.",
-      "orte": ["Erfurt", "Calbe (Saale)"],
-      "lebensdaten": "1555–1598"
-    },
-    "figur": {
-      "name": "Jacob",
-      "rolle": "Hirte",
-      "beschreibung": "'frommer gottfürchtiger Schafknecht, redet Thüringisch', redet mit Laban, Nabal (ndt.), David (thür.), spricht nicht immer Dialekt"
-    },
-    "dialekt": {
-      "adaption": "Autoadaption",
-      "dialekt_grossraum": "Omd."
-    },
-    "geokoordinaten": {
-      "herkunft_autor": {
-        "lat": 50.978056,
-        "lng": 11.029167
-      },
-      "herkunft_figur": { 
-        "lat": null,
-        "lng": null
-      }
-    },
-    "abschnitt": "Laban. Ey gy Gesellen / wat rad gy tho den saken Wu werd wy yde henförder maken De füdderung wert grusam kleen Und unse Järlinck werden schlim De Felder synd scher worden leer All uth gehödet hen und her Temlyck groth synd unse hopen Ick mein de Herrn schöllen anlopn So vele vehs dyt jahr ick nich In winterschlöge / ick bericht Nu forder wy uns deelen mothen Dat Saadtfelt ys vast gar befreten Van unsen schapen allthomal Hödt du na den bargen / ick wil im dack Ado füddering ynt Lückerfeld. Efftyr börgen und burn glyck nich gefelt Wat können se an uns begeren. Synd doch de Schape unsen Heren De schade in framen kamen deith Jocoff. Wultu sü thue / dahs ehs nich gut Dorffe wies doch (Gott sys gelobt (nech (das wir soln Der Leut ehr Korn verderb mer wolln Wy syn zu iem gelubten läng allhie Do es uns an weide gmängelt nie Wedder im Sommer / noch zu weinters zyt An graß / strüch / krommet / fotter halte Dieß Jahrs fotters gnogsam gewächsen eß Deß besten anis / das trocken inbracht es Werlich / off myn Seel / off myn Eyd Myne Schoff entlossen hahn bereit Sü schowe / so schön das sie Got bhüt Sol ich mech in gefahr geb / on dörfft es necht Han sieh doch werlich solche Ytter nun Els sollen sie off der stund Lammen thun Do sie doch kuhm über die helffte seynt. Nabal. Wat dusent Düffel lyt dick im Syn Dat du Börgern / Buren / wult im karn Vorsckonen yd ys doch all vorlarn Dann wenn se glyck veel Karn gewinen So supen se sick gar van Sinnen Und spälen tag und Nacht dartho Drümb moth men maken das se row Hebben / und mit freden schlapen Ick wil nu fort mit mynen Schapen Kampt mit ye gesellen. Yd ys nicht fern Schöllen se nicht einmal de weyd endern Wy willen de leng und quer auer de saec Wol achts wann glyck de Buerwerd quaet Ick segge vorwar de Dener wol Der Heren gunst hebben kan allmahl Und kan ock dat fo der syn sparn Dat men solckes kan bewaren Up den nawinter / Nu hör mehr Wy genetens so scher als unse Herrn So beholden wy wat vor de Bucht Dat ock wol vns belohnt de möye. Jacoff. Ech wil nech met / es sol alhier An deser Weid genügen mier. David. Lieb Jocoff ichs auch met digen hehl On ob wy glich noch fingen behle Jene weid / mossen darnoch trieben Wohl ech doch leber hie blieben Keinen öber ahl nech schaden thuen Ech seig dahs / waß wiers denn nun Wenn wir uns wolden schadens fliesen On hetten dröber ein büse gewissen Was hetten wir denn danon gebrocht Nabal. Ey wat schold ick ein gantze Nacht Myn Schap im feld herumb doen dryven Narren deith sölcke arbeid leeuen Schol ick se mich leeuer im drögsten feld Upm korn / sath maken / schnel und bold. Laban. Ich ock warlick des sinnes wehr So kemen de Schape yo desto ehr Vom stall und bucht / heden got gemack Und ick mick künde leggen ock In myn Hütten mick fry lagerde Und schleep dat de heyde wagede Nabal Ey wol hefft ock groth feils darn Wy wollen de beyde nich mit uns gan So willen wy doch fort dryven Und disse nacht bynander blyuen Ick segge dy / unse grothe Magd De heft my hüden thogesagt Dat se wolle tho my kamen hen Disse Nacht in de schlaphütte henin Da wöllen wy wat warmes kriegen Redlike wöllnn wy se bedregn Ja yck wil dick noch mehr sagen Wenn ick yd nör wolde wagen Ick wol ock de Meisterscke hebben macht Se schold tho my kamen auer Nacht Mag sölcke schalckheit överst nicht doen Am Meister / denn he ys sehr fraem Ick segge överst up mynen Eyd De Meisterscke wehr my stets bereit Besonder wann he offt lancksam kümpt tho Huß Und heffe gesopen ein guden Ruß. Jacoff. Ey lieb Geselln / wolts besser lern. Wenn die Ecker ühwer eigen wiern Unn hets euch lassen werden suwr Wie offm Dorff wol manicher Buwer Thue moß / und in den meßiohrn Vehl mos von sym muhl ersporn Ech freug uch / ge Gesellen / Wenn je ehs möst bestellen Uhwr ecker mit grosser erbt Ein böser Bufe aber Kehm hehn / solchs woll verderbe Most he nicht für uhwren sichtigen augen sterbe Denckt nu wies möcht gefallen uch. Su gefelts einem angern auch. David. Ach wenn seh nohr bedechten Was die natur voer met sich brechte Do steht alles miteinanger was i woll: Das uch de Lüht thun soln Das sol je ehnen wedder thun Off myn Sehl / ich seigs ohn schuw Wörden se solckes bedencken fry Dat solcher mutwil sünge sy Wörden sies behle by sich fingen schlecht Dat deß allemetheinanger wyer unrecht. Nabal. Ey / Ey / wie hestig west doch juw Ick segge dat / yu hetten scher Unserm HEREN Gott disse tyt Vor yuwer grothen hillicheit Syne Böte gar affgefreten. Laban ad Nabal. Kum her wy willen uns ermein Wat schol man jedem seggen alls Ick wet’du syest ein Wagehalß Wat wil wy hier lange maken Nimb mit dynen grothen Schaperhaken Und dyne grote Plötze ock Up ein vorsorge seg ick noch Ick wil ock tho disser stunde Mit my nemen myne Hunde Und sonderliken den grißgram De ys gar böse wie ein Lam Ob uns thet jemand ansprecken De scholt wol redlich wedder reckn Wann de einen Burn darnedder rith Vor leed he in de Hasen sckit Und auer dat seg ick noch mehr Willn wy uns tapper stelln thor wehr. Nabal Potz angst / wat han de Burn veel möckn Süe wat ys hier up mynem Röcken Underm Rock heb ick alda vorwahrt Eine gude scharpe Spitzbart Trotz seg uns einer ein krummes wort Met myner Parten drück ick fort Und werp se em in die Lenden nein Dat he de kutteln dregt in henden sein. Laban. Die vortzagten Memmer / die han Jümmer sorge / dat de Hemmel kan Nicht lenger stahn / he falle yn Ock noch ein spryckwort ys gemein Ein blöder Kerl / de gar vorzagt De boelt umb kene schöne Magd Ey yümmer frisck in tel gewagt Wer weth wer noch den andern yagt Kame my darauer in de hafft Werd doch wol wedder rath geschafft So anders denne wyllen unse Herrn Ihre Schap hebbn gehödet gern Se werden wol raden tho der saken Und uns des Thorms loß maken David. O das Handtwerck ehs behle zu lerrn Du derffst dich nicht beruffn auff Herrn För einen Schäffknecht zehn andere syn Jocoff. Gleubt mir / die Herrn itzt syn geschwing Wördet itze drober sihre geschlaun Su wörden hernach die Herren seign Sie hettens nicht geheissen uch. David. Ich kan auch wärlich gleuben nicht Das sölchs den Herrn gefallen söle Wenn eins das ander verderben wolt Herrn Schoff hehn / Herrn Schoff her Wenn das wol syn der Herrn begehr Dz man der Lüth ehr korn verderben wolt Leber seig mir wo von man geben solt Den Herrn ehre zintz / schos / dienst und rent. Laban. Pludre dat diek de Düffel schend Heffsiu denn nich gehöret dat ein Schepken heb ein gülden voet Wo yd frit / da mestet bald wedder David. Ich hehle wol / man mests off und nedder Das korn des Schoffe vorbessen hehn Do siht man nicht vehr ehren steyn Laban Wille gy Narren nich / so blyuet hyer stan Kum her Nabal wy willen gahn David. Emmer hen / uff uwer ebenthümr Morgen so syn de Schaffknecht thüer Won wir beid hie verharrn Wenn wir morgen nuw zeitung erfarn Das der Rechter zu Bethania Die Schaffknecht von Bethsaida Inn Torm gesteckt zu Bethlehem Wanne wie werd je sihn so schlem Jacoff. Ich wölle dem Richter seigen danck Das he üch wöl vier wochen lang Im Torme mocht han und maures leren Das möcht ich üch wol wünschen gern Und geb euch die je syt vormessen Nicht mehr den ytel speck zu essen Und kein brod / so werd je sehen wol Wie man an ihnen halten soll Die liebe Goth und Korn im Feld Davon sich Mensch und Viech erhelt Kenne ich ehn wol so darff hers wagen Freügt wenig darnach dz du mochst seign Du weirst ein Jöde / du issest kehn speck Hüerstu gesell / woltu zu drecke Machen die liebe Goth im Feld Engers werd die nocht för gestelt Und wyl he Römisch ehs / ein heid Ists ehm vorwahr solches weinig leid. Nabal. Grusam veel heffstu der müggen Ick sitte jo so mehr in dem drögen Denn dat ick mick lethe beregnen Wo uns den pfleget tho begegnen Edder gar im Felde erfreern Ick kan de Burn wol süst verern Zho dem / und kehm yd glyck darhen Noch ein renck ick heb in mymn Sinn Geve ick dem Schötzer man ein blick So weth he bald van stück tho stück Dat he mick wedder schallos geuen Laban. Vorwar Gesell ick segge dy euen Dat ick ock wol by Schapen Hebbe myn lengste tydt gelathen Und thobracht / överst solcke wort Uth Schapers possen nie gehört Lath stahn de Narrn / my willen gahn Doch segge mickt ock dat ickt vorstan Wie du so lichtlich scheppest dat Dat men dick moth tho freden lahn Wen mit eim blick du stickst vul tuck Nabal. Dat ys noch wol ein Meisterstück Myn Vader ein Erff Schepers war Van dem ick solck es gehört heb zwar Süs wüst ick so wenig daraff aß du Welcks ick dy wil ock seggen nu Wann du im Feld wilt hebben macht Tho höden allenthalven / nim in acht Deßglicken wedder Burn beholden recht Wann yemand eine klage vorbrecht Dat nemand dy wat anhebbn kan So laue dem Schötzer oder Amptman Dat du em 3. edder 4. stieg Schap Mit höden wilt under dem hupen Wenn dann thom Schötzer kamen werdn Unde dy anklagen de Buren Mustu den Amptman blycken an De deyt yd denn gar bald vorstan Dat syn Schaep ock drey schüldig syn Denn kan he de klag mancherley Düden / dreyhen unde gar affhelpen Dat men dy kan gar nichts anhebhn So moth Börger / Buwer ick dy seg Alse den van erer klage lathen af Efft glyck de Buwer thom land uth loey So bringet de Schötzer syn guth thohop Wol an veel deent / by ein hefft gunst Darvör helpt weder recht noch kunst Laban. Süe schol ick nich van wunder segn Mick sprecken ock an in den regn De Schryuers dat ick scholde ehn Ein veerddel Schap in geheem Mit höden. Sölcks lathn by my blyven Lucas nich veel darvan schold schrynen Gwyßlick sprickt he mick weder an Schal syn bid syn gewehret schon Noch eins auerst moth ick dy fragn Nich allen den de Schap behagn Wat döeth man den en wol tho willn. Nabal. Ein sahnkees mackt ock veel dings still Densülven dem Schötzer ind joppe steck Sö helpt he all dyn tück vordeckn Veel hebben ock wol tho Swynen lust Darümb dewyl du doch must süß Van der waddike de swyn holden wol Seg he ock etlike dartho doen schal Ydt kost dy nicht / geith aver de Herrn So wol im Sommer alß im Wintr Den Drösckers bring in hungers noth Gut keeß / bottr / wörst / thom morgenbrot So kehrn sie denn viel Korns in kaff Dat kanstu syn thosamden raff. De Swyn im kaff den fynden wol Glöve my / dat wol halffe mast syn schol. Des Sommers umb de mandel herumb Swyn / Schap leth gahn umb und umb. Laban. Nu wolan ick segge dy eben Du my eine gude lehr heffst geven Darup icks nu wil wagen ock Up de Sath tho dryven sckerlick Drümb kom my willen lopen / An hen na unsem Hupen My willen överst erstlick lurn Efft ock vorhanden syn de Burn. Laban. Pyp yp de Sackpyp und se drück Und pyp darup ein Meisterstück Nabal. Die nehm ick up de Saat nicht mit Dat ys kenes rechten Schappers Sit. Edder lath doch se nicht hören tho Beth neen Schap up der saat mehr gah Ick stop noch wol tho de Schapschelln Up dat se nich so klingen hell Dat se de Buren hören schnel Und in dem Feld uns ubereiln. Laban. Dryff fort yd ys itzund finster und trübicht Ick weet gwiß se hindt kommen nicht Laban. Heddestu deine Sackpype middde bracht So hedden de Schape upt pypent acht Unde bleuen syn bysamen Weydeden an hen in Gades Nahm Wowol se kennen unse stem So willen wy singen jümmer hen Hie heben sie an zu singen. Yd wolde ein Schaper weyden / juch / juch / weyde wol / so fern up gröner Heyden / das tyrletom / das tyrletom. (2. Akt, 1. Szene) [...] Jacob. Billich ists das wir auch Gotte nun Für diese seine wolthat dancken thun Für seinen allerliebsten Sohn Der uns gesand aus Himmels thron. Hie singen die Hirten fein andechtig mit gefaltenen henden auff den Knien / mit ihren Schafffstäcken liegend singens Thüringsch Puernatus in Bethlehem, Bethleh Unde gaudet Jerusalem Alle. Alle Alleluia. Enn Keind geburn zu Bethelheim zu Bethelheim Des frawet sich Jeruselheim / All. All. al. Hie lyt es jege dem krehpe lyn krehpelyn Ong enge ehs de Herrschafft syn allli. alli. allt. Syne Motter ehse die reine Mautt / reine Mautt. Die ohn en Mahn geburen heht Alli. Alli. Alliluia. Die Schleng ehn neche vergefften konge / vergefften könge He ehs woren unser fleisch ohne Söng / Alli. Alli. Alliluia. He ehs ons gor glych noche dem fleisch / noch dem fleisch Der Söngen noch ehs ons nech glich Alli. Alli. Alliluia. For soddene gnodenryche zyt / ryche zyt / Sy Gott gelobt en jwegkyt Alli. Alli. Alliluia. David. Ey Jocoff wie wonn noch eins singen Jocoff. Gott fahl man lob für allen dingen So geths daher inn Gottes Nahm. Hier singem sie das ander lied Sie mögens auch wol einzel singen ein jeder sein lied allein / so ists verstentlicher. Von Hemmel kahm der Engel schor Erschein uns Herten offenbohr Sie seiten ons enn Kenigelyn zart Dahs lyt dorten inge der Krepen hart Zu Bethelheim inn Davids stadt Wie Micha das verkönniget hehe Es ehs der HErre Jisum Chrest Der uhwer aller Heyland ehs. Beß wihl kommendt du edeler gahst Den Gönger nech vorschmihet hest Onn kemst ins elenge hehr zu mihr Wie sahl echs emmer däncken dir. Der Sammet onne die syden dyn Dahs ehs grob hew onne wingelyn Daruff du Kännig su gruß onne rych Hehr pränst s wiers dyn hemmelrych Ach hertzenes liebes Jysulyn Mach dygen enn syn senfft bettelyn Zu ruwen immys Hertzen schryn Das ech wie nimmer vergessen dyn. Lob / ihr / sy Gott ingen hochsten thrön Der uns schenckt synen ennigen Sohn Deß frawen sech der Engel schohr Und sengen ons sötten nuwes Jahr. Jacob und David geben Joseph und Marien die Hende / nehmen ihren absheid und spricht Jacob. Behüt euch Gott mein lieben Freund Mit ewrem hertzen lieben Kind Wir wollen wider zun Schaffen gehn. Joseph. Zicht hin / das euch nimmer leid gesche (2. Akt, 2. Szene)",
-    "original_link": "https://haab-digital.klassik-stiftung.de/viewer/image/1445495287/6/LOG_0002/?#",
-    "abschnitt_segmentiert": [
-      {
-        "typ": "kontext",
-        "text": "Laban.\nEy gy Gesellen / wat rad gy tho den saken Wu werd wy yde henförder maken De füdderung wert grusam kleen Und unse Järlinck werden schlim De Felder synd scher worden leer All uth gehödet hen und her Temlyck groth synd unse hopen Ick mein de Herrn schöllen anlopn So vele vehs dyt jahr ick nich In winterschlöge / ick bericht Nu forder wy uns deelen mothen Dat Saadtfelt ys vast gar befreten Van unsen schapen allthomal Hödt du na den bargen / ick wil im dack Ado füddering ynt Lückerfeld. Efftyr börgen und burn glyck nich gefelt Wat können se an uns begeren. Synd doch de Schape unsen Heren De schade in framen kamen deith"
-      },
-      {
-        "typ": "figurtext",
-        "text": "Jocoff.\nWultu sü thue / dahs ehs nich gut Dorffe wies doch (Gott sys gelobt (nech (das wir soln Der Leut ehr Korn verderb mer wolln Wy syn zu iem gelubten läng allhie Do es uns an weide gmängelt nie Wedder im Sommer / noch zu weinters zyt An graß / strüch / krommet / fotter halte Dieß Jahrs fotters gnogsam gewächsen eß Deß besten anis / das trocken inbracht es Werlich / off myn Seel / off myn Eyd Myne Schoff entlossen hahn bereit Sü schowe / so schön das sie Got bhüt Sol ich mech in gefahr geb / on dörfft es necht Han sieh doch werlich solche Ytter nun Els sollen sie off der stund Lammen thun Do sie doch kuhm über die helffte seynt."
-      },
-      {
-        "typ": "kontext",
-        "text": "Nabal.\nWat dusent Düffel lyt dick im Syn Dat du Börgern / Buren / wult im karn Vorsckonen yd ys doch all vorlarn Dann wenn se glyck veel Karn gewinen So supen se sick gar van Sinnen Und spälen tag und Nacht dartho Drümb moth men maken das se row Hebben / und mit freden schlapen Ick wil nu fort mit mynen Schapen Kampt mit ye gesellen. Yd ys nicht fern Schöllen se nicht einmal de weyd endern Wy willen de leng und quer auer de saec Wol achts wann glyck de Buerwerd quaet Ick segge vorwar de Dener wol Der Heren gunst hebben kan allmahl Und kan ock dat fo der syn sparn Dat men solckes kan bewaren Up den nawinter / Nu hör mehr Wy genetens so scher als unse Herrn So beholden wy wat vor de Bucht Dat ock wol vns belohnt de möye."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Jacoff.\nEch wil nech met / es sol alhier An deser Weid genügen mier."
-      },
-      {
-        "typ": "kontext",
-        "text": "David.\nLieb Jocoff ichs auch met digen hehl On ob wy glich noch fingen behle Jene weid / mossen darnoch trieben Wohl ech doch leber hie blieben Keinen öber ahl nech schaden thuen Ech seig dahs / waß wiers denn nun Wenn wir uns wolden schadens fliesen On hetten dröber ein büse gewissen Was hetten wir denn danon gebrocht\nNabal.\nEy wat schold ick ein gantze Nacht Myn Schap im feld herumb doen dryven Narren deith sölcke arbeid leeuen Schol ick se mich leeuer im drögsten feld Upm korn / sath maken / schnel und bold.\nLaban.\nIch ock warlick des sinnes wehr So kemen de Schape yo desto ehr Vom stall und bucht / heden got gemack Und ick mick künde leggen ock In myn Hütten mick fry lagerde Und schleep dat de heyde wagede\nNabal\nEy wol hefft ock groth feils darn Wy wollen de beyde nich mit uns gan So willen wy doch fort dryven Und disse nacht bynander blyuen Ick segge dy / unse grothe Magd De heft my hüden thogesagt Dat se wolle tho my kamen hen Disse Nacht in de schlaphütte henin Da wöllen wy wat warmes kriegen Redlike wöllnn wy se bedregn Ja yck wil dick noch mehr sagen Wenn ick yd nör wolde wagen Ick wol ock de Meisterscke hebben macht Se schold tho my kamen auer Nacht Mag sölcke schalckheit överst nicht doen Am Meister / denn he ys sehr fraem Ick segge överst up mynen Eyd De Meisterscke wehr my stets bereit Besonder wann he offt lancksam kümpt tho Huß Und heffe gesopen ein guden Ruß."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Jacoff.\nEy lieb Geselln / wolts besser lern. Wenn die Ecker ühwer eigen wiern Unn hets euch lassen werden suwr Wie offm Dorff wol manicher Buwer Thue moß / und in den meßiohrn Vehl mos von sym muhl ersporn Ech freug uch / ge Gesellen / Wenn je ehs möst bestellen Uhwr ecker mit grosser erbt Ein böser Bufe aber Kehm hehn / solchs woll verderbe Most he nicht für uhwren sichtigen augen sterbe Denckt nu wies möcht gefallen uch. Su gefelts einem angern auch."
-      },
-      {
-        "typ": "kontext",
-        "text": "David.\nAch wenn seh nohr bedechten Was die natur voer met sich brechte Do steht alles miteinanger was i woll: Das uch de Lüht thun soln Das sol je ehnen wedder thun Off myn Sehl / ich seigs ohn schuw Wörden se solckes bedencken fry Dat solcher mutwil sünge sy Wörden sies behle by sich fingen schlecht Dat deß allemetheinanger wyer unrecht.\nNabal.\nEy / Ey / wie hestig west doch juw Ick segge dat / yu hetten scher Unserm HEREN Gott disse tyt Vor yuwer grothen hillicheit Syne Böte gar affgefreten.\nLaban ad Nabal.\nKum her wy willen uns ermein Wat schol man jedem seggen alls Ick wet’du syest ein Wagehalß Wat wil wy hier lange maken Nimb mit dynen grothen Schaperhaken Und dyne grote Plötze ock Up ein vorsorge seg ick noch Ick wil ock tho disser stunde Mit my nemen myne Hunde Und sonderliken den grißgram De ys gar böse wie ein Lam Ob uns thet jemand ansprecken De scholt wol redlich wedder reckn Wann de einen Burn darnedder rith Vor leed he in de Hasen sckit Und auer dat seg ick noch mehr Willn wy uns tapper stelln thor wehr.\nNabal\nPotz angst / wat han de Burn veel möckn Süe wat ys hier up mynem Röcken Underm Rock heb ick alda vorwahrt Eine gude scharpe Spitzbart Trotz seg uns einer ein krummes wort Met myner Parten drück ick fort Und werp se em in die Lenden nein Dat he de kutteln dregt in henden sein.\nLaban.\nDie vortzagten Memmer / die han Jümmer sorge / dat de Hemmel kan Nicht lenger stahn / he falle yn Ock noch ein spryckwort ys gemein Ein blöder Kerl / de gar vorzagt De boelt umb kene schöne Magd Ey yümmer frisck in tel gewagt Wer weth wer noch den andern yagt Kame my darauer in de hafft Werd doch wol wedder rath geschafft So anders denne wyllen unse Herrn Ihre Schap hebbn gehödet gern Se werden wol raden tho der saken Und uns des Thorms loß maken\nDavid.\nO das Handtwerck ehs behle zu lerrn Du derffst dich nicht beruffn auff Herrn För einen Schäffknecht zehn andere syn"
-      },
-      {
-        "typ": "figurtext",
-        "text": "Jocoff.\nGleubt mir / die Herrn itzt syn geschwing Wördet itze drober sihre geschlaun Su wörden hernach die Herren seign Sie hettens nicht geheissen uch."
-      },
-      {
-        "typ": "kontext",
-        "text": "David.\nIch kan auch wärlich gleuben nicht Das sölchs den Herrn gefallen söle Wenn eins das ander verderben wolt Herrn Schoff hehn / Herrn Schoff her Wenn das wol syn der Herrn begehr Dz man der Lüth ehr korn verderben wolt Leber seig mir wo von man geben solt Den Herrn ehre zintz / schos / dienst und rent.\nLaban.\nPludre dat diek de Düffel schend Heffsiu denn nich gehöret dat ein Schepken heb ein gülden voet Wo yd frit / da mestet bald wedder\nDavid.\nIch hehle wol / man mests off und nedder Das korn des Schoffe vorbessen hehn Do siht man nicht vehr ehren steyn\nLaban\nWille gy Narren nich / so blyuet hyer stan Kum her Nabal wy willen gahn\nDavid.\nEmmer hen / uff uwer ebenthümr Morgen so syn de Schaffknecht thüer Won wir beid hie verharrn Wenn wir morgen nuw zeitung erfarn Das der Rechter zu Bethania Die Schaffknecht von Bethsaida Inn Torm gesteckt zu Bethlehem Wanne wie werd je sihn so schlem"
-      },
-      {
-        "typ": "figurtext",
-        "text": "Jacoff.\nIch wölle dem Richter seigen danck Das he üch wöl vier wochen lang Im Torme mocht han und maures leren Das möcht ich üch wol wünschen gern Und geb euch die je syt vormessen Nicht mehr den ytel speck zu essen Und kein brod / so werd je sehen wol Wie man an ihnen halten soll Die liebe Goth und Korn im Feld Davon sich Mensch und Viech erhelt Kenne ich ehn wol so darff hers wagen Freügt wenig darnach dz du mochst seign Du weirst ein Jöde / du issest kehn speck Hüerstu gesell / woltu zu drecke Machen die liebe Goth im Feld Engers werd die nocht för gestelt Und wyl he Römisch ehs / ein heid Ists ehm vorwahr solches weinig leid."
-      },
-      {
-        "typ": "kontext",
-        "text": "Nabal.\nGrusam veel heffstu der müggen Ick sitte jo so mehr in dem drögen Denn dat ick mick lethe beregnen Wo uns den pfleget tho begegnen Edder gar im Felde erfreern Ick kan de Burn wol süst verern Zho dem / und kehm yd glyck darhen Noch ein renck ick heb in mymn Sinn Geve ick dem Schötzer man ein blick So weth he bald van stück tho stück Dat he mick wedder schallos geuen\nLaban.\nVorwar Gesell ick segge dy euen Dat ick ock wol by Schapen Hebbe myn lengste tydt gelathen Und thobracht / överst solcke wort Uth Schapers possen nie gehört Lath stahn de Narrn / my willen gahn Doch segge mickt ock dat ickt vorstan Wie du so lichtlich scheppest dat Dat men dick moth tho freden lahn Wen mit eim blick du stickst vul tuck\nNabal.\nDat ys noch wol ein Meisterstück Myn Vader ein Erff Schepers war Van dem ick solck es gehört heb zwar Süs wüst ick so wenig daraff aß du Welcks ick dy wil ock seggen nu Wann du im Feld wilt hebben macht Tho höden allenthalven / nim in acht Deßglicken wedder Burn beholden recht Wann yemand eine klage vorbrecht Dat nemand dy wat anhebbn kan So laue dem Schötzer oder Amptman Dat du em 3. edder 4. stieg Schap Mit höden wilt under dem hupen Wenn dann thom Schötzer kamen werdn Unde dy anklagen de Buren Mustu den Amptman blycken an De deyt yd denn gar bald vorstan Dat syn Schaep ock drey schüldig syn Denn kan he de klag mancherley Düden / dreyhen unde gar affhelpen Dat men dy kan gar nichts anhebhn So moth Börger / Buwer ick dy seg Alse den van erer klage lathen af Efft glyck de Buwer thom land uth loey So bringet de Schötzer syn guth thohop Wol an veel deent / by ein hefft gunst Darvör helpt weder recht noch kunst\nLaban.\nSüe schol ick nich van wunder segn Mick sprecken ock an in den regn De Schryuers dat ick scholde ehn Ein veerddel Schap in geheem Mit höden. Sölcks lathn by my blyven Lucas nich veel darvan schold schrynen Gwyßlick sprickt he mick weder an Schal syn bid syn gewehret schon Noch eins auerst moth ick dy fragn Nich allen den de Schap behagn Wat döeth man den en wol tho willn.\nNabal.\nEin sahnkees mackt ock veel dings still Densülven dem Schötzer ind joppe steck Sö helpt he all dyn tück vordeckn Veel hebben ock wol tho Swynen lust Darümb dewyl du doch must süß Van der waddike de swyn holden wol Seg he ock etlike dartho doen schal Ydt kost dy nicht / geith aver de Herrn So wol im Sommer alß im Wintr Den Drösckers bring in hungers noth Gut keeß / bottr / wörst / thom morgenbrot So kehrn sie denn viel Korns in kaff Dat kanstu syn thosamden raff. De Swyn im kaff den fynden wol Glöve my / dat wol halffe mast syn schol. Des Sommers umb de mandel herumb Swyn / Schap leth gahn umb und umb.\nLaban.\nNu wolan ick segge dy eben Du my eine gude lehr heffst geven Darup icks nu wil wagen ock Up de Sath tho dryven sckerlick Drümb kom my willen lopen / An hen na unsem Hupen My willen överst erstlick lurn Efft ock vorhanden syn de Burn.\nLaban.\nPyp yp de Sackpyp und se drück Und pyp darup ein Meisterstück\nNabal.\nDie nehm ick up de Saat nicht mit Dat ys kenes rechten Schappers Sit. Edder lath doch se nicht hören tho Beth neen Schap up der saat mehr gah Ick stop noch wol tho de Schapschelln Up dat se nich so klingen hell Dat se de Buren hören schnel Und in dem Feld uns ubereiln.\nLaban.\nDryff fort yd ys itzund finster und trübicht Ick weet gwiß se hindt kommen nicht\nLaban.\nHeddestu deine Sackpype middde bracht So hedden de Schape upt pypent acht Unde bleuen syn bysamen Weydeden an hen in Gades Nahm Wowol se kennen unse stem So willen wy singen jümmer hen\nHie heben sie an zu singen.\nYd wolde ein Schaper weyden / juch / juch / weyde wol / so fern up gröner Heyden / das tyrletom / das tyrletom."
-      },
-      {
-        "typ": "figurtext",
-        "text": "(2. Akt, 1. Szene)\n"
+        "id": "ChristlichAction01",
+        "theaterstück": {
+          "titel": "Ein schön Christlich Action, Von der Geburt vnd Offenbarung vnsers HERRN vnd Heylandts Jhesu CHrist",
+          "zeit": "1595",
+          "druckort": "NN",
+          "auffuehrungshinweise": ""
+        },
+        "autor": {
+          "name": "Johann Cuno",
+          "herkunft": "Omd.",
+          "orte": ["Erfurt", "Calbe (Saale)"],
+          "lebensdaten": "1555–1598"
+        },
+        "figur": {
+          "name": "Laban",
+          "rolle": "Hirte",
+          "beschreibung": "'böser verwogener Schafknecht, redet Sechsisch'; redet mit Nabal (nd.), Jacob, David (thür.)"
+        },
+        "dialekt": {
+          "adaption": "Heteroadaption",
+          "dialekt_grossraum": "Nd."
+        },
+        "geokoordinaten": {
+          "herkunft_autor": {
+            "lat": 50.978056,
+            "lng": 11.029167
+          },
+          "herkunft_figur": { 
+            "lat": null,
+            "lng": null
+          }
+        },
+        "abschnitt": "[tbd]",
+        "original_link": "https://haab-digital.klassik-stiftung.de/viewer/image/1445495287/6/LOG_0002/?#",
+        "abschnitt_segmentiert": [
+          {
+            "typ": "figurtext",
+            "text": "<b>Actus secundi. Scena prima.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Jacob / David / zwene fromme Gottfürchtige schaffknechte reden Thürinsch / Laban und Nabal zwene verwogene böse Tropffen reden Sechsischs.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LABAN. Ey gy Gesellen / wat rad gy tho den saken Wu werd wy yde henförder maken De füdderung wert grusam kleen Und unse Järlinck werden schlim De Felder synd scher worden leer All uth gehödet hen und her Temlyck groth synd unse hopen Ick mein de Herrn schöllen anlopn So vele vehs dyt jahr ick nich In winterschlöge / ick bericht Nu forder wy uns deelen mothen Dat Saadtfelt ys vast gar befreten Van unsen schapen allthomal Hödt du na den bargen / ick wil im dack Ado füddering ynt Lückerfeld. Efftyr börgen und burn glyck nich gefelt Wat können se an uns begeren. Synd doch de Schape unsen Heren De schade in framen kamen deith"
+          },
+          {
+            "typ": "kontext",
+            "text": "JOCOFF. Wultu sü thue / dahs ehs nich gut Dorffe wies doch (Gott sys gelobt (nech (das wir soln Der Leut ehr Korn verderb mer wolln Wy syn zu iem gelubten läng allhie Do es uns an weide gmängelt nie Wedder im Sommer / noch zu weinters zyt An graß / strüch / krommet / fotter halte Dieß Jahrs fotters gnogsam gewächsen eß Deß besten anis / das trocken inbracht es Werlich / off myn Seel / off myn Eyd Myne Schoff entlossen hahn bereit Sü schowe / so schön das sie Got bhüt Sol ich mech in gefahr geb / on dörfft es necht Han sieh doch werlich solche Ytter nun Els sollen sie off der stund Lammen thun Do sie doch kuhm über die helffte seynt.<br>NABAL. Wat dusent Düffel lyt dick im Syn Dat du Börgern / Buren / wult im karn Vorsckonen yd ys doch all vorlarn Dann wenn se glyck veel Karn gewinen So supen se sick gar van Sinnen Und spälen tag und Nacht dartho Drümb moth men maken das se row Hebben / und mit freden schlapen Ick wil nu fort mit mynen Schapen Kampt mit ye gesellen. Yd ys nicht fern Schöllen se nicht einmal de weyd endern Wy willen de leng und quer auer de saec Wol achts wann glyck de Buerwerd quaet Ick segge vorwar de Dener wol Der Heren gunst hebben kan allmahl Und kan ock dat fo der syn sparn Dat men solckes kan bewaren Up den nawinter / Nu hör mehr Wy genetens so scher als unse Herrn So beholden wy wat vor de Bucht Dat ock wol vns belohnt de möye.<br>JACOFF. Ech wil nech met / es sol alhier An deser Weid genügen mier.<br>DAVID. Lieb Jocoff ichs auch met digen hehl On ob wy glich noch fingen behle Jene weid / mossen darnoch trieben Wohl ech doch leber hie blieben Keinen öber ahl nech schaden thuen Ech seig dahs / waß wiers denn nun Wenn wir uns wolden schadens fliesen On hetten dröber ein büse gewissen Was hetten wir denn danon gebrocht<br>NABAL. Ey wat schold ick ein gantze Nacht Myn Schap im feld herumb doen dryven Narren deith sölcke arbeid leeuen Schol ick se mich leeuer im drögsten feld Upm korn / sath maken / schnel und bold."
+          },
+          {
+            "typ": "figurtext",
+            "text": "LABAN. Ich ock warlick des sinnes wehr So kemen de Schape yo desto ehr Vom stall und bucht / heden got gemack Und ick mick künde leggen ock In myn Hütten mick fry lagerde Und schleep dat de heyde wagede"
+          },
+          {
+            "typ": "kontext",
+            "text": "NABAL. Ey wol hefft ock groth feils darn Wy wollen de beyde nich mit uns gan So willen wy doch fort dryven Und disse nacht bynander blyuen Ick segge dy / unse grothe Magd De heft my hüden thogesagt Dat se wolle tho my kamen hen Disse Nacht in de schlaphütte henin Da wöllen wy wat warmes kriegen Redlike wöllnn wy se bedregn Ja yck wil dick noch mehr sagen Wenn ick yd nör wolde wagen Ick wol ock de Meisterscke hebben macht Se schold tho my kamen auer Nacht Mag sölcke schalckheit överst nicht doen Am Meister / denn he ys sehr fraem Ick segge överst up mynen Eyd De Meisterscke wehr my stets bereit Besonder wann he offt lancksam kümpt tho Huß Und heffe gesopen ein guden Ruß.<br>JACOFF. Ey lieb Geselln / wolts besser lern. Wenn die Ecker ühwer eigen wiern Unn hets euch lassen werden suwr Wie offm Dorff wol manicher Buwer Thue moß / und in den meßiohrn Vehl mos von sym muhl ersporn Ech freug uch / ge Gesellen / Wenn je ehs möst bestellen Uhwr ecker mit grosser erbt Ein böser Bufe aber Kehm hehn / solchs woll verderbe Most he nicht für uhwren sichtigen augen sterbe Denckt nu wies möcht gefallen uch. Su gefelts einem angern auch.<br>DAVID. Ach wenn seh nohr bedechten Was die natur voer met sich brechte Do steht alles miteinanger was i woll: Das uch de Lüht thun soln Das sol je ehnen wedder thun Off myn Sehl / ich seigs ohn schuw Wörden se solckes bedencken fry Dat solcher mutwil sünge sy Wörden sies behle by sich fingen schlecht Dat deß allemetheinanger wyer unrecht.<br>NABAL. Ey / Ey / wie hestig west doch juw Ick segge dat / yu hetten scher Unserm HEREN Gott disse tyt Vor yuwer grothen hillicheit Syne Böte gar affgefreten."
+          },
+          {
+            "typ": "figurtext",
+            "text": "LABAN <i>ad Nabal.</i> Kum her wy willen uns ermein Wat schol man jedem seggen alls Ick wet’du syest ein Wagehalß Wat wil wy hier lange maken Nimb mit dynen grothen Schaperhaken Und dyne grote Plötze ock Up ein vorsorge seg ick noch Ick wil ock tho disser stunde Mit my nemen myne Hunde Und sonderliken den grißgram De ys gar böse wie ein Lam Ob uns thet jemand ansprecken De scholt wol redlich wedder reckn Wann de einen Burn darnedder rith Vor leed he in de Hasen sckit Und auer dat seg ick noch mehr Willn wy uns tapper stelln thor wehr."
+          },
+          {
+            "typ": "kontext",
+            "text": "NABAL. Potz angst / wat han de Burn veel möckn Süe wat ys hier up mynem Röcken Underm Rock heb ick alda vorwahrt Eine gude scharpe Spitzbart Trotz seg uns einer ein krummes wort Met myner Parten drück ick fort Und werp se em in die Lenden nein Dat he de kutteln dregt in henden sein."
+          },
+          {
+            "typ": "figurtext",
+            "text": "LABAN. Die vortzagten Memmer / die han Jümmer sorge / dat de Hemmel kan Nicht lenger stahn / he falle yn Ock noch ein spryckwort ys gemein Ein blöder Kerl / de gar vorzagt De boelt umb kene schöne Magd Ey yümmer frisck in tel gewagt Wer weth wer noch den andern yagt Kame my darauer in de hafft Werd doch wol wedder rath geschafft So anders denne wyllen unse Herrn Ihre Schap hebbn gehödet gern Se werden wol raden tho der saken Und uns des Thorms loß maken"
+          },
+          {
+            "typ": "kontext",
+            "text": "DAVID. O das Handtwerck ehs behle zu lerrn Du derffst dich nicht beruffn auff Herrn För einen Schäffknecht zehn andere syn<br>JOCOFF. Gleubt mir / die Herrn itzt syn geschwing Wördet itze drober sihre geschlaun Su wörden hernach die Herren seign Sie hettens nicht geheissen uch.<br>DAVID. Ich kan auch wärlich gleuben nicht Das sölchs den Herrn gefallen söle Wenn eins das ander verderben wolt Herrn Schoff hehn / Herrn Schoff her Wenn das wol syn der Herrn begehr Dz man der Lüth ehr korn verderben wolt Leber seig mir wo von man geben solt Den Herrn ehre zintz / schos / dienst und rent."
+          },
+          {
+            "typ": "figurtext",
+            "text": "LABAN. Pludre dat diek de Düffel schend Heffsiu denn nich gehöret dat ein Schepken heb ein gülden voet Wo yd frit / da mestet bald wedder"
+          },
+          {
+            "typ": "kontext",
+            "text": "DAVID. Ich hehle wol / man mests off und nedder Das korn des Schoffe vorbessen hehn Do siht man nicht vehr ehren steyn"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LABAN. Wille gy Narren nich / so blyuet hyer stan Kum her Nabal wy willen gahn"
+          },
+          {
+            "typ": "kontext",
+            "text": "DAVID. Emmer hen / uff uwer ebenthümr Morgen so syn de Schaffknecht thüer Won wir beid hie verharrn Wenn wir morgen nuw zeitung erfarn Das der Rechter zu Bethania Die Schaffknecht von Bethsaida Inn Torm gesteckt zu Bethlehem Wanne wie werd je sihn so schlem<br>JACOFF. Ich wölle dem Richter seigen danck Das he üch wöl vier wochen lang Im Torme mocht han und maures leren Das möcht ich üch wol wünschen gern Und geb euch die je syt vormessen Nicht mehr den ytel speck zu essen Und kein brod / so werd je sehen wol Wie man an ihnen halten soll Die liebe Goth und Korn im Feld Davon sich Mensch und Viech erhelt Kenne ich ehn wol so darff hers wagen Freügt wenig darnach dz du mochst seign Du weirst ein Jöde / du issest kehn speck Hüerstu gesell / woltu zu drecke Machen die liebe Goth im Feld Engers werd die nocht för gestelt Und wyl he Römisch ehs / ein heid Ists ehm vorwahr solches weinig leid.<br>NABAL. Grusam veel heffstu der müggen Ick sitte jo so mehr in dem drögen Denn dat ick mick lethe beregnen Wo uns den pfleget tho begegnen Edder gar im Felde erfreern Ick kan de Burn wol süst verern Zho dem / und kehm yd glyck darhen Noch ein renck ick heb in mymn Sinn Geve ick dem Schötzer man ein blick So weth he bald van stück tho stück Dat he mick wedder schallos geuen"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LABAN. Vorwar Gesell ick segge dy euen Dat ick ock wol by Schapen Hebbe myn lengste tydt gelathen Und thobracht / överst solcke wort Uth Schapers possen nie gehört Lath stahn de Narrn / my willen gahn Doch segge mickt ock dat ickt vorstan Wie du so lichtlich scheppest dat Dat men dick moth tho freden lahn Wen mit eim blick du stickst vul tuck"
+          },
+          {
+            "typ": "kontext",
+            "text": "NABAL. Dat ys noch wol ein Meisterstück Myn Vader ein Erff Schepers war Van dem ick solck es gehört heb zwar Süs wüst ick so wenig daraff aß du Welcks ick dy wil ock seggen nu Wann du im Feld wilt hebben macht Tho höden allenthalven / nim in acht Deßglicken wedder Burn beholden recht Wann yemand eine klage vorbrecht Dat nemand dy wat anhebbn kan So laue dem Schötzer oder Amptman Dat du em 3. edder 4. stieg Schap Mit höden wilt under dem hupen Wenn dann thom Schötzer kamen werdn Unde dy anklagen de Buren Mustu den Amptman blycken an De deyt yd denn gar bald vorstan Dat syn Schaep ock drey schüldig syn Denn kan he de klag mancherley Düden / dreyhen unde gar affhelpen Dat men dy kan gar nichts anhebhn So moth Börger / Buwer ick dy seg Alse den van erer klage lathen af Efft glyck de Buwer thom land uth loey So bringet de Schötzer syn guth thohop Wol an veel deent / by ein hefft gunst Darvör helpt weder recht noch kunst"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LABAN. Süe schol ick nich van wunder segn Mick sprecken ock an in den regn De Schryuers dat ick scholde ehn Ein veerddel Schap in geheem Mit höden. Sölcks lathn by my blyven Lucas nich veel darvan schold schrynen Gwyßlick sprickt he mick weder an Schal syn bid syn gewehret schon Noch eins auerst moth ick dy fragn Nich allen den de Schap behagn Wat döeth man den en wol tho willn."
+          },
+          {
+            "typ": "kontext",
+            "text": "NABAL. Ein sahnkees mackt ock veel dings still Densülven dem Schötzer ind joppe steck Sö helpt he all dyn tück vordeckn Veel hebben ock wol tho Swynen lust Darümb dewyl du doch must süß Van der waddike de swyn holden wol Seg he ock etlike dartho doen schal Ydt kost dy nicht / geith aver de Herrn So wol im Sommer alß im Wintr Den Drösckers bring in hungers noth Gut keeß / bottr / wörst / thom morgenbrot So kehrn sie denn viel Korns in kaff Dat kanstu syn thosamden raff. De Swyn im kaff den fynden wol Glöve my / dat wol halffe mast syn schol. Des Sommers umb de mandel herumb Swyn / Schap leth gahn umb und umb."
+          },
+          {
+            "typ": "figurtext",
+            "text": "LABAN. Nu wolan ick segge dy eben Du my eine gude lehr heffst geven Darup icks nu wil wagen ock Up de Sath tho dryven sckerlick Drümb kom my willen lopen / An hen na unsem Hupen My willen överst erstlick lurn Efft ock vorhanden syn de Burn.<br>LABAN. Pyp yp de Sackpyp und se drück Und pyp darup ein Meisterstück"
+          },
+          {
+            "typ": "kontext",
+            "text": "NABAL. Die nehm ick up de Saat nicht mit Dat ys kenes rechten Schappers Sit. Edder lath doch se nicht hören tho Beth neen Schap up der saat mehr gah Ick stop noch wol tho de Schapschelln Up dat se nich so klingen hell Dat se de Buren hören schnel Und in dem Feld uns ubereiln."
+          },
+          {
+            "typ": "figurtext",
+            "text": "LABAN. Dryff fort yd ys itzund finster und trübicht Ick weet gwiß se hindt kommen nicht<br>LABAN. Heddestu deine Sackpype middde bracht So hedden de Schape upt pypent acht Unde bleuen syn bysamen Weydeden an hen in Gades Nahm Wowol se kennen unse stem So willen wy singen jümmer hen <i>Hie heben sie an zu singen.</i> Yd wolde ein Schaper weyden / juch / juch / weyde wol / so fern up gröner Heyden / das tyrletom / das tyrletom."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(2. Akt, 1. Szene)</b>"
+          }
+        ]
       },
 
       {
-        "typ": "figurtext",
-        "text": "Jacob.\nBillich ists das wir auch Gotte nun Für diese seine wolthat dancken thun Für seinen allerliebsten Sohn Der uns gesand aus Himmels thron.\nHie singen die Hirten fein andechtig mit gefaltenen henden auff den Knien / mit ihren Schafffstäcken liegend singens Thüringsch\nPuernatus in Bethlehem, Bethleh Unde gaudet Jerusalem Alle. Alle Alleluia.\nEnn Keind geburn zu Bethelheim zu Bethelheim Des frawet sich Jeruselheim / All. All. al. Hie lyt es jege dem krehpe lyn krehpelyn Ong enge ehs de Herrschafft syn allli. alli. allt.\nSyne Motter ehse die reine Mautt / reine Mautt. Die ohn en Mahn geburen heht Alli. Alli. Alliluia. Die Schleng ehn neche vergefften konge / vergefften könge He ehs woren unser fleisch ohne Söng / Alli. Alli. Alliluia. He ehs ons gor glych noche dem fleisch / noch dem fleisch Der Söngen noch ehs ons nech glich Alli. Alli. Alliluia. For soddene gnodenryche zyt / ryche zyt / Sy Gott gelobt en jwegkyt Alli. Alli. Alliluia."
+        "id": "ChristlichAction02",
+        "theaterstück": {
+          "titel": "Ein schön Christlich Action, Von der Geburt vnd Offenbarung vnsers HERRN vnd Heylandts Jhesu CHrist",
+          "zeit": "1595",
+          "druckort": "NN",
+          "auffuehrungshinweise": ""
+        },
+        "autor": {
+          "name": "Johann Cuno",
+          "herkunft": "Omd.",
+          "orte": ["Erfurt", "Calbe (Saale)"],
+          "lebensdaten": "1555–1598"
+        },
+        "figur": {
+          "name": "Nabal",
+          "rolle": "Hirte",
+          "beschreibung": "'böser verwogener Schafknecht, redet Sechsisch'; redet mit Laban (nd.), Jacob, David (thür.)"
+        },
+        "dialekt": {
+          "adaption": "Heteroadaption",
+          "dialekt_grossraum": "Nd."
+        },
+        "geokoordinaten": {
+          "herkunft_autor": {
+            "lat": 50.978056,
+            "lng": 11.029167
+          },
+          "herkunft_figur": { 
+            "lat": null,
+            "lng": null
+          }
+        },
+        "abschnitt": "[tbd]",
+        "original_link": "https://haab-digital.klassik-stiftung.de/viewer/image/1445495287/6/LOG_0002/?#",
+        "abschnitt_segmentiert": [
+          {
+            "typ": "figurtext",
+            "text": "<b>Actus secundi. Scena prima.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Jacob / David / zwene fromme Gottfürchtige schaffknechte reden Thürinsch / Laban und Nabal zwene verwogene böse Tropffen reden Sechsischs.</i><br>LABAN. Ey gy Gesellen / wat rad gy tho den saken Wu werd wy yde henförder maken De füdderung wert grusam kleen Und unse Järlinck werden schlim De Felder synd scher worden leer All uth gehödet hen und her Temlyck groth synd unse hopen Ick mein de Herrn schöllen anlopn So vele vehs dyt jahr ick nich In winterschlöge / ick bericht Nu forder wy uns deelen mothen Dat Saadtfelt ys vast gar befreten Van unsen schapen allthomal Hödt du na den bargen / ick wil im dack Ado füddering ynt Lückerfeld. Efftyr börgen und burn glyck nich gefelt Wat können se an uns begeren. Synd doch de Schape unsen Heren De schade in framen kamen deith<br>JOCOFF. Wultu sü thue / dahs ehs nich gut Dorffe wies doch (Gott sys gelobt (nech (das wir soln Der Leut ehr Korn verderb mer wolln Wy syn zu iem gelubten läng allhie Do es uns an weide gmängelt nie Wedder im Sommer / noch zu weinters zyt An graß / strüch / krommet / fotter halte Dieß Jahrs fotters gnogsam gewächsen eß Deß besten anis / das trocken inbracht es Werlich / off myn Seel / off myn Eyd Myne Schoff entlossen hahn bereit Sü schowe / so schön das sie Got bhüt Sol ich mech in gefahr geb / on dörfft es necht Han sieh doch werlich solche Ytter nun Els sollen sie off der stund Lammen thun Do sie doch kuhm über die helffte seynt."
+          },
+          {
+            "typ": "figurtext",
+            "text": "NABAL. Wat dusent Düffel lyt dick im Syn Dat du Börgern / Buren / wult im karn Vorsckonen yd ys doch all vorlarn Dann wenn se glyck veel Karn gewinen So supen se sick gar van Sinnen Und spälen tag und Nacht dartho Drümb moth men maken das se row Hebben / und mit freden schlapen Ick wil nu fort mit mynen Schapen Kampt mit ye gesellen. Yd ys nicht fern Schöllen se nicht einmal de weyd endern Wy willen de leng und quer auer de saec Wol achts wann glyck de Buerwerd quaet Ick segge vorwar de Dener wol Der Heren gunst hebben kan allmahl Und kan ock dat fo der syn sparn Dat men solckes kan bewaren Up den nawinter / Nu hör mehr Wy genetens so scher als unse Herrn So beholden wy wat vor de Bucht Dat ock wol vns belohnt de möye."
+          },
+          {
+            "typ": "kontext",
+            "text": "JACOFF. Ech wil nech met / es sol alhier An deser Weid genügen mier.<br>DAVID. Lieb Jocoff ichs auch met digen hehl On ob wy glich noch fingen behle Jene weid / mossen darnoch trieben Wohl ech doch leber hie blieben Keinen öber ahl nech schaden thuen Ech seig dahs / waß wiers denn nun Wenn wir uns wolden schadens fliesen On hetten dröber ein büse gewissen Was hetten wir denn danon gebrocht"
+          },
+          {
+            "typ": "figurtext",
+            "text": "NABAL. Ey wat schold ick ein gantze Nacht Myn Schap im feld herumb doen dryven Narren deith sölcke arbeid leeuen Schol ick se mich leeuer im drögsten feld Upm korn / sath maken / schnel und bold."
+          },
+          {
+            "typ": "kontext",
+            "text": "LABAN. Ich ock warlick des sinnes wehr So kemen de Schape yo desto ehr Vom stall und bucht / heden got gemack Und ick mick künde leggen ock In myn Hütten mick fry lagerde Und schleep dat de heyde wagede"
+          },
+          {
+            "typ": "figurtext",
+            "text": "NABAL. Ey wol hefft ock groth feils darn Wy wollen de beyde nich mit uns gan So willen wy doch fort dryven Und disse nacht bynander blyuen Ick segge dy / unse grothe Magd De heft my hüden thogesagt Dat se wolle tho my kamen hen Disse Nacht in de schlaphütte henin Da wöllen wy wat warmes kriegen Redlike wöllnn wy se bedregn Ja yck wil dick noch mehr sagen Wenn ick yd nör wolde wagen Ick wol ock de Meisterscke hebben macht Se schold tho my kamen auer Nacht Mag sölcke schalckheit överst nicht doen Am Meister / denn he ys sehr fraem Ick segge överst up mynen Eyd De Meisterscke wehr my stets bereit Besonder wann he offt lancksam kümpt tho Huß Und heffe gesopen ein guden Ruß."
+          },
+          {
+            "typ": "kontext",
+            "text": "JACOFF. Ey lieb Geselln / wolts besser lern. Wenn die Ecker ühwer eigen wiern Unn hets euch lassen werden suwr Wie offm Dorff wol manicher Buwer Thue moß / und in den meßiohrn Vehl mos von sym muhl ersporn Ech freug uch / ge Gesellen / Wenn je ehs möst bestellen Uhwr ecker mit grosser erbt Ein böser Bufe aber Kehm hehn / solchs woll verderbe Most he nicht für uhwren sichtigen augen sterbe Denckt nu wies möcht gefallen uch. Su gefelts einem angern auch.<br>DAVID. Ach wenn seh nohr bedechten Was die natur voer met sich brechte Do steht alles miteinanger was i woll: Das uch de Lüht thun soln Das sol je ehnen wedder thun Off myn Sehl / ich seigs ohn schuw Wörden se solckes bedencken fry Dat solcher mutwil sünge sy Wörden sies behle by sich fingen schlecht Dat deß allemetheinanger wyer unrecht."
+          },
+          {
+            "typ": "figurtext",
+            "text": "NABAL. Ey / Ey / wie hestig west doch juw Ick segge dat / yu hetten scher Unserm HEREN Gott disse tyt Vor yuwer grothen hillicheit Syne Böte gar affgefreten."
+          },
+          {
+            "typ": "kontext",
+            "text": "LABAN <i>ad Nabal.</i> Kum her wy willen uns ermein Wat schol man jedem seggen alls Ick wet’du syest ein Wagehalß Wat wil wy hier lange maken Nimb mit dynen grothen Schaperhaken Und dyne grote Plötze ock Up ein vorsorge seg ick noch Ick wil ock tho disser stunde Mit my nemen myne Hunde Und sonderliken den grißgram De ys gar böse wie ein Lam Ob uns thet jemand ansprecken De scholt wol redlich wedder reckn Wann de einen Burn darnedder rith Vor leed he in de Hasen sckit Und auer dat seg ick noch mehr Willn wy uns tapper stelln thor wehr."
+          },
+          {
+            "typ": "figurtext",
+            "text": "NABAL. Potz angst / wat han de Burn veel möckn Süe wat ys hier up mynem Röcken Underm Rock heb ick alda vorwahrt Eine gude scharpe Spitzbart Trotz seg uns einer ein krummes wort Met myner Parten drück ick fort Und werp se em in die Lenden nein Dat he de kutteln dregt in henden sein."
+          },
+          {
+            "typ": "kontext",
+            "text": "LABAN. Die vortzagten Memmer / die han Jümmer sorge / dat de Hemmel kan Nicht lenger stahn / he falle yn Ock noch ein spryckwort ys gemein Ein blöder Kerl / de gar vorzagt De boelt umb kene schöne Magd Ey yümmer frisck in tel gewagt Wer weth wer noch den andern yagt Kame my darauer in de hafft Werd doch wol wedder rath geschafft So anders denne wyllen unse Herrn Ihre Schap hebbn gehödet gern Se werden wol raden tho der saken Und uns des Thorms loß maken<br>DAVID. O das Handtwerck ehs behle zu lerrn Du derffst dich nicht beruffn auff Herrn För einen Schäffknecht zehn andere syn<br>JOCOFF. Gleubt mir / die Herrn itzt syn geschwing Wördet itze drober sihre geschlaun Su wörden hernach die Herren seign Sie hettens nicht geheissen uch.<br>DAVID. Ich kan auch wärlich gleuben nicht Das sölchs den Herrn gefallen söle Wenn eins das ander verderben wolt Herrn Schoff hehn / Herrn Schoff her Wenn das wol syn der Herrn begehr Dz man der Lüth ehr korn verderben wolt Leber seig mir wo von man geben solt Den Herrn ehre zintz / schos / dienst und rent.<br>LABAN. Pludre dat diek de Düffel schend Heffsiu denn nich gehöret dat ein Schepken heb ein gülden voet Wo yd frit / da mestet bald wedder<br>DAVID. Ich hehle wol / man mests off und nedder Das korn des Schoffe vorbessen hehn Do siht man nicht vehr ehren steyn<br>LABAN. Wille gy Narren nich / so blyuet hyer stan Kum her Nabal wy willen gahn<br>DAVID. Emmer hen / uff uwer ebenthümr Morgen so syn de Schaffknecht thüer Won wir beid hie verharrn Wenn wir morgen nuw zeitung erfarn Das der Rechter zu Bethania Die Schaffknecht von Bethsaida Inn Torm gesteckt zu Bethlehem Wanne wie werd je sihn so schlem<br>JACOFF. Ich wölle dem Richter seigen danck Das he üch wöl vier wochen lang Im Torme mocht han und maures leren Das möcht ich üch wol wünschen gern Und geb euch die je syt vormessen Nicht mehr den ytel speck zu essen Und kein brod / so werd je sehen wol Wie man an ihnen halten soll Die liebe Goth und Korn im Feld Davon sich Mensch und Viech erhelt Kenne ich ehn wol so darff hers wagen Freügt wenig darnach dz du mochst seign Du weirst ein Jöde / du issest kehn speck Hüerstu gesell / woltu zu drecke Machen die liebe Goth im Feld Engers werd die nocht för gestelt Und wyl he Römisch ehs / ein heid Ists ehm vorwahr solches weinig leid."
+          },
+          {
+            "typ": "figurtext",
+            "text": "NABAL. Grusam veel heffstu der müggen Ick sitte jo so mehr in dem drögen Denn dat ick mick lethe beregnen Wo uns den pfleget tho begegnen Edder gar im Felde erfreern Ick kan de Burn wol süst verern Zho dem / und kehm yd glyck darhen Noch ein renck ick heb in mymn Sinn Geve ick dem Schötzer man ein blick So weth he bald van stück tho stück Dat he mick wedder schallos geuen"
+          },
+          {
+            "typ": "kontext",
+            "text": "LABAN. Vorwar Gesell ick segge dy euen Dat ick ock wol by Schapen Hebbe myn lengste tydt gelathen Und thobracht / överst solcke wort Uth Schapers possen nie gehört Lath stahn de Narrn / my willen gahn Doch segge mickt ock dat ickt vorstan Wie du so lichtlich scheppest dat Dat men dick moth tho freden lahn Wen mit eim blick du stickst vul tuck"
+          },
+          {
+            "typ": "figurtext",
+            "text": "NABAL. Dat ys noch wol ein Meisterstück Myn Vader ein Erff Schepers war Van dem ick solck es gehört heb zwar Süs wüst ick so wenig daraff aß du Welcks ick dy wil ock seggen nu Wann du im Feld wilt hebben macht Tho höden allenthalven / nim in acht Deßglicken wedder Burn beholden recht Wann yemand eine klage vorbrecht Dat nemand dy wat anhebbn kan So laue dem Schötzer oder Amptman Dat du em 3. edder 4. stieg Schap Mit höden wilt under dem hupen Wenn dann thom Schötzer kamen werdn Unde dy anklagen de Buren Mustu den Amptman blycken an De deyt yd denn gar bald vorstan Dat syn Schaep ock drey schüldig syn Denn kan he de klag mancherley Düden / dreyhen unde gar affhelpen Dat men dy kan gar nichts anhebhn So moth Börger / Buwer ick dy seg Alse den van erer klage lathen af Efft glyck de Buwer thom land uth loey So bringet de Schötzer syn guth thohop Wol an veel deent / by ein hefft gunst Darvör helpt weder recht noch kunst"
+          },
+          {
+            "typ": "kontext",
+            "text": "LABAN. Süe schol ick nich van wunder segn Mick sprecken ock an in den regn De Schryuers dat ick scholde ehn Ein veerddel Schap in geheem Mit höden. Sölcks lathn by my blyven Lucas nich veel darvan schold schrynen Gwyßlick sprickt he mick weder an Schal syn bid syn gewehret schon Noch eins auerst moth ick dy fragn Nich allen den de Schap behagn Wat döeth man den en wol tho willn."
+          },
+          {
+            "typ": "figurtext",
+            "text": "NABAL. Ein sahnkees mackt ock veel dings still Densülven dem Schötzer ind joppe steck Sö helpt he all dyn tück vordeckn Veel hebben ock wol tho Swynen lust Darümb dewyl du doch must süß Van der waddike de swyn holden wol Seg he ock etlike dartho doen schal Ydt kost dy nicht / geith aver de Herrn So wol im Sommer alß im Wintr Den Drösckers bring in hungers noth Gut keeß / bottr / wörst / thom morgenbrot So kehrn sie denn viel Korns in kaff Dat kanstu syn thosamden raff. De Swyn im kaff den fynden wol Glöve my / dat wol halffe mast syn schol. Des Sommers umb de mandel herumb Swyn / Schap leth gahn umb und umb."
+          },
+          {
+            "typ": "kontext",
+            "text": "LABAN. Nu wolan ick segge dy eben Du my eine gude lehr heffst geven Darup icks nu wil wagen ock Up de Sath tho dryven sckerlick Drümb kom my willen lopen / An hen na unsem Hupen My willen överst erstlick lurn Efft ock vorhanden syn de Burn.<br>LABAN. Pyp yp de Sackpyp und se drück Und pyp darup ein Meisterstück"
+          },
+          {
+            "typ": "figurtext",
+            "text": "NABAL. Die nehm ick up de Saat nicht mit Dat ys kenes rechten Schappers Sit. Edder lath doch se nicht hören tho Beth neen Schap up der saat mehr gah Ick stop noch wol tho de Schapschelln Up dat se nich so klingen hell Dat se de Buren hören schnel Und in dem Feld uns ubereiln."
+          },
+          {
+            "typ": "kontext",
+            "text": "LABAN. Dryff fort yd ys itzund finster und trübicht Ick weet gwiß se hindt kommen nicht<br>LABAN. Heddestu deine Sackpype middde bracht So hedden de Schape upt pypent acht Unde bleuen syn bysamen Weydeden an hen in Gades Nahm Wowol se kennen unse stem So willen wy singen jümmer hen"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<i>Hie heben sie an zu singen.</i> Yd wolde ein Schaper weyden / juch / juch / weyde wol / so fern up gröner Heyden / das tyrletom / das tyrletom."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(2. Akt, 1. Szene)</b>"
+          }
+        ]
       },
-      {
-        "typ": "kontext",
-        "text": "David.\nEy Jocoff wie wonn noch eins singen "
-      },
-      {
-        "typ": "figurtext",
-        "text": "Jocoff.\nGott fahl man lob für allen dingen So geths daher inn Gottes Nahm.\nHier singem sie das ander lied Sie mögens auch wol einzel singen ein jeder sein lied allein / so ists verstentlicher.\nVon Hemmel kahm der Engel schor Erschein uns Herten offenbohr Sie seiten ons enn Kenigelyn zart Dahs lyt dorten inge der Krepen hart Zu Bethelheim inn Davids stadt Wie Micha das verkönniget hehe Es ehs der HErre Jisum Chrest Der uhwer aller Heyland ehs. Beß wihl kommendt du edeler gahst Den Gönger nech vorschmihet hest Onn kemst ins elenge hehr zu mihr Wie sahl echs emmer däncken dir. Der Sammet onne die syden dyn Dahs ehs grob hew onne wingelyn Daruff du Kännig su gruß onne rych Hehr pränst s wiers dyn hemmelrych Ach hertzenes liebes Jysulyn Mach dygen enn syn senfft bettelyn Zu ruwen immys Hertzen schryn Das ech wie nimmer vergessen dyn. Lob / ihr / sy Gott ingen hochsten thrön Der uns schenckt synen ennigen Sohn Deß frawen sech der Engel schohr Und sengen ons sötten nuwes Jahr.\nJacob und David geben Joseph und Marien die Hende / nehmen ihren absheid und spricht Jacob.\nBehüt euch Gott mein lieben Freund Mit ewrem hertzen lieben Kind Wir wollen wider zun Schaffen gehn."
-      },
-      {
-        "typ": "kontext",
-        "text": "Joseph.\nZicht hin / das euch nimmer leid gesche"
-      },
-      {
-        "typ": "figurtext",
-        "text": "(2. Akt, 2. Szene)"
-      }
-    ]
-  },
 
-  {
-    "id": "ChristlichAction04",
-    "theaterstück": {
-      "titel": "Ein schön Christlich Action, Von der Geburt vnd Offenbarung vnsers HERRN vnd Heylandts Jhesu CHrist",
-      "zeit": "1595",
-      "druckort": "NN",
-      "auffuehrungshinweise": ""
-    },
-    "autor": {
-      "name": "Johann Cuno",
-      "herkunft": "Omd.",
-      "orte": ["Erfurt", "Calbe (Saale)"],
-      "lebensdaten": "1555–1598"
-    },
-    "figur": {
-      "name": "David",
-      "rolle": "Hirte",
-      "beschreibung": "'frommer gottfürchtiger Schafknecht, redet Thüringisch', redet mit Laban, Nabal (ndt.), Jacob (thür.), spricht nicht immer Dialekt"
-    },
-    "dialekt": {
-      "adaption": "Autoadaption",
-      "dialekt_grossraum": "Omd."
-    },
-    "geokoordinaten": {
-      "herkunft_autor": {
-        "lat": 50.978056,
-        "lng": 11.029167
-      },
-      "herkunft_figur": { 
-        "lat": null,
-        "lng": null
-      }
-    },
-    "abschnitt": "Laban. Ey gy Gesellen / wat rad gy tho den saken Wu werd wy yde henförder maken De füdderung wert grusam kleen Und unse Järlinck werden schlim De Felder synd scher worden leer All uth gehödet hen und her Temlyck groth synd unse hopen Ick mein de Herrn schöllen anlopn So vele vehs dyt jahr ick nich In winterschlöge / ick bericht Nu forder wy uns deelen mothen Dat Saadtfelt ys vast gar befreten Van unsen schapen allthomal Hödt du na den bargen / ick wil im dack Ado füddering ynt Lückerfeld. Efftyr börgen und burn glyck nich gefelt Wat können se an uns begeren. Synd doch de Schape unsen Heren De schade in framen kamen deith Jocoff. Wultu sü thue / dahs ehs nich gut Dorffe wies doch (Gott sys gelobt (nech (das wir soln Der Leut ehr Korn verderb mer wolln Wy syn zu iem gelubten läng allhie Do es uns an weide gmängelt nie Wedder im Sommer / noch zu weinters zyt An graß / strüch / krommet / fotter halte Dieß Jahrs fotters gnogsam gewächsen eß Deß besten anis / das trocken inbracht es Werlich / off myn Seel / off myn Eyd Myne Schoff entlossen hahn bereit Sü schowe / so schön das sie Got bhüt Sol ich mech in gefahr geb / on dörfft es necht Han sieh doch werlich solche Ytter nun Els sollen sie off der stund Lammen thun Do sie doch kuhm über die helffte seynt. Nabal. Wat dusent Düffel lyt dick im Syn Dat du Börgern / Buren / wult im karn Vorsckonen yd ys doch all vorlarn Dann wenn se glyck veel Karn gewinen So supen se sick gar van Sinnen Und spälen tag und Nacht dartho Drümb moth men maken das se row Hebben / und mit freden schlapen Ick wil nu fort mit mynen Schapen Kampt mit ye gesellen. Yd ys nicht fern Schöllen se nicht einmal de weyd endern Wy willen de leng und quer auer de saec Wol achts wann glyck de Buerwerd quaet Ick segge vorwar de Dener wol Der Heren gunst hebben kan allmahl Und kan ock dat fo der syn sparn Dat men solckes kan bewaren Up den nawinter / Nu hör mehr Wy genetens so scher als unse Herrn So beholden wy wat vor de Bucht Dat ock wol vns belohnt de möye. Jacoff. Ech wil nech met / es sol alhier An deser Weid genügen mier. David. Lieb Jocoff ichs auch met digen hehl On ob wy glich noch fingen behle Jene weid / mossen darnoch trieben Wohl ech doch leber hie blieben Keinen öber ahl nech schaden thuen Ech seig dahs / waß wiers denn nun Wenn wir uns wolden schadens fliesen On hetten dröber ein büse gewissen Was hetten wir denn danon gebrocht Nabal. Ey wat schold ick ein gantze Nacht Myn Schap im feld herumb doen dryven Narren deith sölcke arbeid leeuen Schol ick se mich leeuer im drögsten feld Upm korn / sath maken / schnel und bold. Laban. Ich ock warlick des sinnes wehr So kemen de Schape yo desto ehr Vom stall und bucht / heden got gemack Und ick mick künde leggen ock In myn Hütten mick fry lagerde Und schleep dat de heyde wagede Nabal Ey wol hefft ock groth feils darn Wy wollen de beyde nich mit uns gan So willen wy doch fort dryven Und disse nacht bynander blyuen Ick segge dy / unse grothe Magd De heft my hüden thogesagt Dat se wolle tho my kamen hen Disse Nacht in de schlaphütte henin Da wöllen wy wat warmes kriegen Redlike wöllnn wy se bedregn Ja yck wil dick noch mehr sagen Wenn ick yd nör wolde wagen Ick wol ock de Meisterscke hebben macht Se schold tho my kamen auer Nacht Mag sölcke schalckheit överst nicht doen Am Meister / denn he ys sehr fraem Ick segge överst up mynen Eyd De Meisterscke wehr my stets bereit Besonder wann he offt lancksam kümpt tho Huß Und heffe gesopen ein guden Ruß. Jacoff. Ey lieb Geselln / wolts besser lern. Wenn die Ecker ühwer eigen wiern Unn hets euch lassen werden suwr Wie offm Dorff wol manicher Buwer Thue moß / und in den meßiohrn Vehl mos von sym muhl ersporn Ech freug uch / ge Gesellen / Wenn je ehs möst bestellen Uhwr ecker mit grosser erbt Ein böser Bufe aber Kehm hehn / solchs woll verderbe Most he nicht für uhwren sichtigen augen sterbe Denckt nu wies möcht gefallen uch. Su gefelts einem angern auch. David. Ach wenn seh nohr bedechten Was die natur voer met sich brechte Do steht alles miteinanger was i woll: Das uch de Lüht thun soln Das sol je ehnen wedder thun Off myn Sehl / ich seigs ohn schuw Wörden se solckes bedencken fry Dat solcher mutwil sünge sy Wörden sies behle by sich fingen schlecht Dat deß allemetheinanger wyer unrecht. Nabal. Ey / Ey / wie hestig west doch juw Ick segge dat / yu hetten scher Unserm HEREN Gott disse tyt Vor yuwer grothen hillicheit Syne Böte gar affgefreten. Laban ad Nabal. Kum her wy willen uns ermein Wat schol man jedem seggen alls Ick wet’du syest ein Wagehalß Wat wil wy hier lange maken Nimb mit dynen grothen Schaperhaken Und dyne grote Plötze ock Up ein vorsorge seg ick noch Ick wil ock tho disser stunde Mit my nemen myne Hunde Und sonderliken den grißgram De ys gar böse wie ein Lam Ob uns thet jemand ansprecken De scholt wol redlich wedder reckn Wann de einen Burn darnedder rith Vor leed he in de Hasen sckit Und auer dat seg ick noch mehr Willn wy uns tapper stelln thor wehr. Nabal Potz angst / wat han de Burn veel möckn Süe wat ys hier up mynem Röcken Underm Rock heb ick alda vorwahrt Eine gude scharpe Spitzbart Trotz seg uns einer ein krummes wort Met myner Parten drück ick fort Und werp se em in die Lenden nein Dat he de kutteln dregt in henden sein. Laban. Die vortzagten Memmer / die han Jümmer sorge / dat de Hemmel kan Nicht lenger stahn / he falle yn Ock noch ein spryckwort ys gemein Ein blöder Kerl / de gar vorzagt De boelt umb kene schöne Magd Ey yümmer frisck in tel gewagt Wer weth wer noch den andern yagt Kame my darauer in de hafft Werd doch wol wedder rath geschafft So anders denne wyllen unse Herrn Ihre Schap hebbn gehödet gern Se werden wol raden tho der saken Und uns des Thorms loß maken David. O das Handtwerck ehs behle zu lerrn Du derffst dich nicht beruffn auff Herrn För einen Schäffknecht zehn andere syn Jocoff. Gleubt mir / die Herrn itzt syn geschwing Wördet itze drober sihre geschlaun Su wörden hernach die Herren seign Sie hettens nicht geheissen uch. David. Ich kan auch wärlich gleuben nicht Das sölchs den Herrn gefallen söle Wenn eins das ander verderben wolt Herrn Schoff hehn / Herrn Schoff her Wenn das wol syn der Herrn begehr Dz man der Lüth ehr korn verderben wolt Leber seig mir wo von man geben solt Den Herrn ehre zintz / schos / dienst und rent. Laban. Pludre dat diek de Düffel schend Heffsiu denn nich gehöret dat ein Schepken heb ein gülden voet Wo yd frit / da mestet bald wedder David. Ich hehle wol / man mests off und nedder Das korn des Schoffe vorbessen hehn Do siht man nicht vehr ehren steyn Laban Wille gy Narren nich / so blyuet hyer stan Kum her Nabal wy willen gahn David. Emmer hen / uff uwer ebenthümr Morgen so syn de Schaffknecht thüer Won wir beid hie verharrn Wenn wir morgen nuw zeitung erfarn Das der Rechter zu Bethania Die Schaffknecht von Bethsaida Inn Torm gesteckt zu Bethlehem Wanne wie werd je sihn so schlem Jacoff. Ich wölle dem Richter seigen danck Das he üch wöl vier wochen lang Im Torme mocht han und maures leren Das möcht ich üch wol wünschen gern Und geb euch die je syt vormessen Nicht mehr den ytel speck zu essen Und kein brod / so werd je sehen wol Wie man an ihnen halten soll Die liebe Goth und Korn im Feld Davon sich Mensch und Viech erhelt Kenne ich ehn wol so darff hers wagen Freügt wenig darnach dz du mochst seign Du weirst ein Jöde / du issest kehn speck Hüerstu gesell / woltu zu drecke Machen die liebe Goth im Feld Engers werd die nocht för gestelt Und wyl he Römisch ehs / ein heid Ists ehm vorwahr solches weinig leid. Nabal. Grusam veel heffstu der müggen Ick sitte jo so mehr in dem drögen Denn dat ick mick lethe beregnen Wo uns den pfleget tho begegnen Edder gar im Felde erfreern Ick kan de Burn wol süst verern Zho dem / und kehm yd glyck darhen Noch ein renck ick heb in mymn Sinn Geve ick dem Schötzer man ein blick So weth he bald van stück tho stück Dat he mick wedder schallos geuen Laban. Vorwar Gesell ick segge dy euen Dat ick ock wol by Schapen Hebbe myn lengste tydt gelathen Und thobracht / överst solcke wort Uth Schapers possen nie gehört Lath stahn de Narrn / my willen gahn Doch segge mickt ock dat ickt vorstan Wie du so lichtlich scheppest dat Dat men dick moth tho freden lahn Wen mit eim blick du stickst vul tuck Nabal. Dat ys noch wol ein Meisterstück Myn Vader ein Erff Schepers war Van dem ick solck es gehört heb zwar Süs wüst ick so wenig daraff aß du Welcks ick dy wil ock seggen nu Wann du im Feld wilt hebben macht Tho höden allenthalven / nim in acht Deßglicken wedder Burn beholden recht Wann yemand eine klage vorbrecht Dat nemand dy wat anhebbn kan So laue dem Schötzer oder Amptman Dat du em 3. edder 4. stieg Schap Mit höden wilt under dem hupen Wenn dann thom Schötzer kamen werdn Unde dy anklagen de Buren Mustu den Amptman blycken an De deyt yd denn gar bald vorstan Dat syn Schaep ock drey schüldig syn Denn kan he de klag mancherley Düden / dreyhen unde gar affhelpen Dat men dy kan gar nichts anhebhn So moth Börger / Buwer ick dy seg Alse den van erer klage lathen af Efft glyck de Buwer thom land uth loey So bringet de Schötzer syn guth thohop Wol an veel deent / by ein hefft gunst Darvör helpt weder recht noch kunst Laban. Süe schol ick nich van wunder segn Mick sprecken ock an in den regn De Schryuers dat ick scholde ehn Ein veerddel Schap in geheem Mit höden. Sölcks lathn by my blyven Lucas nich veel darvan schold schrynen Gwyßlick sprickt he mick weder an Schal syn bid syn gewehret schon Noch eins auerst moth ick dy fragn Nich allen den de Schap behagn Wat döeth man den en wol tho willn. Nabal. Ein sahnkees mackt ock veel dings still Densülven dem Schötzer ind joppe steck Sö helpt he all dyn tück vordeckn Veel hebben ock wol tho Swynen lust Darümb dewyl du doch must süß Van der waddike de swyn holden wol Seg he ock etlike dartho doen schal Ydt kost dy nicht / geith aver de Herrn So wol im Sommer alß im Wintr Den Drösckers bring in hungers noth Gut keeß / bottr / wörst / thom morgenbrot So kehrn sie denn viel Korns in kaff Dat kanstu syn thosamden raff. De Swyn im kaff den fynden wol Glöve my / dat wol halffe mast syn schol. Des Sommers umb de mandel herumb Swyn / Schap leth gahn umb und umb. Laban. Nu wolan ick segge dy eben Du my eine gude lehr heffst geven Darup icks nu wil wagen ock Up de Sath tho dryven sckerlick Drümb kom my willen lopen / An hen na unsem Hupen My willen överst erstlick lurn Efft ock vorhanden syn de Burn. Laban. Pyp yp de Sackpyp und se drück Und pyp darup ein Meisterstück Nabal. Die nehm ick up de Saat nicht mit Dat ys kenes rechten Schappers Sit. Edder lath doch se nicht hören tho Beth neen Schap up der saat mehr gah Ick stop noch wol tho de Schapschelln Up dat se nich so klingen hell Dat se de Buren hören schnel Und in dem Feld uns ubereiln. Laban. Dryff fort yd ys itzund finster und trübicht Ick weet gwiß se hindt kommen nicht Laban. Heddestu deine Sackpype middde bracht So hedden de Schape upt pypent acht Unde bleuen syn bysamen Weydeden an hen in Gades Nahm Wowol se kennen unse stem So willen wy singen jümmer hen Hie heben sie an zu singen. Yd wolde ein Schaper weyden / juch / juch / weyde wol / so fern up gröner Heyden / das tyrletom / das tyrletom. (2. Akt, 1. Szene) [...] Jacob. Billich ists das wir auch Gotte nun Für diese seine wolthat dancken thun Für seinen allerliebsten Sohn Der uns gesand aus Himmels thron. Hie singen die Hirten fein andechtig mit gefaltenen henden auff den Knien / mit ihren Schafffstäcken liegend singens Thüringsch Puernatus in Bethlehem, Bethleh Unde gaudet Jerusalem Alle. Alle Alleluia. Enn Keind geburn zu Bethelheim zu Bethelheim Des frawet sich Jeruselheim / All. All. al. Hie lyt es jege dem krehpe lyn krehpelyn Ong enge ehs de Herrschafft syn allli. alli. allt. Syne Motter ehse die reine Mautt / reine Mautt. Die ohn en Mahn geburen heht Alli. Alli. Alliluia. Die Schleng ehn neche vergefften konge / vergefften könge He ehs woren unser fleisch ohne Söng / Alli. Alli. Alliluia. He ehs ons gor glych noche dem fleisch / noch dem fleisch Der Söngen noch ehs ons nech glich Alli. Alli. Alliluia. For soddene gnodenryche zyt / ryche zyt / Sy Gott gelobt en jwegkyt Alli. Alli. Alliluia. David. Ey Jocoff wie wonn noch eins singen Jocoff. Gott fahl man lob für allen dingen So geths daher inn Gottes Nahm. Hier singem sie das ander lied Sie mögens auch wol einzel singen ein jeder sein lied allein / so ists verstentlicher. Von Hemmel kahm der Engel schor Erschein uns Herten offenbohr Sie seiten ons enn Kenigelyn zart Dahs lyt dorten inge der Krepen hart Zu Bethelheim inn Davids stadt Wie Micha das verkönniget hehe Es ehs der HErre Jisum Chrest Der uhwer aller Heyland ehs. Beß wihl kommendt du edeler gahst Den Gönger nech vorschmihet hest Onn kemst ins elenge hehr zu mihr Wie sahl echs emmer däncken dir. Der Sammet onne die syden dyn Dahs ehs grob hew onne wingelyn Daruff du Kännig su gruß onne rych Hehr pränst s wiers dyn hemmelrych Ach hertzenes liebes Jysulyn Mach dygen enn syn senfft bettelyn Zu ruwen immys Hertzen schryn Das ech wie nimmer vergessen dyn. Lob / ihr / sy Gott ingen hochsten thrön Der uns schenckt synen ennigen Sohn Deß frawen sech der Engel schohr Und sengen ons sötten nuwes Jahr. Jacob und David geben Joseph und Marien die Hende / nehmen ihren absheid und spricht Jacob. Behüt euch Gott mein lieben Freund Mit ewrem hertzen lieben Kind Wir wollen wider zun Schaffen gehn. Joseph. Zicht hin / das euch nimmer leid gesche (2. Akt, 2. Szene)",
-    "original_link": "https://haab-digital.klassik-stiftung.de/viewer/image/1445495287/6/LOG_0002/?#",
-    "abschnitt_segmentiert": [
       {
-        "typ": "kontext",
-        "text": "Laban.\nEy gy Gesellen / wat rad gy tho den saken Wu werd wy yde henförder maken De füdderung wert grusam kleen Und unse Järlinck werden schlim De Felder synd scher worden leer All uth gehödet hen und her Temlyck groth synd unse hopen Ick mein de Herrn schöllen anlopn So vele vehs dyt jahr ick nich In winterschlöge / ick bericht Nu forder wy uns deelen mothen Dat Saadtfelt ys vast gar befreten Van unsen schapen allthomal Hödt du na den bargen / ick wil im dack Ado füddering ynt Lückerfeld. Efftyr börgen und burn glyck nich gefelt Wat können se an uns begeren. Synd doch de Schape unsen Heren De schade in framen kamen deith\nJocoff.\nWultu sü thue / dahs ehs nich gut Dorffe wies doch (Gott sys gelobt (nech (das wir soln Der Leut ehr Korn verderb mer wolln Wy syn zu iem gelubten läng allhie Do es uns an weide gmängelt nie Wedder im Sommer / noch zu weinters zyt An graß / strüch / krommet / fotter halte Dieß Jahrs fotters gnogsam gewächsen eß Deß besten anis / das trocken inbracht es Werlich / off myn Seel / off myn Eyd Myne Schoff entlossen hahn bereit Sü schowe / so schön das sie Got bhüt Sol ich mech in gefahr geb / on dörfft es necht Han sieh doch werlich solche Ytter nun Els sollen sie off der stund Lammen thun Do sie doch kuhm über die helffte seynt.\nNabal.\nWat dusent Düffel lyt dick im Syn Dat du Börgern / Buren / wult im karn Vorsckonen yd ys doch all vorlarn Dann wenn se glyck veel Karn gewinen So supen se sick gar van Sinnen Und spälen tag und Nacht dartho Drümb moth men maken das se row Hebben / und mit freden schlapen Ick wil nu fort mit mynen Schapen Kampt mit ye gesellen. Yd ys nicht fern Schöllen se nicht einmal de weyd endern Wy willen de leng und quer auer de saec Wol achts wann glyck de Buerwerd quaet Ick segge vorwar de Dener wol Der Heren gunst hebben kan allmahl Und kan ock dat fo der syn sparn Dat men solckes kan bewaren Up den nawinter / Nu hör mehr Wy genetens so scher als unse Herrn So beholden wy wat vor de Bucht Dat ock wol vns belohnt de möye.\nJacoff.\nEch wil nech met / es sol alhier An deser Weid genügen mier."
-      },
-      {
-        "typ": "figurtext",
-        "text": "David.\nLieb Jocoff ichs auch met digen hehl On ob wy glich noch fingen behle Jene weid / mossen darnoch trieben Wohl ech doch leber hie blieben Keinen öber ahl nech schaden thuen Ech seig dahs / waß wiers denn nun Wenn wir uns wolden schadens fliesen On hetten dröber ein büse gewissen Was hetten wir denn danon gebrocht"
-      },
-      {
-        "typ": "kontext",
-        "text": "Nabal.\nEy wat schold ick ein gantze Nacht Myn Schap im feld herumb doen dryven Narren deith sölcke arbeid leeuen Schol ick se mich leeuer im drögsten feld Upm korn / sath maken / schnel und bold.\nLaban.\nIch ock warlick des sinnes wehr So kemen de Schape yo desto ehr Vom stall und bucht / heden got gemack Und ick mick künde leggen ock In myn Hütten mick fry lagerde Und schleep dat de heyde wagede\nNabal\nEy wol hefft ock groth feils darn Wy wollen de beyde nich mit uns gan So willen wy doch fort dryven Und disse nacht bynander blyuen Ick segge dy / unse grothe Magd De heft my hüden thogesagt Dat se wolle tho my kamen hen Disse Nacht in de schlaphütte henin Da wöllen wy wat warmes kriegen Redlike wöllnn wy se bedregn Ja yck wil dick noch mehr sagen Wenn ick yd nör wolde wagen Ick wol ock de Meisterscke hebben macht Se schold tho my kamen auer Nacht Mag sölcke schalckheit överst nicht doen Am Meister / denn he ys sehr fraem Ick segge överst up mynen Eyd De Meisterscke wehr my stets bereit Besonder wann he offt lancksam kümpt tho Huß Und heffe gesopen ein guden Ruß.\nJacoff.\nEy lieb Geselln / wolts besser lern. Wenn die Ecker ühwer eigen wiern Unn hets euch lassen werden suwr Wie offm Dorff wol manicher Buwer Thue moß / und in den meßiohrn Vehl mos von sym muhl ersporn Ech freug uch / ge Gesellen / Wenn je ehs möst bestellen Uhwr ecker mit grosser erbt Ein böser Bufe aber Kehm hehn / solchs woll verderbe Most he nicht für uhwren sichtigen augen sterbe Denckt nu wies möcht gefallen uch. Su gefelts einem angern auch."
-      },
-      {
-        "typ": "figurtext",
-        "text": "David.\nAch wenn seh nohr bedechten Was die natur voer met sich brechte Do steht alles miteinanger was i woll: Das uch de Lüht thun soln Das sol je ehnen wedder thun Off myn Sehl / ich seigs ohn schuw Wörden se solckes bedencken fry Dat solcher mutwil sünge sy Wörden sies behle by sich fingen schlecht Dat deß allemetheinanger wyer unrecht."
-      },
-      {
-        "typ": "kontext",
-        "text": "Nabal.\nEy / Ey / wie hestig west doch juw Ick segge dat / yu hetten scher Unserm HEREN Gott disse tyt Vor yuwer grothen hillicheit Syne Böte gar affgefreten.\nLaban ad Nabal.\nKum her wy willen uns ermein Wat schol man jedem seggen alls Ick wet’du syest ein Wagehalß Wat wil wy hier lange maken Nimb mit dynen grothen Schaperhaken Und dyne grote Plötze ock Up ein vorsorge seg ick noch Ick wil ock tho disser stunde Mit my nemen myne Hunde Und sonderliken den grißgram De ys gar böse wie ein Lam Ob uns thet jemand ansprecken De scholt wol redlich wedder reckn Wann de einen Burn darnedder rith Vor leed he in de Hasen sckit Und auer dat seg ick noch mehr Willn wy uns tapper stelln thor wehr.\nNabal\nPotz angst / wat han de Burn veel möckn Süe wat ys hier up mynem Röcken Underm Rock heb ick alda vorwahrt Eine gude scharpe Spitzbart Trotz seg uns einer ein krummes wort Met myner Parten drück ick fort Und werp se em in die Lenden nein Dat he de kutteln dregt in henden sein.\nLaban.\nDie vortzagten Memmer / die han Jümmer sorge / dat de Hemmel kan Nicht lenger stahn / he falle yn Ock noch ein spryckwort ys gemein Ein blöder Kerl / de gar vorzagt De boelt umb kene schöne Magd Ey yümmer frisck in tel gewagt Wer weth wer noch den andern yagt Kame my darauer in de hafft Werd doch wol wedder rath geschafft So anders denne wyllen unse Herrn Ihre Schap hebbn gehödet gern Se werden wol raden tho der saken Und uns des Thorms loß maken"
-      },
-      {
-        "typ": "figurtext",
-        "text": "David.\nO das Handtwerck ehs behle zu lerrn Du derffst dich nicht beruffn auff Herrn För einen Schäffknecht zehn andere syn"
-      },
-      {
-        "typ": "kontext",
-        "text": "Jocoff.\nGleubt mir / die Herrn itzt syn geschwing Wördet itze drober sihre geschlaun Su wörden hernach die Herren seign Sie hettens nicht geheissen uch."
-      },
-      {
-        "typ": "figurtext",
-        "text": "David.\nIch kan auch wärlich gleuben nicht Das sölchs den Herrn gefallen söle Wenn eins das ander verderben wolt Herrn Schoff hehn / Herrn Schoff her Wenn das wol syn der Herrn begehr Dz man der Lüth ehr korn verderben wolt Leber seig mir wo von man geben solt Den Herrn ehre zintz / schos / dienst und rent."
-      },
-      {
-        "typ": "kontext",
-        "text": "Laban.\nPludre dat diek de Düffel schend Heffsiu denn nich gehöret dat ein Schepken heb ein gülden voet Wo yd frit / da mestet bald wedder"
-      },
-      {
-        "typ": "figurtext",
-        "text": "David.\nIch hehle wol / man mests off und nedder Das korn des Schoffe vorbessen hehn Do siht man nicht vehr ehren steyn"
-      },
-      {
-        "typ": "kontext",
-        "text": "Laban\nWille gy Narren nich / so blyuet hyer stan Kum her Nabal wy willen gahn"
-      },
-      {
-        "typ": "figurtext",
-        "text": "David.\nEmmer hen / uff uwer ebenthümr Morgen so syn de Schaffknecht thüer Won wir beid hie verharrn Wenn wir morgen nuw zeitung erfarn Das der Rechter zu Bethania Die Schaffknecht von Bethsaida Inn Torm gesteckt zu Bethlehem Wanne wie werd je sihn so schlem"
-      },
-      {
-        "typ": "kontext",
-        "text": "Jacoff.\nIch wölle dem Richter seigen danck Das he üch wöl vier wochen lang Im Torme mocht han und maures leren Das möcht ich üch wol wünschen gern Und geb euch die je syt vormessen Nicht mehr den ytel speck zu essen Und kein brod / so werd je sehen wol Wie man an ihnen halten soll Die liebe Goth und Korn im Feld Davon sich Mensch und Viech erhelt Kenne ich ehn wol so darff hers wagen Freügt wenig darnach dz du mochst seign Du weirst ein Jöde / du issest kehn speck Hüerstu gesell / woltu zu drecke Machen die liebe Goth im Feld Engers werd die nocht för gestelt Und wyl he Römisch ehs / ein heid Ists ehm vorwahr solches weinig leid.\nNabal.\nGrusam veel heffstu der müggen Ick sitte jo so mehr in dem drögen Denn dat ick mick lethe beregnen Wo uns den pfleget tho begegnen Edder gar im Felde erfreern Ick kan de Burn wol süst verern Zho dem / und kehm yd glyck darhen Noch ein renck ick heb in mymn Sinn Geve ick dem Schötzer man ein blick So weth he bald van stück tho stück Dat he mick wedder schallos geuen\nLaban.\nVorwar Gesell ick segge dy euen Dat ick ock wol by Schapen Hebbe myn lengste tydt gelathen Und thobracht / överst solcke wort Uth Schapers possen nie gehört Lath stahn de Narrn / my willen gahn Doch segge mickt ock dat ickt vorstan Wie du so lichtlich scheppest dat Dat men dick moth tho freden lahn Wen mit eim blick du stickst vul tuck\nNabal.\nDat ys noch wol ein Meisterstück Myn Vader ein Erff Schepers war Van dem ick solck es gehört heb zwar Süs wüst ick so wenig daraff aß du Welcks ick dy wil ock seggen nu Wann du im Feld wilt hebben macht Tho höden allenthalven / nim in acht Deßglicken wedder Burn beholden recht Wann yemand eine klage vorbrecht Dat nemand dy wat anhebbn kan So laue dem Schötzer oder Amptman Dat du em 3. edder 4. stieg Schap Mit höden wilt under dem hupen Wenn dann thom Schötzer kamen werdn Unde dy anklagen de Buren Mustu den Amptman blycken an De deyt yd denn gar bald vorstan Dat syn Schaep ock drey schüldig syn Denn kan he de klag mancherley Düden / dreyhen unde gar affhelpen Dat men dy kan gar nichts anhebhn So moth Börger / Buwer ick dy seg Alse den van erer klage lathen af Efft glyck de Buwer thom land uth loey So bringet de Schötzer syn guth thohop Wol an veel deent / by ein hefft gunst Darvör helpt weder recht noch kunst\nLaban.\nSüe schol ick nich van wunder segn Mick sprecken ock an in den regn De Schryuers dat ick scholde ehn Ein veerddel Schap in geheem Mit höden. Sölcks lathn by my blyven Lucas nich veel darvan schold schrynen Gwyßlick sprickt he mick weder an Schal syn bid syn gewehret schon Noch eins auerst moth ick dy fragn Nich allen den de Schap behagn Wat döeth man den en wol tho willn.\nNabal.\nEin sahnkees mackt ock veel dings still Densülven dem Schötzer ind joppe steck Sö helpt he all dyn tück vordeckn Veel hebben ock wol tho Swynen lust Darümb dewyl du doch must süß Van der waddike de swyn holden wol Seg he ock etlike dartho doen schal Ydt kost dy nicht / geith aver de Herrn So wol im Sommer alß im Wintr Den Drösckers bring in hungers noth Gut keeß / bottr / wörst / thom morgenbrot So kehrn sie denn viel Korns in kaff Dat kanstu syn thosamden raff. De Swyn im kaff den fynden wol Glöve my / dat wol halffe mast syn schol. Des Sommers umb de mandel herumb Swyn / Schap leth gahn umb und umb.\nLaban.\nNu wolan ick segge dy eben Du my eine gude lehr heffst geven Darup icks nu wil wagen ock Up de Sath tho dryven sckerlick Drümb kom my willen lopen / An hen na unsem Hupen My willen överst erstlick lurn Efft ock vorhanden syn de Burn.\nLaban.\nPyp yp de Sackpyp und se drück Und pyp darup ein Meisterstück\nNabal.\nDie nehm ick up de Saat nicht mit Dat ys kenes rechten Schappers Sit. Edder lath doch se nicht hören tho Beth neen Schap up der saat mehr gah Ick stop noch wol tho de Schapschelln Up dat se nich so klingen hell Dat se de Buren hören schnel Und in dem Feld uns ubereiln.\nLaban.\nDryff fort yd ys itzund finster und trübicht Ick weet gwiß se hindt kommen nicht\nLaban.\nHeddestu deine Sackpype middde bracht So hedden de Schape upt pypent acht Unde bleuen syn bysamen Weydeden an hen in Gades Nahm Wowol se kennen unse stem So willen wy singen jümmer hen\nHie heben sie an zu singen.\nYd wolde ein Schaper weyden / juch / juch / weyde wol / so fern up gröner Heyden / das tyrletom / das tyrletom."
-      },
-      {
-        "typ": "figurtext",
-        "text": "(2. Akt, 1. Szene)\n"
+        "id": "ChristlichAction03",
+        "theaterstück": {
+          "titel": "Ein schön Christlich Action, Von der Geburt vnd Offenbarung vnsers HERRN vnd Heylandts Jhesu CHrist",
+          "zeit": "1595",
+          "druckort": "NN",
+          "auffuehrungshinweise": ""
+        },
+        "autor": {
+          "name": "Johann Cuno",
+          "herkunft": "Omd.",
+          "orte": ["Erfurt", "Calbe (Saale)"],
+          "lebensdaten": "1555–1598"
+        },
+        "figur": {
+          "name": "Jacob",
+          "rolle": "Hirte",
+          "beschreibung": "'frommer gottfürchtiger Schafknecht, redet Thüringisch'; redet mit Laban, Nabal (nd.), David (thür.); spricht nicht immer Dialekt (übrige Redebeiträge fehlen hier)"
+        },
+        "dialekt": {
+          "adaption": "Autoadaption",
+          "dialekt_grossraum": "Omd."
+        },
+        "geokoordinaten": {
+          "herkunft_autor": {
+            "lat": 50.978056,
+            "lng": 11.029167
+          },
+          "herkunft_figur": { 
+            "lat": null,
+            "lng": null
+          }
+        },
+        "abschnitt": "[tbd]",
+        "original_link": "https://haab-digital.klassik-stiftung.de/viewer/image/1445495287/6/LOG_0002/?#",
+        "abschnitt_segmentiert": [
+          {
+            "typ": "figurtext",
+            "text": "<b>Actus secundi. Scena prima.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Jacob / David / zwene fromme Gottfürchtige schaffknechte reden Thürinsch / Laban und Nabal zwene verwogene böse Tropffen reden Sechsischs.</i><br>LABAN. Ey gy Gesellen / wat rad gy tho den saken Wu werd wy yde henförder maken De füdderung wert grusam kleen Und unse Järlinck werden schlim De Felder synd scher worden leer All uth gehödet hen und her Temlyck groth synd unse hopen Ick mein de Herrn schöllen anlopn So vele vehs dyt jahr ick nich In winterschlöge / ick bericht Nu forder wy uns deelen mothen Dat Saadtfelt ys vast gar befreten Van unsen schapen allthomal Hödt du na den bargen / ick wil im dack Ado füddering ynt Lückerfeld. Efftyr börgen und burn glyck nich gefelt Wat können se an uns begeren. Synd doch de Schape unsen Heren De schade in framen kamen deith"
+          },
+          {
+            "typ": "figurtext",
+            "text": "JOCOFF. Wultu sü thue / dahs ehs nich gut Dorffe wies doch (Gott sys gelobt (nech (das wir soln Der Leut ehr Korn verderb mer wolln Wy syn zu iem gelubten läng allhie Do es uns an weide gmängelt nie Wedder im Sommer / noch zu weinters zyt An graß / strüch / krommet / fotter halte Dieß Jahrs fotters gnogsam gewächsen eß Deß besten anis / das trocken inbracht es Werlich / off myn Seel / off myn Eyd Myne Schoff entlossen hahn bereit Sü schowe / so schön das sie Got bhüt Sol ich mech in gefahr geb / on dörfft es necht Han sieh doch werlich solche Ytter nun Els sollen sie off der stund Lammen thun Do sie doch kuhm über die helffte seynt."
+          },
+          {
+            "typ": "kontext",
+            "text": "NABAL. Wat dusent Düffel lyt dick im Syn Dat du Börgern / Buren / wult im karn Vorsckonen yd ys doch all vorlarn Dann wenn se glyck veel Karn gewinen So supen se sick gar van Sinnen Und spälen tag und Nacht dartho Drümb moth men maken das se row Hebben / und mit freden schlapen Ick wil nu fort mit mynen Schapen Kampt mit ye gesellen. Yd ys nicht fern Schöllen se nicht einmal de weyd endern Wy willen de leng und quer auer de saec Wol achts wann glyck de Buerwerd quaet Ick segge vorwar de Dener wol Der Heren gunst hebben kan allmahl Und kan ock dat fo der syn sparn Dat men solckes kan bewaren Up den nawinter / Nu hör mehr Wy genetens so scher als unse Herrn So beholden wy wat vor de Bucht Dat ock wol vns belohnt de möye."
+          },
+          {
+            "typ": "figurtext",
+            "text": "JACOFF. Ech wil nech met / es sol alhier An deser Weid genügen mier."
+          },
+          {
+            "typ": "kontext",
+            "text": "DAVID. Lieb Jocoff ichs auch met digen hehl On ob wy glich noch fingen behle Jene weid / mossen darnoch trieben Wohl ech doch leber hie blieben Keinen öber ahl nech schaden thuen Ech seig dahs / waß wiers denn nun Wenn wir uns wolden schadens fliesen On hetten dröber ein büse gewissen Was hetten wir denn danon gebrocht<br>NABAL. Ey wat schold ick ein gantze Nacht Myn Schap im feld herumb doen dryven Narren deith sölcke arbeid leeuen Schol ick se mich leeuer im drögsten feld Upm korn / sath maken / schnel und bold.<br>LABAN. Ich ock warlick des sinnes wehr So kemen de Schape yo desto ehr Vom stall und bucht / heden got gemack Und ick mick künde leggen ock In myn Hütten mick fry lagerde Und schleep dat de heyde wagede<br>NABAL Ey wol hefft ock groth feils darn Wy wollen de beyde nich mit uns gan So willen wy doch fort dryven Und disse nacht bynander blyuen Ick segge dy / unse grothe Magd De heft my hüden thogesagt Dat se wolle tho my kamen hen Disse Nacht in de schlaphütte henin Da wöllen wy wat warmes kriegen Redlike wöllnn wy se bedregn Ja yck wil dick noch mehr sagen Wenn ick yd nör wolde wagen Ick wol ock de Meisterscke hebben macht Se schold tho my kamen auer Nacht Mag sölcke schalckheit överst nicht doen Am Meister / denn he ys sehr fraem Ick segge överst up mynen Eyd De Meisterscke wehr my stets bereit Besonder wann he offt lancksam kümpt tho Huß Und heffe gesopen ein guden Ruß."
+          },
+          {
+            "typ": "figurtext",
+            "text": "JACOFF. Ey lieb Geselln / wolts besser lern. Wenn die Ecker ühwer eigen wiern Unn hets euch lassen werden suwr Wie offm Dorff wol manicher Buwer Thue moß / und in den meßiohrn Vehl mos von sym muhl ersporn Ech freug uch / ge Gesellen / Wenn je ehs möst bestellen Uhwr ecker mit grosser erbt Ein böser Bufe aber Kehm hehn / solchs woll verderbe Most he nicht für uhwren sichtigen augen sterbe Denckt nu wies möcht gefallen uch. Su gefelts einem angern auch."
+          },
+          {
+            "typ": "kontext",
+            "text": "DAVID. Ach wenn seh nohr bedechten Was die natur voer met sich brechte Do steht alles miteinanger was i woll: Das uch de Lüht thun soln Das sol je ehnen wedder thun Off myn Sehl / ich seigs ohn schuw Wörden se solckes bedencken fry Dat solcher mutwil sünge sy Wörden sies behle by sich fingen schlecht Dat deß allemetheinanger wyer unrecht.<br>NABAL. Ey / Ey / wie hestig west doch juw Ick segge dat / yu hetten scher Unserm HEREN Gott disse tyt Vor yuwer grothen hillicheit Syne Böte gar affgefreten.<br>LABAN <i>ad Nabal.</i> Kum her wy willen uns ermein Wat schol man jedem seggen alls Ick wet’du syest ein Wagehalß Wat wil wy hier lange maken Nimb mit dynen grothen Schaperhaken Und dyne grote Plötze ock Up ein vorsorge seg ick noch Ick wil ock tho disser stunde Mit my nemen myne Hunde Und sonderliken den grißgram De ys gar böse wie ein Lam Ob uns thet jemand ansprecken De scholt wol redlich wedder reckn Wann de einen Burn darnedder rith Vor leed he in de Hasen sckit Und auer dat seg ick noch mehr Willn wy uns tapper stelln thor wehr.<br>NABAL Potz angst / wat han de Burn veel möckn Süe wat ys hier up mynem Röcken Underm Rock heb ick alda vorwahrt Eine gude scharpe Spitzbart Trotz seg uns einer ein krummes wort Met myner Parten drück ick fort Und werp se em in die Lenden nein Dat he de kutteln dregt in henden sein.<br>LABAN. Die vortzagten Memmer / die han Jümmer sorge / dat de Hemmel kan Nicht lenger stahn / he falle yn Ock noch ein spryckwort ys gemein Ein blöder Kerl / de gar vorzagt De boelt umb kene schöne Magd Ey yümmer frisck in tel gewagt Wer weth wer noch den andern yagt Kame my darauer in de hafft Werd doch wol wedder rath geschafft So anders denne wyllen unse Herrn Ihre Schap hebbn gehödet gern Se werden wol raden tho der saken Und uns des Thorms loß maken<br>DAVID. O das Handtwerck ehs behle zu lerrn Du derffst dich nicht beruffn auff Herrn För einen Schäffknecht zehn andere syn"
+          },
+          {
+            "typ": "figurtext",
+            "text": "JOCOFF. Gleubt mir / die Herrn itzt syn geschwing Wördet itze drober sihre geschlaun Su wörden hernach die Herren seign Sie hettens nicht geheissen uch."
+          },
+          {
+            "typ": "kontext",
+            "text": "DAVID. Ich kan auch wärlich gleuben nicht Das sölchs den Herrn gefallen söle Wenn eins das ander verderben wolt Herrn Schoff hehn / Herrn Schoff her Wenn das wol syn der Herrn begehr Dz man der Lüth ehr korn verderben wolt Leber seig mir wo von man geben solt Den Herrn ehre zintz / schos / dienst und rent.<br>LABAN. Pludre dat diek de Düffel schend Heffsiu denn nich gehöret dat ein Schepken heb ein gülden voet Wo yd frit / da mestet bald wedder<br>DAVID. Ich hehle wol / man mests off und nedder Das korn des Schoffe vorbessen hehn Do siht man nicht vehr ehren steyn<br>LABAN Wille gy Narren nich / so blyuet hyer stan Kum her Nabal wy willen gahn<br>DAVID. Emmer hen / uff uwer ebenthümr Morgen so syn de Schaffknecht thüer Won wir beid hie verharrn Wenn wir morgen nuw zeitung erfarn Das der Rechter zu Bethania Die Schaffknecht von Bethsaida Inn Torm gesteckt zu Bethlehem Wanne wie werd je sihn so schlem"
+          },
+          {
+            "typ": "figurtext",
+            "text": "JACOFF. Ich wölle dem Richter seigen danck Das he üch wöl vier wochen lang Im Torme mocht han und maures leren Das möcht ich üch wol wünschen gern Und geb euch die je syt vormessen Nicht mehr den ytel speck zu essen Und kein brod / so werd je sehen wol Wie man an ihnen halten soll Die liebe Goth und Korn im Feld Davon sich Mensch und Viech erhelt Kenne ich ehn wol so darff hers wagen Freügt wenig darnach dz du mochst seign Du weirst ein Jöde / du issest kehn speck Hüerstu gesell / woltu zu drecke Machen die liebe Goth im Feld Engers werd die nocht för gestelt Und wyl he Römisch ehs / ein heid Ists ehm vorwahr solches weinig leid."
+          },
+          {
+            "typ": "kontext",
+            "text": "NABAL. Grusam veel heffstu der müggen Ick sitte jo so mehr in dem drögen Denn dat ick mick lethe beregnen Wo uns den pfleget tho begegnen Edder gar im Felde erfreern Ick kan de Burn wol süst verern Zho dem / und kehm yd glyck darhen Noch ein renck ick heb in mymn Sinn Geve ick dem Schötzer man ein blick So weth he bald van stück tho stück Dat he mick wedder schallos geuen<br>LABAN. Vorwar Gesell ick segge dy euen Dat ick ock wol by Schapen Hebbe myn lengste tydt gelathen Und thobracht / överst solcke wort Uth Schapers possen nie gehört Lath stahn de Narrn / my willen gahn Doch segge mickt ock dat ickt vorstan Wie du so lichtlich scheppest dat Dat men dick moth tho freden lahn Wen mit eim blick du stickst vul tuck<br>NABAL. Dat ys noch wol ein Meisterstück Myn Vader ein Erff Schepers war Van dem ick solck es gehört heb zwar Süs wüst ick so wenig daraff aß du Welcks ick dy wil ock seggen nu Wann du im Feld wilt hebben macht Tho höden allenthalven / nim in acht Deßglicken wedder Burn beholden recht Wann yemand eine klage vorbrecht Dat nemand dy wat anhebbn kan So laue dem Schötzer oder Amptman Dat du em 3. edder 4. stieg Schap Mit höden wilt under dem hupen Wenn dann thom Schötzer kamen werdn Unde dy anklagen de Buren Mustu den Amptman blycken an De deyt yd denn gar bald vorstan Dat syn Schaep ock drey schüldig syn Denn kan he de klag mancherley Düden / dreyhen unde gar affhelpen Dat men dy kan gar nichts anhebhn So moth Börger / Buwer ick dy seg Alse den van erer klage lathen af Efft glyck de Buwer thom land uth loey So bringet de Schötzer syn guth thohop Wol an veel deent / by ein hefft gunst Darvör helpt weder recht noch kunst<br>LABAN. Süe schol ick nich van wunder segn Mick sprecken ock an in den regn De Schryuers dat ick scholde ehn Ein veerddel Schap in geheem Mit höden. Sölcks lathn by my blyven Lucas nich veel darvan schold schrynen Gwyßlick sprickt he mick weder an Schal syn bid syn gewehret schon Noch eins auerst moth ick dy fragn Nich allen den de Schap behagn Wat döeth man den en wol tho willn.<br>NABAL. Ein sahnkees mackt ock veel dings still Densülven dem Schötzer ind joppe steck Sö helpt he all dyn tück vordeckn Veel hebben ock wol tho Swynen lust Darümb dewyl du doch must süß Van der waddike de swyn holden wol Seg he ock etlike dartho doen schal Ydt kost dy nicht / geith aver de Herrn So wol im Sommer alß im Wintr Den Drösckers bring in hungers noth Gut keeß / bottr / wörst / thom morgenbrot So kehrn sie denn viel Korns in kaff Dat kanstu syn thosamden raff. De Swyn im kaff den fynden wol Glöve my / dat wol halffe mast syn schol. Des Sommers umb de mandel herumb Swyn / Schap leth gahn umb und umb.<br>LABAN. Nu wolan ick segge dy eben Du my eine gude lehr heffst geven Darup icks nu wil wagen ock Up de Sath tho dryven sckerlick Drümb kom my willen lopen / An hen na unsem Hupen My willen överst erstlick lurn Efft ock vorhanden syn de Burn.<br>LABAN. Pyp yp de Sackpyp und se drück Und pyp darup ein Meisterstück<br>NABAL. Die nehm ick up de Saat nicht mit Dat ys kenes rechten Schappers Sit. Edder lath doch se nicht hören tho Beth neen Schap up der saat mehr gah Ick stop noch wol tho de Schapschelln Up dat se nich so klingen hell Dat se de Buren hören schnel Und in dem Feld uns ubereiln.<br>LABAN. Dryff fort yd ys itzund finster und trübicht Ick weet gwiß se hindt kommen nicht<br>LABAN. Heddestu deine Sackpype middde bracht So hedden de Schape upt pypent acht Unde bleuen syn bysamen Weydeden an hen in Gades Nahm Wowol se kennen unse stem So willen wy singen jümmer hen <i>Hie heben sie an zu singen.</i> Yd wolde ein Schaper weyden / juch / juch / weyde wol / so fern up gröner Heyden / das tyrletom / das tyrletom."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(2. Akt, 1. Szene)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Actus II. Scena III.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Jacob. David. Joseph. Maria. </i><br>[...]"
+          },
+          {
+            "typ": "figurtext",
+            "text": "JACOB. Billich ists das wir auch Gotte nun Für diese seine wolthat dancken thun Für seinen allerliebsten Sohn Der uns gesand aus Himmels thron. <i>Hie singen die Hirten fein andechtig mit gefaltenen henden auff den Knien / mit ihren Schafffstäcken liegend singens Thüringsch</i> Puernatus in Bethlehem, Bethleh Unde gaudet Jerusalem Alle. Alle Alleluia. Enn Keind geburn zu Bethelheim zu Bethelheim Des frawet sich Jeruselheim / All. All. al. Hie lyt es jege dem krehpe lyn krehpelyn Ong enge ehs de Herrschafft syn allli. alli. allt. Syne Motter ehse die reine Mautt / reine Mautt. Die ohn en Mahn geburen heht Alli. Alli. Alliluia. Die Schleng ehn neche vergefften konge / vergefften könge He ehs woren unser fleisch ohne Söng / Alli. Alli. Alliluia. He ehs ons gor glych noche dem fleisch / noch dem fleisch Der Söngen noch ehs ons nech glich Alli. Alli. Alliluia. For soddene gnodenryche zyt / ryche zyt / Sy Gott gelobt en jwegkyt Alli. Alli. Alliluia."
+          },
+          {
+            "typ": "kontext",
+            "text": "DAVID. Ey Jocoff wie wonn noch eins singen"
+          },
+          {
+            "typ": "figurtext",
+            "text": "JOCOFF. Gott fahl man lob für allen dingen So geths daher inn Gottes Nahm. <i>Hier singem sie das ander lied Sie mögens auch wol einzel singen ein jeder sein lied allein / so ists verstentlicher.</i> Von Hemmel kahm der Engel schor Erschein uns Herten offenbohr Sie seiten ons enn Kenigelyn zart Dahs lyt dorten inge der Krepen hart Zu Bethelheim inn Davids stadt Wie Micha das verkönniget hehe Es ehs der HErre Jisum Chrest Der uhwer aller Heyland ehs. Beß wihl kommendt du edeler gahst Den Gönger nech vorschmihet hest Onn kemst ins elenge hehr zu mihr Wie sahl echs emmer däncken dir. Der Sammet onne die syden dyn Dahs ehs grob hew onne wingelyn Daruff du Kännig su gruß onne rych Hehr pränst s wiers dyn hemmelrych Ach hertzenes liebes Jysulyn Mach dygen enn syn senfft bettelyn Zu ruwen immys Hertzen schryn Das ech wie nimmer vergessen dyn. Lob / ihr / sy Gott ingen hochsten thrön Der uns schenckt synen ennigen Sohn Deß frawen sech der Engel schohr Und sengen ons sötten nuwes Jahr.<br><i>Jacob und David geben Joseph und Marien die Hende / nehmen ihren absheid und spricht</i> JACOB. Behüt euch Gott mein lieben Freund Mit ewrem hertzen lieben Kind Wir wollen wider zun Schaffen gehn."
+          },
+          {
+            "typ": "kontext",
+            "text": "Joseph. Zicht hin / das euch nimmer leid gesche"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(2. Akt, 3. Szene)</b>"
+          }
+        ]
       },
 
       {
-        "typ": "kontext",
-        "text": "Jacob.\nBillich ists das wir auch Gotte nun Für diese seine wolthat dancken thun Für seinen allerliebsten Sohn Der uns gesand aus Himmels thron."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Hie singen die Hirten fein andechtig mit gefaltenen henden auff den Knien / mit ihren Schafffstäcken liegend singens Thüringsch\nPuernatus in Bethlehem, Bethleh Unde gaudet Jerusalem Alle. Alle Alleluia.\nEnn Keind geburn zu Bethelheim zu Bethelheim Des frawet sich Jeruselheim / All. All. al. Hie lyt es jege dem krehpe lyn krehpelyn Ong enge ehs de Herrschafft syn allli. alli. allt.\nSyne Motter ehse die reine Mautt / reine Mautt. Die ohn en Mahn geburen heht Alli. Alli. Alliluia. Die Schleng ehn neche vergefften konge / vergefften könge He ehs woren unser fleisch ohne Söng / Alli. Alli. Alliluia. He ehs ons gor glych noche dem fleisch / noch dem fleisch Der Söngen noch ehs ons nech glich Alli. Alli. Alliluia. For soddene gnodenryche zyt / ryche zyt / Sy Gott gelobt en jwegkyt Alli. Alli. Alliluia.\nDavid.\nEy Jocoff wie wonn noch eins singen "
-      },
-      {
-        "typ": "kontext",
-        "text": "Jocoff.\nGott fahl man lob für allen dingen So geths daher inn Gottes Nahm."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Hier singem sie das ander lied Sie mögens auch wol einzel singen ein jeder sein lied allein / so ists verstentlicher.\nVon Hemmel kahm der Engel schor Erschein uns Herten offenbohr Sie seiten ons enn Kenigelyn zart Dahs lyt dorten inge der Krepen hart Zu Bethelheim inn Davids stadt Wie Micha das verkönniget hehe Es ehs der HErre Jisum Chrest Der uhwer aller Heyland ehs. Beß wihl kommendt du edeler gahst Den Gönger nech vorschmihet hest Onn kemst ins elenge hehr zu mihr Wie sahl echs emmer däncken dir. Der Sammet onne die syden dyn Dahs ehs grob hew onne wingelyn Daruff du Kännig su gruß onne rych Hehr pränst s wiers dyn hemmelrych Ach hertzenes liebes Jysulyn Mach dygen enn syn senfft bettelyn Zu ruwen immys Hertzen schryn Das ech wie nimmer vergessen dyn. Lob / ihr / sy Gott ingen hochsten thrön Der uns schenckt synen ennigen Sohn Deß frawen sech der Engel schohr Und sengen ons sötten nuwes Jahr."
-      },
-      {
-        "typ": "kontext",
-        "text": "Jacob und David geben Joseph und Marien die Hende / nehmen ihren absheid und spricht Jacob.\nBehüt euch Gott mein lieben Freund Mit ewrem hertzen lieben Kind Wir wollen wider zun Schaffen gehn.\nJoseph.\nZicht hin / das euch nimmer leid gesche"
-      },
-      {
-        "typ": "figurtext",
-        "text": "(2. Akt, 2. Szene)"
+        "id": "ChristlichAction04",
+        "theaterstück": {
+          "titel": "Ein schön Christlich Action, Von der Geburt vnd Offenbarung vnsers HERRN vnd Heylandts Jhesu CHrist",
+          "zeit": "1595",
+          "druckort": "NN",
+          "auffuehrungshinweise": ""
+        },
+        "autor": {
+          "name": "Johann Cuno",
+          "herkunft": "Omd.",
+          "orte": ["Erfurt", "Calbe (Saale)"],
+          "lebensdaten": "1555–1598"
+        },
+        "figur": {
+          "name": "David",
+          "rolle": "Hirte",
+          "beschreibung": "'frommer gottfürchtiger Schafknecht, redet Thüringisch'; redet mit Laban, Nabal (nd.), Jacob (thür.); spricht nicht immer Dialekt (übrige Redebeiträge fehlen hier)"
+        },
+        "dialekt": {
+          "adaption": "Autoadaption",
+          "dialekt_grossraum": "Omd."
+        },
+        "geokoordinaten": {
+          "herkunft_autor": {
+            "lat": 50.978056,
+            "lng": 11.029167
+          },
+          "herkunft_figur": { 
+            "lat": null,
+            "lng": null
+          }
+        },
+        "abschnitt": "[tbd]",
+        "original_link": "https://haab-digital.klassik-stiftung.de/viewer/image/1445495287/6/LOG_0002/?#",
+        "abschnitt_segmentiert": [
+          {
+            "typ": "figurtext",
+            "text": "<b>Actus secundi. Scena prima.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Jacob / David / zwene fromme Gottfürchtige schaffknechte reden Thürinsch / Laban und Nabal zwene verwogene böse Tropffen reden Sechsischs.</i><br>LABAN. Ey gy Gesellen / wat rad gy tho den saken Wu werd wy yde henförder maken De füdderung wert grusam kleen Und unse Järlinck werden schlim De Felder synd scher worden leer All uth gehödet hen und her Temlyck groth synd unse hopen Ick mein de Herrn schöllen anlopn So vele vehs dyt jahr ick nich In winterschlöge / ick bericht Nu forder wy uns deelen mothen Dat Saadtfelt ys vast gar befreten Van unsen schapen allthomal Hödt du na den bargen / ick wil im dack Ado füddering ynt Lückerfeld. Efftyr börgen und burn glyck nich gefelt Wat können se an uns begeren. Synd doch de Schape unsen Heren De schade in framen kamen deith<br>JOCOFF. Wultu sü thue / dahs ehs nich gut Dorffe wies doch (Gott sys gelobt (nech (das wir soln Der Leut ehr Korn verderb mer wolln Wy syn zu iem gelubten läng allhie Do es uns an weide gmängelt nie Wedder im Sommer / noch zu weinters zyt An graß / strüch / krommet / fotter halte Dieß Jahrs fotters gnogsam gewächsen eß Deß besten anis / das trocken inbracht es Werlich / off myn Seel / off myn Eyd Myne Schoff entlossen hahn bereit Sü schowe / so schön das sie Got bhüt Sol ich mech in gefahr geb / on dörfft es necht Han sieh doch werlich solche Ytter nun Els sollen sie off der stund Lammen thun Do sie doch kuhm über die helffte seynt.<br>NABAL. Wat dusent Düffel lyt dick im Syn Dat du Börgern / Buren / wult im karn Vorsckonen yd ys doch all vorlarn Dann wenn se glyck veel Karn gewinen So supen se sick gar van Sinnen Und spälen tag und Nacht dartho Drümb moth men maken das se row Hebben / und mit freden schlapen Ick wil nu fort mit mynen Schapen Kampt mit ye gesellen. Yd ys nicht fern Schöllen se nicht einmal de weyd endern Wy willen de leng und quer auer de saec Wol achts wann glyck de Buerwerd quaet Ick segge vorwar de Dener wol Der Heren gunst hebben kan allmahl Und kan ock dat fo der syn sparn Dat men solckes kan bewaren Up den nawinter / Nu hör mehr Wy genetens so scher als unse Herrn So beholden wy wat vor de Bucht Dat ock wol vns belohnt de möye.<br>JACOFF. Ech wil nech met / es sol alhier An deser Weid genügen mier."
+          },
+          {
+            "typ": "figurtext",
+            "text": "DAVID. Lieb Jocoff ichs auch met digen hehl On ob wy glich noch fingen behle Jene weid / mossen darnoch trieben Wohl ech doch leber hie blieben Keinen öber ahl nech schaden thuen Ech seig dahs / waß wiers denn nun Wenn wir uns wolden schadens fliesen On hetten dröber ein büse gewissen Was hetten wir denn danon gebrocht"
+          },
+          {
+            "typ": "kontext",
+            "text": "NABAL. Ey wat schold ick ein gantze Nacht Myn Schap im feld herumb doen dryven Narren deith sölcke arbeid leeuen Schol ick se mich leeuer im drögsten feld Upm korn / sath maken / schnel und bold.<br>LABAN. Ich ock warlick des sinnes wehr So kemen de Schape yo desto ehr Vom stall und bucht / heden got gemack Und ick mick künde leggen ock In myn Hütten mick fry lagerde Und schleep dat de heyde wagede<br>NABAL Ey wol hefft ock groth feils darn Wy wollen de beyde nich mit uns gan So willen wy doch fort dryven Und disse nacht bynander blyuen Ick segge dy / unse grothe Magd De heft my hüden thogesagt Dat se wolle tho my kamen hen Disse Nacht in de schlaphütte henin Da wöllen wy wat warmes kriegen Redlike wöllnn wy se bedregn Ja yck wil dick noch mehr sagen Wenn ick yd nör wolde wagen Ick wol ock de Meisterscke hebben macht Se schold tho my kamen auer Nacht Mag sölcke schalckheit överst nicht doen Am Meister / denn he ys sehr fraem Ick segge överst up mynen Eyd De Meisterscke wehr my stets bereit Besonder wann he offt lancksam kümpt tho Huß Und heffe gesopen ein guden Ruß.<br>JACOFF. Ey lieb Geselln / wolts besser lern. Wenn die Ecker ühwer eigen wiern Unn hets euch lassen werden suwr Wie offm Dorff wol manicher Buwer Thue moß / und in den meßiohrn Vehl mos von sym muhl ersporn Ech freug uch / ge Gesellen / Wenn je ehs möst bestellen Uhwr ecker mit grosser erbt Ein böser Bufe aber Kehm hehn / solchs woll verderbe Most he nicht für uhwren sichtigen augen sterbe Denckt nu wies möcht gefallen uch. Su gefelts einem angern auch."
+          },
+          {
+            "typ": "figurtext",
+            "text": "DAVID. Ach wenn seh nohr bedechten Was die natur voer met sich brechte Do steht alles miteinanger was i woll: Das uch de Lüht thun soln Das sol je ehnen wedder thun Off myn Sehl / ich seigs ohn schuw Wörden se solckes bedencken fry Dat solcher mutwil sünge sy Wörden sies behle by sich fingen schlecht Dat deß allemetheinanger wyer unrecht."
+          },
+          {
+            "typ": "kontext",
+            "text": "NABAL. Ey / Ey / wie hestig west doch juw Ick segge dat / yu hetten scher Unserm HEREN Gott disse tyt Vor yuwer grothen hillicheit Syne Böte gar affgefreten.<br>LABAN <i>ad Nabal.</i> Kum her wy willen uns ermein Wat schol man jedem seggen alls Ick wet’du syest ein Wagehalß Wat wil wy hier lange maken Nimb mit dynen grothen Schaperhaken Und dyne grote Plötze ock Up ein vorsorge seg ick noch Ick wil ock tho disser stunde Mit my nemen myne Hunde Und sonderliken den grißgram De ys gar böse wie ein Lam Ob uns thet jemand ansprecken De scholt wol redlich wedder reckn Wann de einen Burn darnedder rith Vor leed he in de Hasen sckit Und auer dat seg ick noch mehr Willn wy uns tapper stelln thor wehr.<br>NABAL. Potz angst / wat han de Burn veel möckn Süe wat ys hier up mynem Röcken Underm Rock heb ick alda vorwahrt Eine gude scharpe Spitzbart Trotz seg uns einer ein krummes wort Met myner Parten drück ick fort Und werp se em in die Lenden nein Dat he de kutteln dregt in henden sein.<br>LABAN. Die vortzagten Memmer / die han Jümmer sorge / dat de Hemmel kan Nicht lenger stahn / he falle yn Ock noch ein spryckwort ys gemein Ein blöder Kerl / de gar vorzagt De boelt umb kene schöne Magd Ey yümmer frisck in tel gewagt Wer weth wer noch den andern yagt Kame my darauer in de hafft Werd doch wol wedder rath geschafft So anders denne wyllen unse Herrn Ihre Schap hebbn gehödet gern Se werden wol raden tho der saken Und uns des Thorms loß maken"
+          },
+          {
+            "typ": "figurtext",
+            "text": "DAVID. O das Handtwerck ehs behle zu lerrn Du derffst dich nicht beruffn auff Herrn För einen Schäffknecht zehn andere syn"
+          },
+          {
+            "typ": "kontext",
+            "text": "JOCOFF. Gleubt mir / die Herrn itzt syn geschwing Wördet itze drober sihre geschlaun Su wörden hernach die Herren seign Sie hettens nicht geheissen uch."
+          },
+          {
+            "typ": "figurtext",
+            "text": "DAVID. Ich kan auch wärlich gleuben nicht Das sölchs den Herrn gefallen söle Wenn eins das ander verderben wolt Herrn Schoff hehn / Herrn Schoff her Wenn das wol syn der Herrn begehr Dz man der Lüth ehr korn verderben wolt Leber seig mir wo von man geben solt Den Herrn ehre zintz / schos / dienst und rent."
+          },
+          {
+            "typ": "kontext",
+            "text": "LABAN. Pludre dat diek de Düffel schend Heffsiu denn nich gehöret dat ein Schepken heb ein gülden voet Wo yd frit / da mestet bald wedder"
+          },
+          {
+            "typ": "figurtext",
+            "text": "DAVID. Ich hehle wol / man mests off und nedder Das korn des Schoffe vorbessen hehn Do siht man nicht vehr ehren steyn"
+          },
+          {
+            "typ": "kontext",
+            "text": "LABAN Wille gy Narren nich / so blyuet hyer stan Kum her Nabal wy willen gahn"
+          },
+          {
+            "typ": "figurtext",
+            "text": "DAVID. Emmer hen / uff uwer ebenthümr Morgen so syn de Schaffknecht thüer Won wir beid hie verharrn Wenn wir morgen nuw zeitung erfarn Das der Rechter zu Bethania Die Schaffknecht von Bethsaida Inn Torm gesteckt zu Bethlehem Wanne wie werd je sihn so schlem"
+          },
+          {
+            "typ": "kontext",
+            "text": "JACOFF. Ich wölle dem Richter seigen danck Das he üch wöl vier wochen lang Im Torme mocht han und maures leren Das möcht ich üch wol wünschen gern Und geb euch die je syt vormessen Nicht mehr den ytel speck zu essen Und kein brod / so werd je sehen wol Wie man an ihnen halten soll Die liebe Goth und Korn im Feld Davon sich Mensch und Viech erhelt Kenne ich ehn wol so darff hers wagen Freügt wenig darnach dz du mochst seign Du weirst ein Jöde / du issest kehn speck Hüerstu gesell / woltu zu drecke Machen die liebe Goth im Feld Engers werd die nocht för gestelt Und wyl he Römisch ehs / ein heid Ists ehm vorwahr solches weinig leid.<br>NABAL. Grusam veel heffstu der müggen Ick sitte jo so mehr in dem drögen Denn dat ick mick lethe beregnen Wo uns den pfleget tho begegnen Edder gar im Felde erfreern Ick kan de Burn wol süst verern Zho dem / und kehm yd glyck darhen Noch ein renck ick heb in mymn Sinn Geve ick dem Schötzer man ein blick So weth he bald van stück tho stück Dat he mick wedder schallos geuen<br>LABAN. Vorwar Gesell ick segge dy euen Dat ick ock wol by Schapen Hebbe myn lengste tydt gelathen Und thobracht / överst solcke wort Uth Schapers possen nie gehört Lath stahn de Narrn / my willen gahn Doch segge mickt ock dat ickt vorstan Wie du so lichtlich scheppest dat Dat men dick moth tho freden lahn Wen mit eim blick du stickst vul tuck<br>NABAL. Dat ys noch wol ein Meisterstück Myn Vader ein Erff Schepers war Van dem ick solck es gehört heb zwar Süs wüst ick so wenig daraff aß du Welcks ick dy wil ock seggen nu Wann du im Feld wilt hebben macht Tho höden allenthalven / nim in acht Deßglicken wedder Burn beholden recht Wann yemand eine klage vorbrecht Dat nemand dy wat anhebbn kan So laue dem Schötzer oder Amptman Dat du em 3. edder 4. stieg Schap Mit höden wilt under dem hupen Wenn dann thom Schötzer kamen werdn Unde dy anklagen de Buren Mustu den Amptman blycken an De deyt yd denn gar bald vorstan Dat syn Schaep ock drey schüldig syn Denn kan he de klag mancherley Düden / dreyhen unde gar affhelpen Dat men dy kan gar nichts anhebhn So moth Börger / Buwer ick dy seg Alse den van erer klage lathen af Efft glyck de Buwer thom land uth loey So bringet de Schötzer syn guth thohop Wol an veel deent / by ein hefft gunst Darvör helpt weder recht noch kunst<br>LABAN. Süe schol ick nich van wunder segn Mick sprecken ock an in den regn De Schryuers dat ick scholde ehn Ein veerddel Schap in geheem Mit höden. Sölcks lathn by my blyven Lucas nich veel darvan schold schrynen Gwyßlick sprickt he mick weder an Schal syn bid syn gewehret schon Noch eins auerst moth ick dy fragn Nich allen den de Schap behagn Wat döeth man den en wol tho willn.<br>NABAL. Ein sahnkees mackt ock veel dings still Densülven dem Schötzer ind joppe steck Sö helpt he all dyn tück vordeckn Veel hebben ock wol tho Swynen lust Darümb dewyl du doch must süß Van der waddike de swyn holden wol Seg he ock etlike dartho doen schal Ydt kost dy nicht / geith aver de Herrn So wol im Sommer alß im Wintr Den Drösckers bring in hungers noth Gut keeß / bottr / wörst / thom morgenbrot So kehrn sie denn viel Korns in kaff Dat kanstu syn thosamden raff. De Swyn im kaff den fynden wol Glöve my / dat wol halffe mast syn schol. Des Sommers umb de mandel herumb Swyn / Schap leth gahn umb und umb.<br>LABAN. Nu wolan ick segge dy eben Du my eine gude lehr heffst geven Darup icks nu wil wagen ock Up de Sath tho dryven sckerlick Drümb kom my willen lopen / An hen na unsem Hupen My willen överst erstlick lurn Efft ock vorhanden syn de Burn.<br>LABAN. Pyp yp de Sackpyp und se drück Und pyp darup ein Meisterstück<br>NABAL. Die nehm ick up de Saat nicht mit Dat ys kenes rechten Schappers Sit. Edder lath doch se nicht hören tho Beth neen Schap up der saat mehr gah Ick stop noch wol tho de Schapschelln Up dat se nich so klingen hell Dat se de Buren hören schnel Und in dem Feld uns ubereiln.<br>LABAN. Dryff fort yd ys itzund finster und trübicht Ick weet gwiß se hindt kommen nicht<br>LABAN. Heddestu deine Sackpype middde bracht So hedden de Schape upt pypent acht Unde bleuen syn bysamen Weydeden an hen in Gades Nahm Wowol se kennen unse stem So willen wy singen jümmer hen <i>Hie heben sie an zu singen.</i> Yd wolde ein Schaper weyden / juch / juch / weyde wol / so fern up gröner Heyden / das tyrletom / das tyrletom."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(2. Akt, 1. Szene)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Actus II. Scena III.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Jacob. David. Joseph. Maria. </i><br>[...]<br>JACOB. Billich ists das wir auch Gotte nun Für diese seine wolthat dancken thun Für seinen allerliebsten Sohn Der uns gesand aus Himmels thron."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<i>Hie singen die Hirten fein andechtig mit gefaltenen henden auff den Knien / mit ihren Schafffstäcken liegend singens Thüringsch</i> Puernatus in Bethlehem, Bethleh Unde gaudet Jerusalem Alle. Alle Alleluia. Enn Keind geburn zu Bethelheim zu Bethelheim Des frawet sich Jeruselheim / All. All. al. Hie lyt es jege dem krehpe lyn krehpelyn Ong enge ehs de Herrschafft syn allli. alli. allt. Syne Motter ehse die reine Mautt / reine Mautt. Die ohn en Mahn geburen heht Alli. Alli. Alliluia. Die Schleng ehn neche vergefften konge / vergefften könge He ehs woren unser fleisch ohne Söng / Alli. Alli. Alliluia. He ehs ons gor glych noche dem fleisch / noch dem fleisch Der Söngen noch ehs ons nech glich Alli. Alli. Alliluia. For soddene gnodenryche zyt / ryche zyt / Sy Gott gelobt en jwegkyt Alli. Alli. Alliluia.<br>DAVID. Ey Jocoff wie wonn noch eins singen "
+          },
+          {
+            "typ": "kontext",
+            "text": "JOCOFF. Gott fahl man lob für allen dingen So geths daher inn Gottes Nahm."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<i>Hier singem sie das ander lied Sie mögens auch wol einzel singen ein jeder sein lied allein / so ists verstentlicher.</i> Von Hemmel kahm der Engel schor Erschein uns Herten offenbohr Sie seiten ons enn Kenigelyn zart Dahs lyt dorten inge der Krepen hart Zu Bethelheim inn Davids stadt Wie Micha das verkönniget hehe Es ehs der HErre Jisum Chrest Der uhwer aller Heyland ehs. Beß wihl kommendt du edeler gahst Den Gönger nech vorschmihet hest Onn kemst ins elenge hehr zu mihr Wie sahl echs emmer däncken dir. Der Sammet onne die syden dyn Dahs ehs grob hew onne wingelyn Daruff du Kännig su gruß onne rych Hehr pränst s wiers dyn hemmelrych Ach hertzenes liebes Jysulyn Mach dygen enn syn senfft bettelyn Zu ruwen immys Hertzen schryn Das ech wie nimmer vergessen dyn. Lob / ihr / sy Gott ingen hochsten thrön Der uns schenckt synen ennigen Sohn Deß frawen sech der Engel schohr Und sengen ons sötten nuwes Jahr."
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Jacob und David geben Joseph und Marien die Hende / nehmen ihren absheid und spricht</i> JACOB. Behüt euch Gott mein lieben Freund Mit ewrem hertzen lieben Kind Wir wollen wider zun Schaffen gehn.<br>JOSEPH. Zicht hin / das euch nimmer leid gesche"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(2. Akt, 3. Szene)</b>"
+          }
+        ]
       }
-    ]
-  }
 
 ]
